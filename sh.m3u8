@@ -1,4 +1,4 @@
 #EXTM3U generation-date="2025.10.23 01:46:27 MSK" url-tvg="https://epg.team/3.1.xml.gz"
 #EXTINF:0 tvg-id="ch008" tvg-name="Киносемья HD" tvg-logo="http://team.ga/images/chIcons/8.png" tvg-rec="6", Киносемья HD
 #EXTGRP:1. Movies/Кино
-http://ru2.team.ga:80/ch008/index.m3u8?token=1
+http://ru2.team.ga:80/ch008/index.m3u
