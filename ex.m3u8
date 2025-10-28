@@ -1,0 +1,206 @@
+#EXTM3U x-tvg-url="https://example.com/epg.xml" url-tvg="http://www.teleguide.info/download/new3/tvguide.xml"
+#EXTM3U url-tvg="http://programtv.ru/xmltv.xml"
+
+###############################################################################
+#                               ОБЩЕРОССИЙСКИЕ КАНАЛЫ                        #
+###############################################################################
+
+#EXTINF:-1 tvg-id="1tv.ru" tvg-name="Первый канал" tvg-logo="https://example.com/logos/1tv.png" group-title="Общероссийские",Первый канал
+http://example.com/stream/1tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="russia1.ru" tvg-name="Россия 1" tvg-logo="https://example.com/logos/russia1.png" group-title="Общероссийские",Россия 1
+http://example.com/stream/russia1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="matchtv.ru" tvg-name="Матч ТВ" tvg-logo="https://example.com/logos/matchtv.png" group-title="Общероссийские",Матч ТВ
+http://example.com/stream/matchtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ntv.ru" tvg-name="НТВ" tvg-logo="https://example.com/logos/ntv.png" group-title="Общероссийские",НТВ
+http://example.com/stream/ntv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="5channel.ru" tvg-name="Пятый канал" tvg-logo="https://example.com/logos/5channel.png" group-title="Общероссийские",Пятый канал
+http://example.com/stream/5channel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="kultura.ru" tvg-name="Россия К" tvg-logo="https://example.com/logos/kultura.png" group-title="Общероссийские",Россия К
+http://example.com/stream/kultura/playlist.m3u8
+
+#EXTINF:-1 tvg-id="russia24.ru" tvg-name="Россия 24" tvg-logo="https://example.com/logos/russia24.png" group-title="Общероссийские",Россия 24
+http://example.com/stream/russia24/playlist.m3u8
+
+#EXTINF:-1 tvg-id="carousel.ru" tvg-name="Карусель" tvg-logo="https://example.com/logos/carousel.png" group-title="Общероссийские",Карусель
+http://example.com/stream/carousel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="otr.ru" tvg-name="ОТР" tvg-logo="https://example.com/logos/otr.png" group-title="Общероссийские",ОТР
+http://example.com/stream/otr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tvc.ru" tvg-name="ТВ Центр" tvg-logo="https://example.com/logos/tvc.png" group-title="Общероссийские",ТВ Центр
+http://example.com/stream/tvc/playlist.m3u8
+
+###############################################################################
+#                               РАЗВЛЕЧЕНИЯ                                  #
+###############################################################################
+
+#EXTINF:-1 tvg-id="tnt.ru" tvg-name="ТНТ" tvg-logo="https://example.com/logos/tnt.png" group-title="Развлечения",ТНТ
+http://example.com/stream/tnt/playlist.m3u8
+
+#EXTINF:-1 tvg-id="sts.ru" tvg-name="СТС" tvg-logo="https://example.com/logos/sts.png" group-title="Развлечения",СТС
+http://example.com/stream/sts/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tv3.ru" tvg-name="ТВ-3" tvg-logo="https://example.com/logos/tv3.png" group-title="Развлечения",ТВ-3
+http://example.com/stream/tv3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="chetv.ru" tvg-name="Че" tvg-logo="https://example.com/logos/chetv.png" group-title="Развлечения",Че
+http://example.com/stream/chetv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ren.tv" tvg-name="РЕН ТВ" tvg-logo="https://example.com/logos/rentv.png" group-title="Развлечения",РЕН ТВ
+http://example.com/stream/rentv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="pyatnica.ru" tvg-name="Пятница" tvg-logo="https://example.com/logos/pyatnica.png" group-title="Развлечения",Пятница
+http://example.com/stream/pyatnica/playlist.m3u8
+
+#EXTINF:-1 tvg-id="dомашний.ru" tvg-name="Домашний" tvg-logo="https://example.com/logos/domashniy.png" group-title="Развлечения",Домашний
+http://example.com/stream/domashniy/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tnt4.ru" tvg-name="ТНТ4" tvg-logo="https://example.com/logos/tnt4.png" group-title="Развлечения",ТНТ4
+http://example.com/stream/tnt4/playlist.m3u8
+
+###############################################################################
+#                               СПОРТ                                         #
+###############################################################################
+
+#EXTINF:-1 tvg-id="matchpremier.ru" tvg-name="Матч Премьер" tvg-logo="https://example.com/logos/matchpremier.png" group-title="Спорт",Матч Премьер
+http://example.com/stream/matchpremier/playlist.m3u8
+
+#EXTINF:-1 tvg-id="matchfootball.ru" tvg-name="Матч Футбол" tvg-logo="https://example.com/logos/matchfootball.png" group-title="Спорт",Матч Футбол 1
+http://example.com/stream/matchfootball1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="matchfootball2.ru" tvg-name="Матч Футбол 2" tvg-logo="https://example.com/logos/matchfootball2.png" group-title="Спорт",Матч Футбол 2
+http://example.com/stream/matchfootball2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="matcharena.ru" tvg-name="Матч Арена" tvg-logo="https://example.com/logos/matcharena.png" group-title="Спорт",Матч Арена
+http://example.com/stream/matcharena/playlist.m3u8
+
+#EXTINF:-1 tvg-id="matchstrana.ru" tvg-name="Матч Страна" tvg-logo="https://example.com/logos/matchstrana.png" group-title="Спорт",Матч Страна
+http://example.com/stream/matchstrana/playlist.m3u8
+
+#EXTINF:-1 tvg-id="matchigra.ru" tvg-name="Матч Игра" tvg-logo="https://example.com/logos/matchigra.png" group-title="Спорт",Матч Игра
+http://example.com/stream/matchigra/playlist.m3u8
+
+#EXTINF:-1 tvg-id="khl.ru" tvg-name="КХЛ ТВ" tvg-logo="https://example.com/logos/khl.png" group-title="Спорт",КХЛ ТВ
+http://example.com/stream/khl/playlist.m3u8
+
+###############################################################################
+#                               ДЕТСКИЕ                                      #
+###############################################################################
+
+#EXTINF:-1 tvg-id="mult.ru" tvg-name="Мульт" tvg-logo="https://example.com/logos/mult.png" group-title="Детские",Мульт
+http://example.com/stream/mult/playlist.m3u8
+
+#EXTINF:-1 tvg-id="karusel.ru" tvg-name="Карусель" tvg-logo="https://example.com/logos/karusel.png" group-title="Детские",Карусель
+http://example.com/stream/karusel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="nickelodeon.ru" tvg-name="Nickelodeon" tvg-logo="https://example.com/logos/nick.png" group-title="Детские",Nickelodeon
+http://example.com/stream/nick/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cartoonnetwork.ru" tvg-name="Cartoon Network" tvg-logo="https://example.com/logos/cartoon.png" group-title="Детские",Cartoon Network
+http://example.com/stream/cartoon/playlist.m3u8
+
+#EXTINF:-1 tvg-id="disney.ru" tvg-name="Disney" tvg-logo="https://example.com/logos/disney.png" group-title="Детские",Disney
+http://example.com/stream/disney/playlist.m3u8
+
+#EXTINF:-1 tvg-id="muzzic.ru" tvg-name="МУЗ-ТВ" tvg-logo="https://example.com/logos/muztv.png" group-title="Музыка",МУЗ-ТВ
+http://example.com/stream/muztv/playlist.m3u8
+
+###############################################################################
+#                               МУЗЫКА И КИНО                                #
+###############################################################################
+
+#EXTINF:-1 tvg-id="europaplus.tv" tvg-name="Европа Плюс ТВ" tvg-logo="https://example.com/logos/europaplus.png" group-title="Музыка",Европа Плюс ТВ
+http://example.com/stream/europaplus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="m2.ru" tvg-name="М2" tvg-logo="https://example.com/logos/m2.png" group-title="Музыка",М2
+http://example.com/stream/m2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="brigada.ru" tvg-name="Бригада Ужасов" tvg-logo="https://example.com/logos/brigada.png" group-title="Музыка",Бригада Ужасов
+http://example.com/stream/brigada/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tv1000.ru" tvg-name="TV 1000" tvg-logo="https://example.com/logos/tv1000.png" group-title="Кино",TV 1000
+http://example.com/stream/tv1000/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tv1000action.ru" tvg-name="TV 1000 Action" tvg-logo="https://example.com/logos/tv1000action.png" group-title="Кино",TV 1000 Action
+http://example.com/stream/tv1000action/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tv1000rus.ru" tvg-name="TV 1000 Русское кино" tvg-logo="https://example.com/logos/tv1000rus.png" group-title="Кино",TV 1000 Русское кино
+http://example.com/stream/tv1000rus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ivi.ru" tvg-name="Иви" tvg-logo="https://example.com/logos/ivi.png" group-title="Кино",Иви
+http://example.com/stream/ivi/playlist.m3u8
+
+#EXTINF:-1 tvg-id="more.tv" tvg-name="More TV" tvg-logo="https://example.com/logos/moretv.png" group-title="Кино",More TV
+http://example.com/stream/moretv/playlist.m3u8
+
+###############################################################################
+#                               РЕГИОНАЛЬНЫЕ                                 #
+###############################################################################
+
+#EXTINF:-1 tvg-id="peterburg.ru" tvg-name="Санкт-Петербург" tvg-logo="https://example.com/logos/peterburg.png" group-title="Региональные",Санкт-Петербург
+http://example.com/stream/peterburg/playlist.m3u8
+
+#EXTINF:-1 tvg-id="moscow.ru" tvg-name="Москва 24" tvg-logo="https://example.com/logos/moscow24.png" group-title="Региональные",Москва 24
+http://example.com/stream/moscow24/playlist.m3u8
+
+#EXTINF:-1 tvg-id="baikaltv.ru" tvg-name="Байкал ТВ" tvg-logo="https://example.com/logos/baikaltv.png" group-title="Региональные",Байкал ТВ
+http://example.com/stream/baikaltv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tver.ru" tvg-name="Тверской проспект" tvg-logo="https://example.com/logos/tver.png" group-title="Региональные",Тверской проспект
+http://example.com/stream/tver/playlist.m3u8
+
+###############################################################################
+#                               НОВОСТНЫЕ                                    #
+###############################################################################
+
+#EXTINF:-1 tvg-id="rbc.ru" tvg-name="РБК" tvg-logo="https://example.com/logos/rbc.png" group-title="Новостные",РБК
+http://example.com/stream/rbc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="dozhd.ru" tvg-name="Дождь" tvg-logo="https://example.com/logos/dozhd.png" group-title="Новостные",Дождь
+http://example.com/stream/dozhd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="rain.ru" tvg-name="Настоящее Время" tvg-logo="https://example.com/logos/rain.png" group-title="Новостные",Настоящее Время
+http://example.com/stream/rain/playlist.m3u8
+
+#EXTINF:-1 tvg-id="mir24.ru" tvg-name="Мир 24" tvg-logo="https://example.com/logos/mir24.png" group-title="Новостные",Мир 24
+http://example.com/stream/mir24/playlist.m3u8
+
+###############################################################################
+#                               ДОКУМЕНТАЛЬНЫЕ                               #
+###############################################################################
+
+#EXTINF:-1 tvg-id="history.ru" tvg-name="History" tvg-logo="https://example.com/logos/history.png" group-title="Документальные",History
+http://example.com/stream/history/playlist.m3u8
+
+#EXTINF:-1 tvg-id="natgeo.ru" tvg-name="National Geographic" tvg-logo="https://example.com/logos/natgeo.png" group-title="Документальные",National Geographic
+http://example.com/stream/natgeo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="discovery.ru" tvg-name="Discovery" tvg-logo="https://example.com/logos/discovery.png" group-title="Документальные",Discovery
+http://example.com/stream/discovery/playlist.m3u8
+
+#EXTINF:-1 tvg-id="animalplanet.ru" tvg-name="Animal Planet" tvg-logo="https://example.com/logos/animalplanet.png" group-title="Документальные",Animal Planet
+http://example.com/stream/animalplanet/playlist.m3u8
+
+#EXTINF:-1 tvg-id="viasatexplore.ru" tvg-name="Viasat Explore" tvg-logo="https://example.com/logos/viasatexplore.png" group-title="Документальные",Viasat Explore
+http://example.com/stream/viasatexplore/playlist.m3u8
+
+###############################################################################
+#                               РАЗНОЕ                                       #
+###############################################################################
+
+#EXTINF:-1 tvg-id="shop24.ru" tvg-name="Shop 24" tvg-logo="https://example.com/logos/shop24.png" group-title="Разное",Shop 24
+http://example.com/stream/shop24/playlist.m3u8
+
+#EXTINF:-1 tvg-id="teleshop.ru" tvg-name="Телешоп" tvg-logo="https://example.com/logos/teleshop.png" group-title="Разное",Телешоп
+http://example.com/stream/teleshop/playlist.m3u8
+
+#EXTINF:-1 tvg-id="uhtv.ru" tvg-name="Ю" tvg-logo="https://example.com/logos/uhtv.png" group-title="Развлечения",Ю
+http://example.com/stream/uhtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="2x2.ru" tvg-name="2x2" tvg-logo="https://example.com/logos/2x2.png" group-title="Развлечения",2x2
+http://example.com/stream/2x2/playlist.m3u8
