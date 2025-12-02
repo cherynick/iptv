@@ -1,0 +1,3431 @@
+#EXTM3U url-tvg="https://rostishkatv.space/iptv/epg.xml.gz"
+
+
+#EXTINF:-1 group-title="📌 Информация" tvg-id="noname",Информация об аккаунте
+https://rostishkatv.space/iptv/users/kitera/Info_akk.m3u8
+
+
+
+#EXTINF:-1 group-title="🔅 Основные" tvg-id="1" tvg-rec="7",Первый канал
+https://rostishkatv.space/iptv/users/kitera/1tv.m3u8
+
+#EXTINF:-1 group-title="🔅 Основные" tvg-id="1" tvg-rec="7",Первый канал [FHD]
+https://rostishkatv.space/iptv/users/kitera/1tv_FHD.m3u8
+
+#EXTINF:-1 group-title="🔅 Основные" tvg-id="2",Первый канал (+2)
+https://rostishkatv.space/iptv/users/kitera/1tv_plus2.m3u8
+
+#EXTINF:-1 group-title="🔅 Основные" tvg-id="noname",Первый канал (+3)
+https://rostishkatv.space/iptv/users/kitera/1tv_plus3.m3u8
+
+#EXTINF:-1 group-title="🔅 Основные" tvg-id="3",Первый канал (+4)
+https://rostishkatv.space/iptv/users/kitera/1tv_plus4.m3u8
+
+#EXTINF:-1 group-title="🔅 Основные" tvg-id="noname",Первый канал (+5)
+https://rostishkatv.space/iptv/users/kitera/1tv_plus5.m3u8
+
+#EXTINF:-1 group-title="🔅 Основные" tvg-id="4",Первый канал (+6)
+https://rostishkatv.space/iptv/users/kitera/1tv_plus6.m3u8
+
+#EXTINF:-1 group-title="🔅 Основные" tvg-id="5",Первый канал (+8)
+https://rostishkatv.space/iptv/users/kitera/1tv_plus8.m3u8
+
+#EXTINF:-1 group-title="🔅 Основные" tvg-id="noname",Первый канал (+9)
+https://rostishkatv.space/iptv/users/kitera/1tv_plus9.m3u8
+
+#EXTINF:-1 group-title="🔅 Основные" tvg-id="7" tvg-rec="3",Россия 1
+https://rostishkatv.space/iptv/users/kitera/Rossiya1.m3u8
+
+#EXTINF:-1 group-title="🔅 Основные" tvg-id="7" tvg-rec="7",Россия 1 [FHD]
+https://rostishkatv.space/iptv/users/kitera/Rossiya1_FHD.m3u8
+
+#EXTINF:0 group-title="🔅 Основные" tvg-id="8",Россия 1 (+2) [FHD]
+https://rostishkatv.space/iptv/users/kitera/Rossiya_1_PLUS2.m3u8
+
+#EXTINF:0 group-title="🔅 Основные" tvg-id="9",Россия 1 (+4) [FHD]
+https://rostishkatv.space/iptv/users/kitera/Rossiya_1_PLUS4.m3u8
+
+#EXTINF:0 group-title="🔅 Основные" tvg-id="10",Россия 1 (+6) [FHD]
+https://rostishkatv.space/iptv/users/kitera/Rossiya_1_PLUS6.m3u8
+
+#EXTINF:0 group-title="🔅 Основные" tvg-id="11",Россия 1 (+8) [FHD]
+https://rostishkatv.space/iptv/users/kitera/Rossiya_1_PLUS8.m3u8
+
+#EXTINF:-1 group-title="🔅 Основные" tvg-id="12" tvg-rec="7",Россия Культура 
+https://rostishkatv.space/iptv/users/kitera/RossiyaK.m3u8
+
+#EXTINF:-1 group-title="🔅 Основные" tvg-id="13",Россия Культура (+2)
+https://rostishkatv.space/iptv/users/kitera/RossiyaK_plus2.m3u8
+
+#EXTINF:-1 group-title="🔅 Основные" tvg-id="14",Россия Культура (+4)
+https://rostishkatv.space/iptv/users/kitera/RossiyaK_plus4.m3u8
+
+#EXTINF:-1 group-title="🔅 Основные" tvg-id="15",Россия Культура (+7)
+https://rostishkatv.space/iptv/users/kitera/RossiyaK_plus7.m3u8
+
+#EXTINF:-1 group-title="🔅 Основные" tvg-id="16" tvg-rec="7",Звезда
+https://rostishkatv.space/iptv/users/kitera/Zvezda.m3u8
+
+#EXTINF:-1 group-title="🔅 Основные" tvg-id="16",Звезда [FHD]
+https://rostishkatv.space/iptv/users/kitera/Zvezda_FHD.m3u8
+
+#EXTINF:-1 group-title="🔅 Основные" tvg-id="17",Звезда (+2)
+https://rostishkatv.space/iptv/users/kitera/Zvezda_plus2.m3u8
+
+#EXTINF:-1 group-title="🔅 Основные" tvg-id="18",Звезда (+4)
+https://rostishkatv.space/iptv/users/kitera/Zvezda_plus4.m3u8
+
+#EXTINF:-1 group-title="🔅 Основные" tvg-id="19",Звезда (+7)
+https://rostishkatv.space/iptv/users/kitera/Zvezda_plus7.m3u8
+
+#EXTINF:-1 group-title="🔅 Основные" tvg-id="21" tvg-rec="7",СТС Love
+https://rostishkatv.space/iptv/users/kitera/STS_LOVE.m3u8
+
+#EXTINF:-1 group-title="🔅 Основные" tvg-id="22",СТС Love (+2)
+https://rostishkatv.space/iptv/users/kitera/STS_LOVE_plus2.m3u8
+
+#EXTINF:-1 group-title="🔅 Основные" tvg-id="23",СТС Love (+4)
+https://rostishkatv.space/iptv/users/kitera/STS_LOVE_plus4.m3u8
+
+#EXTINF:-1 group-title="🔅 Основные" tvg-id="24" tvg-rec="7",НТВ
+https://rostishkatv.space/iptv/users/kitera/NTV.m3u8
+
+#EXTINF:-1 group-title="🔅 Основные" tvg-id="24" tvg-rec="7",НТВ [FHD]
+https://rostishkatv.space/iptv/users/kitera/NTV_FHD.m3u8
+
+#EXTINF:-1 group-title="🔅 Основные" tvg-id="25",НТВ (+2)
+https://rostishkatv.space/iptv/users/kitera/NTV_plus2.m3u8
+
+#EXTINF:-1 group-title="🔅 Основные" tvg-id="26",НТВ (+4)
+https://rostishkatv.space/iptv/users/kitera/NTV_plus4.m3u8
+
+#EXTINF:-1 group-title="🔅 Основные" tvg-id="27",НТВ (+7)
+https://rostishkatv.space/iptv/users/kitera/NTV_plus7.m3u8
+
+#EXTINF:-1 group-title="🔅 Основные" tvg-id="30" tvg-rec="7",Рен ТВ
+https://rostishkatv.space/iptv/users/kitera/RenTV.m3u8
+
+#EXTINF:-1 group-title="🔅 Основные" tvg-id="30" tvg-rec="7",Рен ТВ [FHD]
+https://rostishkatv.space/iptv/users/kitera/RenTV_FHD.m3u8
+
+#EXTINF:-1 group-title="🔅 Основные" tvg-id="31",Рен ТВ (+2)
+https://rostishkatv.space/iptv/users/kitera/RenTV_plus2.m3u8
+
+#EXTINF:-1 group-title="🔅 Основные" tvg-id="noname" tvg-logo="https://iptvx.one/picons/sochi-live.png",Рен ТВ (+4)
+https://rostishkatv.space/iptv/users/kitera/RenTV_plus4.m3u8
+
+#EXTINF:-1 group-title="🔅 Основные" tvg-id="33",Рен ТВ (+7)
+https://rostishkatv.space/iptv/users/kitera/RenTV_plus7.m3u8
+
+#EXTINF:-1 group-title="🔅 Основные" tvg-id="34" tvg-rec="7",ТВ Центр
+https://rostishkatv.space/iptv/users/kitera/TVC.m3u8
+
+#EXTINF:-1 group-title="🔅 Основные" tvg-id="35",ТВ Центр (+2)
+https://rostishkatv.space/iptv/users/kitera/TVC_plus2.m3u8
+
+#EXTINF:-1 group-title="🔅 Основные" tvg-id="36",ТВ Центр (+4)
+https://rostishkatv.space/iptv/users/kitera/TVC_plus4.m3u8
+
+#EXTINF:-1 group-title="🔅 Основные" tvg-id="37",ТВ Центр (+7)
+https://rostishkatv.space/iptv/users/kitera/TVC_plus7.m3u8
+
+#EXTINF:-1 group-title="🔅 Основные" tvg-id="38" tvg-rec="7",ОТР
+https://rostishkatv.space/iptv/users/kitera/OTR.m3u8
+
+#EXTINF:-1 group-title="🔅 Основные" tvg-id="38",ОТР [FHD]
+https://rostishkatv.space/iptv/users/kitera/OTR_FHD.m3u8
+
+#EXTINF:-1 group-title="🔅 Основные" tvg-id="39" tvg-rec="7",СТС
+https://rostishkatv.space/iptv/users/kitera/STS.m3u8
+
+#EXTINF:-1 group-title="🔅 Основные" tvg-id="39" tvg-rec="3",СТС [FHD]
+https://rostishkatv.space/iptv/users/kitera/STS_FHD.m3u8
+
+#EXTINF:0 group-title="🔅 Основные" tvg-id="40",СТС International
+https://rostishkatv.space/iptv/users/kitera/STS_International.m3u8
+
+#EXTINF:-1 group-title="🔅 Основные" tvg-id="41",СТС (+2)
+https://rostishkatv.space/iptv/users/kitera/STS_plus2.m3u8
+
+#EXTINF:-1 group-title="🔅 Основные" tvg-id="42",СТС (+4)
+https://rostishkatv.space/iptv/users/kitera/STS_plus4.m3u8
+
+#EXTINF:-1 group-title="🔅 Основные" tvg-id="43",СТС (+7)
+https://rostishkatv.space/iptv/users/kitera/STS_plus7.m3u8
+
+#EXTINF:-1 group-title="🔅 Основные" tvg-id="44" tvg-rec="7",Домашний
+https://rostishkatv.space/iptv/users/kitera/Domashniy.m3u8
+
+#EXTINF:-1 group-title="🔅 Основные" tvg-id="44",Домашний [FHD]
+https://rostishkatv.space/iptv/users/kitera/Domashniy_FHD.m3u8
+
+#EXTINF:-1 group-title="🔅 Основные" tvg-id="45",Домашний (+2)
+https://rostishkatv.space/iptv/users/kitera/Domashniy_plus2.m3u8
+
+#EXTINF:-1 group-title="🔅 Основные" tvg-id="46",Домашний (+4)
+https://rostishkatv.space/iptv/users/kitera/Domashniy_plus4.m3u8
+
+#EXTINF:-1 group-title="🔅 Основные" tvg-id="47",Домашний (+7)
+https://rostishkatv.space/iptv/users/kitera/Domashniy_plus7.m3u8
+
+#EXTINF:-1 group-title="🔅 Основные" tvg-id="48" tvg-rec="7",Муз ТВ
+https://rostishkatv.space/iptv/users/kitera/MuzTV.m3u8
+
+#EXTINF:-1 group-title="🔅 Основные" tvg-id="48",Муз ТВ [FHD]
+https://rostishkatv.space/iptv/users/kitera/MuzTV_FHD.m3u8
+
+#EXTINF:-1 group-title="🔅 Основные" tvg-id="noname",Муз ТВ (+2)
+https://rostishkatv.space/iptv/users/kitera/MuzTV_plus2.m3u8
+
+#EXTINF:-1 group-title="🔅 Основные" tvg-id="49",Муз ТВ (+4)
+https://rostishkatv.space/iptv/users/kitera/MuzTV_plus4.m3u8
+
+#EXTINF:-1 group-title="🔅 Основные" tvg-id="50",Муз ТВ (+7)
+https://rostishkatv.space/iptv/users/kitera/MuzTV_plus7.m3u8
+
+#EXTINF:-1 group-title="🔅 Основные" tvg-id="51",Союз [FHD]
+https://rostishkatv.space/iptv/users/kitera/Souz_FHD.m3u8
+
+#EXTINF:-1 group-title="🔅 Основные" tvg-id="52" tvg-rec="3",Спас
+https://rostishkatv.space/iptv/users/kitera/Spas.m3u8
+
+#EXTINF:-1 group-title="🔅 Основные" tvg-id="53",ТВ3
+https://rostishkatv.space/iptv/users/kitera/TV3.m3u8
+
+#EXTINF:-1 group-title="🔅 Основные" tvg-id="53",ТВ3 [FHD]
+https://rostishkatv.space/iptv/users/kitera/TV3_FHD.m3u8
+
+#EXTINF:-1 group-title="🔅 Основные" tvg-id="54",ТВ3 (+2)
+https://rostishkatv.space/iptv/users/kitera/TV3_plus2.m3u8
+
+#EXTINF:-1 group-title="🔅 Основные" tvg-id="55",ТВ3 (+4)
+https://rostishkatv.space/iptv/users/kitera/TV3_plus4.m3u8
+
+#EXTINF:-1 group-title="🔅 Основные" tvg-id="56",ТВ3 (+7)
+https://rostishkatv.space/iptv/users/kitera/TV3_plus7.m3u8
+
+#EXTINF:-1 group-title="🔅 Основные" tvg-id="57",ТНТ
+https://rostishkatv.space/iptv/users/kitera/TNT.m3u8
+
+#EXTINF:-1 group-title="🔅 Основные" tvg-id="57",ТНТ [FHD]
+https://rostishkatv.space/iptv/users/kitera/TNT_FHD.m3u8
+
+#EXTINF:-1 group-title="🔅 Основные" tvg-id="58",ТНТ (+2)
+https://rostishkatv.space/iptv/users/kitera/TNT_plus2.m3u8
+
+#EXTINF:-1 group-title="🔅 Основные" tvg-id="59",ТНТ (+4)
+https://rostishkatv.space/iptv/users/kitera/TNT_plus4.m3u8
+
+#EXTINF:-1 group-title="🔅 Основные" tvg-id="60",ТНТ (+7)
+https://rostishkatv.space/iptv/users/kitera/TNT_plus7.m3u8
+
+#EXTINF:-1 group-title="🔅 Основные" tvg-id="61",Три Ангела
+https://rostishkatv.space/iptv/users/kitera/TriAngels.m3u8
+
+#EXTINF:-1 group-title="🔅 Основные" tvg-id="61",Три Ангела [HD]
+https://rostishkatv.space/iptv/users/kitera/TriAngels_HD.m3u8
+
+#EXTINF:-1 group-title="🔅 Основные" tvg-id="61",Три Ангела [FHD]
+https://rostishkatv.space/iptv/users/kitera/TriAngels_FHD.m3u8
+
+#EXTINF:-1 group-title="🔅 Основные" tvg-id="62",Пятница!
+https://rostishkatv.space/iptv/users/kitera/Pyatnica.m3u8
+
+#EXTINF:-1 group-title="🔅 Основные" tvg-id="62",Пятница! [FHD]
+https://rostishkatv.space/iptv/users/kitera/Pyatnica_FHD.m3u8
+
+#EXTINF:-1 group-title="🔅 Основные" tvg-id="64",Мир 24
+https://rostishkatv.space/iptv/users/kitera/Mir24.m3u8
+
+#EXTINF:-1 group-title="🔅 Основные" tvg-id="64",Мир 24 [FHD]
+https://rostishkatv.space/iptv/users/kitera/Mir24_FHD.m3u8
+
+#EXTINF:-1 group-title="🔅 Основные" tvg-id="718",Мир
+https://rostishkatv.space/iptv/users/kitera/Mir.m3u8
+
+#EXTINF:-1 group-title="🔅 Основные" tvg-id="718",Мир [FHD]
+https://rostishkatv.space/iptv/users/kitera/Mir_FHD.m3u8
+
+#EXTINF:-1 group-title="🔅 Основные" tvg-id="66",Мир (+2)
+https://rostishkatv.space/iptv/users/kitera/Mir_plus2.m3u8
+
+#EXTINF:-1 group-title="🔅 Основные" tvg-id="67",Мир (+4)
+https://rostishkatv.space/iptv/users/kitera/Mir_plus4.m3u8
+
+#EXTINF:-1 group-title="🔅 Основные" tvg-id="68",Мир (+7)
+https://rostishkatv.space/iptv/users/kitera/Mir_plus7.m3u8
+
+#EXTINF:-1 group-title="🔅 Основные" tvg-id="69",Ратник [FHD]
+https://rostishkatv.space/iptv/users/kitera/Ratnik_FHD.m3u8
+
+#EXTINF:-1 group-title="🔅 Основные" tvg-id="70",Твое ТВ [FHD]
+https://rostishkatv.space/iptv/users/kitera/TvoeTV_FHD.m3u8
+
+#EXTINF:-1 group-title="🔅 Основные" tvg-id="71" tvg-rec="7",Пятый канал
+https://rostishkatv.space/iptv/users/kitera/5kanal.m3u8
+
+#EXTINF:-1 group-title="🔅 Основные" tvg-id="72",Пятый канал (+2)
+https://rostishkatv.space/iptv/users/kitera/5kanal_plus2.m3u8
+
+#EXTINF:-1 group-title="🔅 Основные" tvg-id="noname",Пятый канал (+4)
+https://rostishkatv.space/iptv/users/kitera/5kanal_plus4.m3u8
+
+#EXTINF:-1 group-title="🔅 Основные" tvg-id="73",Пятый канал (+7)
+https://rostishkatv.space/iptv/users/kitera/5kanal_plus7.m3u8
+
+#EXTINF:-1 group-title="🔅 Основные" tvg-id="noname" tvg-logo="http://epg.one/img2/2294.png",БелРос
+https://rostishkatv.space/iptv/users/kitera/BelRos.m3u8
+
+#EXTINF:-1 group-title="🔅 Основные" tvg-id="77",360 [FHD]
+https://rostishkatv.space/iptv/users/kitera/360_HD.m3u8
+
+#EXTINF:0 group-title="🔅 Основные" tvg-id="78",Хузур ТВ [FHD]
+https://rostishkatv.space/iptv/users/kitera/Huzur_TV_FHD.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="📰 Новостные" tvg-id="79",Известия [FHD]
+https://rostishkatv.space/iptv/users/kitera/Izvestiya_FHD.m3u8
+
+#EXTINF:-1 group-title="📰 Новостные" tvg-id="noname",РЖД ТВ [FHD]
+https://rostishkatv.space/iptv/users/kitera/RSHD_FHD.m3u8
+
+#EXTINF:-1 group-title="📰 Новостные" tvg-id="82" tvg-rec="7",РБК {50 fps}
+https://rostishkatv.space/iptv/users/kitera/RBK.m3u8
+
+#EXTINF:-1 group-title="📰 Новостные" tvg-id="82",РБК [FHD] {50 fps}
+https://rostishkatv.space/iptv/users/kitera/RBK_FHD.m3u8
+
+#EXTINF:-1 group-title="📰 Новостные" tvg-id="83",360 Новости [FHD]
+https://rostishkatv.space/iptv/users/kitera/360Novosti_FHD.m3u8
+
+#EXTINF:-1 group-title="📰 Новостные" tvg-id="84",Настоящее время [FHD]
+https://rostishkatv.space/iptv/users/kitera/NastoyasheeVremya_FHD.m3u8
+
+#EXTINF:-1 group-title="📰 Новостные" tvg-id="85",Дождь
+https://rostishkatv.space/iptv/users/kitera/Dogd.m3u8
+
+#EXTINF:-1 group-title="📰 Новостные" tvg-id="85",Дождь [FHD]
+https://rostishkatv.space/iptv/users/kitera/Dogd_FHD.m3u8
+
+#EXTINF:-1 group-title="📰 Новостные" tvg-id="86",Россия 24
+https://rostishkatv.space/iptv/users/kitera/Rossiya24.m3u8
+
+#EXTINF:0 group-title="📰 Новостные" tvg-id="89",Москва 24
+https://rostishkatv.space/iptv/users/kitera/Moskva_24.m3u8
+
+#EXTINF:0 group-title="📰 Новостные" tvg-id="noname" tvg-logo="http://epg.one/img2/9052.png",Экоспаскоми
+https://rostishkatv.space/iptv/users/kitera/kospaskomi.m3u8
+
+#EXTINF:0 group-title="📰 Новостные" tvg-id="91" tvg-rec="7",Euronews Россия
+https://rostishkatv.space/iptv/users/kitera/Euronews_Rossiya.m3u8
+
+#EXTINF:0 group-title="📰 Новостные" tvg-id="92",Центральное телевидение
+https://rostishkatv.space/iptv/users/kitera/Centralnoe_televidenie.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="🌏 Региональные" tvg-id="93",Аист ТВ
+https://rostishkatv.space/iptv/users/kitera/AistTV.m3u8
+
+#EXTINF:-1 group-title="🌏 Региональные" tvg-id="noname",НТС Иркутск [FHD] {50 fps}
+https://rostishkatv.space/iptv/users/kitera/NTS_Irkutsk_FHD.m3u8
+
+#EXTINF:-1 group-title="🌏 Региональные" tvg-id="95",Новый век (Тамбов)
+https://rostishkatv.space/iptv/users/kitera/NewVek_Tambov.m3u8
+
+#EXTINF:-1 group-title="🌏 Региональные" tvg-id="96",Прима
+https://rostishkatv.space/iptv/users/kitera/Prima.m3u8
+
+#EXTINF:-1 group-title="🌏 Региональные" tvg-id="96",Прима [FHD]
+https://rostishkatv.space/iptv/users/kitera/Prima_FHD.m3u8
+
+#EXTINF:-1 group-title="🌏 Региональные" tvg-id="97",Восток 24
+https://rostishkatv.space/iptv/users/kitera/Vostok24_HD.m3u8
+
+#EXTINF:-1 group-title="🌏 Региональные" tvg-id="noname",Кавказ 24
+https://rostishkatv.space/iptv/users/kitera/Kavkaz24.m3u8
+
+#EXTINF:-1 group-title="🌏 Региональные" tvg-id="noname",Запад 24
+https://rostishkatv.space/iptv/users/kitera/Zapad24.m3u8
+
+#EXTINF:-1 group-title="🌏 Региональные" tvg-logo="http://gitr-info.ru/wp-content/uploads/2022/05/6d56ef8c83cf8d3929055ff138542bda-678x381.png" tvg-id="noname",Сибирь 24
+https://rostishkatv.space/iptv/users/kitera/Sibir24.m3u8
+
+#EXTINF:-1 group-title="🌏 Региональные" tvg-id="noname",ТВК Красноярск
+https://rostishkatv.space/iptv/users/kitera/TVK_Krasnoyarsk.m3u8
+
+#EXTINF:-1 group-title="🌏 Региональные" tvg-id="noname",Центр Красноярск [FHD]
+https://rostishkatv.space/iptv/users/kitera/Center_Krasnoyarsk_FHD.m3u8
+
+#EXTINF:-1 group-title="🌏 Региональные" tvg-id="102",Волга
+https://rostishkatv.space/iptv/users/kitera/Volga.m3u8
+
+#EXTINF:-1 group-title="🌏 Региональные" tvg-id="102",Волга [FHD]
+https://rostishkatv.space/iptv/users/kitera/Volga_FHD.m3u8
+
+#EXTINF:-1 group-title="🌏 Региональные" tvg-id="104",8 канал Красноярский край
+https://rostishkatv.space/iptv/users/kitera/8kanal_Krasnoyarskiy_Kray.m3u8
+
+#EXTINF:-1 group-title="🌏 Региональные" tvg-logo="https://i.ibb.co/2gvLYQB/3.png" tvg-id="noname",Телеканал Краснодар [FHD]
+https://rostishkatv.space/iptv/users/kitera/Telekanal_Krasnodar_FHD.m3u8
+
+#EXTINF:-1 group-title="🌏 Региональные" tvg-id="105",Крым 24
+https://rostishkatv.space/iptv/users/kitera/Krym24_FHD.m3u8
+
+#EXTINF:-1 group-title="🌏 Региональные" tvg-id="noname",Нижний Новгород 24
+https://rostishkatv.space/iptv/users/kitera/NizNov24.m3u8
+
+#EXTINF:-1 group-title="🌏 Региональные" tvg-id="107",Волгоград 24
+https://rostishkatv.space/iptv/users/kitera/Volgograd24.m3u8
+
+#EXTINF:-1 group-title="🌏 Региональные" tvg-id="107",Волгоград 24 [FHD]
+https://rostishkatv.space/iptv/users/kitera/Volgograd24_FHD.m3u8
+
+#EXTINF:-1 group-title="🌏 Региональные" tvg-id="108",Югра [FHD]
+https://rostishkatv.space/iptv/users/kitera/Urga_FHD.m3u8
+
+#EXTINF:-1 group-title="🌏 Региональные" tvg-id="noname",Своё ТВ Ставрополь [FHD]
+https://rostishkatv.space/iptv/users/kitera/SvoeTV_Stavropol_FHD.m3u8
+
+#EXTINF:-1 group-title="🌏 Региональные" tvg-id="109",РГВК Дагестан
+https://rostishkatv.space/iptv/users/kitera/RGVK_Dagestan.m3u8
+
+#EXTINF:-1 group-title="🌏 Региональные" tvg-id="109",РГВК Дагестан [FHD]
+https://rostishkatv.space/iptv/users/kitera/RGVK_Dagestan_FHD.m3u8
+
+#EXTINF:-1 group-title="🌏 Региональные" tvg-id="noname",Раменское ТВ
+https://rostishkatv.space/iptv/users/kitera/RamenskoeTV.m3u8
+
+#EXTINF:-1 group-title="🌏 Региональные" tvg-id="111",12 канал Омск
+https://rostishkatv.space/iptv/users/kitera/12kanalOmsk.m3u8
+
+#EXTINF:-1 group-title="🌏 Региональные" tvg-id="111",12 канал Омск [FHD]
+https://rostishkatv.space/iptv/users/kitera/12kanalOmsk_FHD.m3u8
+
+#EXTINF:-1 group-title="🌏 Региональные" tvg-id="noname",ТКР Рязань [HD]
+https://rostishkatv.space/iptv/users/kitera/TKR_Ryazan_HD.m3u8
+
+#EXTINF:-1 group-title="🌏 Региональные" tvg-id="112",Толк [HD] {50 fps}
+https://rostishkatv.space/iptv/users/kitera/Tolk_HD.m3u8
+
+#EXTINF:-1 group-title="🌏 Региональные" tvg-id="noname",НТМ [HD]
+https://rostishkatv.space/iptv/users/kitera/HTM_HD.m3u8
+
+#EXTINF:-1 group-title="🌏 Региональные" tvg-id="noname",Колыма-Плюс [FHD] {50fps}
+https://rostishkatv.space/iptv/users/kitera/Kolyma_Plus_HD.m3u8
+
+#EXTINF:-1 group-title="🌏 Региональные" tvg-id="noname",URAL1 (Челябинск) [FHD]
+https://rostishkatv.space/iptv/users/kitera/Ural1_Chelyabinsk_FHD.m3u8
+
+#EXTINF:-1 group-title="🌏 Региональные" tvg-id="noname",TVОЯ! (Тюмень) [FHD]
+https://rostishkatv.space/iptv/users/kitera/TVOYA_Tumen_FHD.m3u8
+
+#EXTINF:-1 group-title="🌏 Региональные" tvg-id="114",Кубань24 (Краснодар)
+https://rostishkatv.space/iptv/users/kitera/Kuban24_Krasnodar.m3u8
+
+#EXTINF:-1 group-title="🌏 Региональные" tvg-id="noname",Сочи24 [FHD]
+https://rostishkatv.space/iptv/users/kitera/Sochi24_FHD.m3u8
+
+#EXTINF:-1 group-title="🌏 Региональные" tvg-id="noname",ОТВ Челябинск [FHD]
+https://rostishkatv.space/iptv/users/kitera/OTV_Cheyabinsk_FHD.m3u8
+
+#EXTINF:-1 group-title="🌏 Региональные" tvg-id="115",ОТВ Екатеринбург [HD]
+https://rostishkatv.space/iptv/users/kitera/OTV_Ekaterinburg_HD.m3u8
+
+#EXTINF:-1 group-title="🌏 Региональные" tvg-id="noname",31 Канал (Челябинск) [FHD]
+https://rostishkatv.space/iptv/users/kitera/31kanal_Chelyabinsk.m3u8
+
+#EXTINF:-1 group-title="🌏 Региональные" tvg-id="118",Енисей [FHD]
+https://rostishkatv.space/iptv/users/kitera/Enisey_FHD.m3u8
+
+#EXTINF:-1 group-title="🌏 Региональные" tvg-id="noname",10 канал (Новокузнецк) [FHD]
+https://rostishkatv.space/iptv/users/kitera/10kanal_Novokuzneck_FHD.m3u8
+
+#EXTINF:-1 group-title="🌏 Региональные" tvg-id="noname",Таврия ТВ
+https://rostishkatv.space/iptv/users/kitera/TavriyaTV.m3u8
+
+#EXTINF:-1 group-title="🌏 Региональные" tvg-id="noname",Русь (Кострома)
+https://rostishkatv.space/iptv/users/kitera/RusKostroma.m3u8
+
+#EXTINF:-1 group-title="🌏 Региональные" tvg-id="noname",Сейм (Курская Область) [HD]
+https://rostishkatv.space/iptv/users/kitera/Seim_Kursk_HD.m3u8
+
+#EXTINF:-1 group-title="🌏 Региональные" tvg-id="noname",Дон 24 [FHD]
+https://rostishkatv.space/iptv/users/kitera/Don24_FHD.m3u8
+
+#EXTINF:-1 group-title="🌏 Региональные" tvg-id="479",Липецкое время [FHD]
+https://rostishkatv.space/iptv/users/kitera/LipeckoeVremya_FHD.m3u8
+
+#EXTINF:-1 group-title="🌏 Региональные" tvg-id="noname",Наш дом (Пенза) [FHD]
+https://rostishkatv.space/iptv/users/kitera/NashDom_Penza.m3u8
+
+#EXTINF:-1 group-title="🌏 Региональные" tvg-id="noname",4 канал Екатеринбург {50 fps}
+https://rostishkatv.space/iptv/users/kitera/4kanalEkaterinburg.m3u8
+
+#EXTINF:-1 group-title="🌏 Региональные" tvg-id="120",Tyaпсе 24 [FHD]
+https://rostishkatv.space/iptv/users/kitera/Tuapse24_FHD.m3u8
+
+#EXTINF:-1 group-title="🌏 Региональные" tvg-id="noname",Обком ТВ (Омск)
+https://rostishkatv.space/iptv/users/kitera/ObkomTV_Omsk.m3u8
+
+#EXTINF:0 group-title="🌏 Региональные" tvg-id="noname",Омск ТВ [FHD]
+https://rostishkatv.space/iptv/users/kitera/OmskTV_FHD.m3u8
+
+#EXTINF:0 group-title="🌏 Региональные" tvg-id="121",Первый городской (Омск)
+https://rostishkatv.space/iptv/users/kitera/1Gorodskoy_Omsk.m3u8
+
+#EXTINF:-1 group-title="🌏 Региональные" tvg-id="noname",ТВ-ИН (Магнитогорск) [FHD]
+https://rostishkatv.space/iptv/users/kitera/TVIN_Magnitogorsk.m3u8
+
+#EXTINF:-1 group-title="🌏 Региональные" tvg-id="noname" tvg-logo="https://iptvx.one/picons/sochi-live.png",Sochi Live [HD]
+https://rostishkatv.space/iptv/users/kitera/Soshi_Live_HD.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="🎬 Кино и Сериалы" tvg-id="124",Amedia 1 [FHD]
+https://rostishkatv.space/iptv/users/kitera/A1_FHD.m3u8
+
+#EXTINF:-1 group-title="🎬 Кино и Сериалы" tvg-id="125",Amedia 2 [FHD]
+https://rostishkatv.space/iptv/users/kitera/A2_FHD.m3u8
+
+#EXTINF:-1 group-title="🎬 Кино и Сериалы" tvg-id="126",Amedia Hit
+https://rostishkatv.space/iptv/users/kitera/AmediaHit.m3u8
+
+#EXTINF:-1 group-title="🎬 Кино и Сериалы" tvg-id="126",Amedia Hit [FHD]
+https://rostishkatv.space/iptv/users/kitera/AmediaHit_FHD.m3u8
+
+#EXTINF:-1 group-title="🎬 Кино и Сериалы" tvg-id="127",Viju TV1000
+https://rostishkatv.space/iptv/users/kitera/Viju_TV1000.m3u8
+
+#EXTINF:-1 group-title="🎬 Кино и Сериалы" tvg-id="127",Viju TV1000 [FHD]
+https://rostishkatv.space/iptv/users/kitera/Viju_TV1000_FHD.m3u8
+
+#EXTINF:-1 group-title="🎬 Кино и Сериалы" tvg-id="129",Viju TV1000 Action
+https://rostishkatv.space/iptv/users/kitera/Viju_TV1000_Action.m3u8
+
+#EXTINF:-1 group-title="🎬 Кино и Сериалы" tvg-id="129",Viju TV1000 Action [FHD]
+https://rostishkatv.space/iptv/users/kitera/Viju_TV1000_Action_FHD.m3u8
+
+#EXTINF:-1 group-title="🎬 Кино и Сериалы" tvg-id="131",Viju TV1000 Русское
+https://rostishkatv.space/iptv/users/kitera/Viju_TV1000Rus.m3u8
+
+#EXTINF:-1 group-title="🎬 Кино и Сериалы" tvg-id="131",Viju TV1000 Русское [FHD]
+https://rostishkatv.space/iptv/users/kitera/Viju_TV1000Rus_FHD.m3u8
+
+#EXTINF:-1 group-title="🎬 Кино и Сериалы" tvg-id="133",Viju Comedy [FHD]
+https://rostishkatv.space/iptv/users/kitera/Viju_Comedy_FHD.m3u8
+
+#EXTINF:-1 group-title="🎬 Кино и Сериалы" tvg-id="134",Viju Megahit [FHD]
+https://rostishkatv.space/iptv/users/kitera/Viju_Megahit_FHD.m3u8
+
+#EXTINF:-1 group-title="🎬 Кино и Сериалы" tvg-id="135",Viju Premiere [FHD]
+https://rostishkatv.space/iptv/users/kitera/Viju_Premiere_FHD.m3u8
+
+#EXTINF:-1 group-title="🎬 Кино и Сериалы" tvg-id="136",Viju Serial [FHD]
+https://rostishkatv.space/iptv/users/kitera/Viju_Serial_FHD.m3u8
+
+#EXTINF:-1 group-title="🎬 Кино и Сериалы" tvg-id="noname",Viju TV1000 Новелла [FHD]
+https://rostishkatv.space/iptv/users/kitera/Viju_TV1000_Novella_FHD.m3u8
+
+#EXTINF:0 group-title="🎬 Кино и Сериалы" tvg-id="137",Viasat Kino Megahit [FHD]
+https://rostishkatv.space/iptv/users/kitera/Viasat_Kino_Megahit_FHD.m3u8
+
+#EXTINF:-1 group-title="🎬 Кино и Сериалы" tvg-id="99",Viju TV1000 Romantica [FHD]
+https://rostishkatv.space/iptv/users/kitera/Viju_TV1000_Romantica_FHD.m3u8
+
+#EXTINF:0 group-title="🎬 Кино и Сериалы" tvg-id="138",Viasat Serial [FHD]
+https://rostishkatv.space/iptv/users/kitera/Viasat_Serial_FHD.m3u8
+
+#EXTINF:-1 group-title="🎬 Кино и Сериалы" tvg-id="143",Start Air [FHD]
+https://rostishkatv.space/iptv/users/kitera/StartAir_FHD.m3u8
+
+#EXTINF:-1 group-title="🎬 Кино и Сериалы" tvg-id="144",Start World [FHD]
+https://rostishkatv.space/iptv/users/kitera/StartWorld_FHD.m3u8
+
+#EXTINF:-1 group-title="🎬 Кино и Сериалы" tvg-id="145",Кино ТВ
+https://rostishkatv.space/iptv/users/kitera/KinoTV.m3u8
+
+#EXTINF:0 group-title="🎬 Кино и Сериалы" tvg-id="145",Кино ТВ [FHD]
+https://rostishkatv.space/iptv/users/kitera/Kino_TV_FHD.m3u8
+
+#EXTINF:-1 group-title="🎬 Кино и Сериалы" tvg-id="148",Сапфир [FHD]
+https://rostishkatv.space/iptv/users/kitera/Sapfir_FHD.m3u8
+
+#EXTINF:-1 group-title="🎬 Кино и Сериалы" tvg-id="149",Кинеко
+https://rostishkatv.space/iptv/users/kitera/Kineko.m3u8
+
+#EXTINF:-1 group-title="🎬 Кино и Сериалы" tvg-id="149",Кинеко [FHD]
+https://rostishkatv.space/iptv/users/kitera/Kineko_FHD.m3u8
+
+#EXTINF:-1 group-title="🎬 Кино и Сериалы" tvg-id="150",Дом Кино Премиум [FHD]
+https://rostishkatv.space/iptv/users/kitera/DomKinoPremium_FHD.m3u8
+
+#EXTINF:-1 group-title="🎬 Кино и Сериалы" tvg-id="151",Дом кино
+https://rostishkatv.space/iptv/users/kitera/DomKino.m3u8
+
+#EXTINF:-1 group-title="🎬 Кино и Сериалы" tvg-id="152",Победа
+https://rostishkatv.space/iptv/users/kitera/Pobeda.m3u8
+
+#EXTINF:0 group-title="🎬 Кино и Сериалы" tvg-id="152",Победа [FHD]
+https://rostishkatv.space/iptv/users/kitera/Pobeda_FHD.m3u8
+
+#EXTINF:-1 group-title="🎬 Кино и Сериалы" tvg-id="153",Москва. Доверие
+https://rostishkatv.space/iptv/users/kitera/MoscowDoverie.m3u8
+
+#EXTINF:0 group-title="🎬 Кино и Сериалы" tvg-id="154",Русский Иллюзион [FHD]
+https://rostishkatv.space/iptv/users/kitera/Russkiy_Illuzion_FHD.m3u8
+
+#EXTINF:-1 group-title="🎬 Кино и Сериалы" tvg-id="156",НТВ Сериал
+https://rostishkatv.space/iptv/users/kitera/NTV_Serial.m3u8
+
+#EXTINF:-1 group-title="🎬 Кино и Сериалы" tvg-id="158",Киносерия
+https://rostishkatv.space/iptv/users/kitera/NastroiKino_KinoSeriya.m3u8
+
+#EXTINF:-1 group-title="🎬 Кино и Сериалы" tvg-id="158",Киносерия [FHD]
+https://rostishkatv.space/iptv/users/kitera/NastroiKino_KinoSeriya_FHD.m3u8
+
+#EXTINF:-1 group-title="🎬 Кино и Сериалы" tvg-id="159",Родное кино
+https://rostishkatv.space/iptv/users/kitera/NastroiKino_RodnoeKino.m3u8
+
+#EXTINF:-1 group-title="🎬 Кино и Сериалы" tvg-id="160",Наше новое кино [FHD]
+https://rostishkatv.space/iptv/users/kitera/NastroiKino_NasheNovoeKino_FHD.m3u8
+
+#EXTINF:-1 group-title="🎬 Кино и Сериалы" tvg-id="162",Кинокомедия [FHD]
+https://rostishkatv.space/iptv/users/kitera/NastroiKino_KinoComedy_FHD.m3u8
+
+#EXTINF:-1 group-title="🎬 Кино и Сериалы" tvg-id="164",Киносемья
+https://rostishkatv.space/iptv/users/kitera/NastroiKino_KinoFamily_FHD.m3u8
+
+#EXTINF:-1 group-title="🎬 Кино и Сериалы" tvg-id="165",Киносвидание [FHD]
+https://rostishkatv.space/iptv/users/kitera/NastroiKino_KinoSvidanie_FHD.m3u8
+
+#EXTINF:-1 group-title="🎬 Кино и Сериалы" tvg-id="166",Индийское Кино
+https://rostishkatv.space/iptv/users/kitera/NastroiKino_IndiyskoeKino.m3u8
+
+#EXTINF:-1 group-title="🎬 Кино и Сериалы" tvg-id="170",TV XXI
+https://rostishkatv.space/iptv/users/kitera/TVXXI.m3u8
+
+#EXTINF:-1 group-title="🎬 Кино и Сериалы" tvg-id="171",Мосфильм. Золотая коллекция
+https://rostishkatv.space/iptv/users/kitera/MosFilm.m3u8
+
+#EXTINF:-1 group-title="🎬 Кино и Сериалы" tvg-id="171",Мосфильм. Золотая коллекция [FHD]
+https://rostishkatv.space/iptv/users/kitera/MosFilm_FHD.m3u8
+
+#EXTINF:0 group-title="🎬 Кино и Сериалы" tvg-id="172",Мосфильм. Золотая коллекция (+4) [FHD]
+https://rostishkatv.space/iptv/users/kitera/Mosfilm_Zolotaya_KolleKciya_PLUS4_FHD.m3u8
+
+#EXTINF:-1 group-title="🎬 Кино и Сериалы" tvg-id="noname",Всё ТВ [FHD]
+https://rostishkatv.space/iptv/users/kitera/VseTV_FHD.m3u8
+
+#EXTINF:-1 group-title="🎬 Кино и Сериалы" tvg-id="175",Кино 1 International
+https://rostishkatv.space/iptv/users/kitera/Kino1Int.m3u8
+
+#EXTINF:-1 group-title="🎬 Кино и Сериалы" tvg-id="176",Ретро
+https://rostishkatv.space/iptv/users/kitera/RETRO.m3u8
+
+#EXTINF:-1 group-title="🎬 Кино и Сериалы" tvg-id="179",Русский Детектив
+https://rostishkatv.space/iptv/users/kitera/RusDetektiv.m3u8
+
+#EXTINF:-1 group-title="🎬 Кино и Сериалы" tvg-id="180",Наш Кинопоказ [FHD]
+https://rostishkatv.space/iptv/users/kitera/NashKinopokaz.m3u8
+
+#EXTINF:-1 group-title="🎬 Кино и Сериалы" tvg-id="181",Comedy Central
+https://rostishkatv.space/iptv/users/kitera/ComedyCentral.m3u8
+
+#EXTINF:-1 group-title="🎬 Кино и Сериалы" tvg-id="182",Премиальное [FHD]
+https://rostishkatv.space/iptv/users/kitera/Premialnoe_FHD.m3u8
+
+#EXTINF:-1 group-title="🎬 Кино и Сериалы" tvg-id="183",Остросюжетное [FHD]
+https://rostishkatv.space/iptv/users/kitera/Ostrosuzetnoe_FHD.m3u8
+
+#EXTINF:-1 group-title="🎬 Кино и Сериалы" tvg-id="184",Криминальное [FHD]
+https://rostishkatv.space/iptv/users/kitera/Kriminalnoe_FHD.m3u8
+
+#EXTINF:0 group-title="🎬 Кино и Сериалы" tvg-id="185",Блокбастер [FHD]
+https://rostishkatv.space/iptv/users/kitera/Blokbaster_FHD.m3u8
+
+#EXTINF:-1 group-title="🎬 Кино и Сериалы" tvg-id="186",Русский роман [FHD]
+https://rostishkatv.space/iptv/users/kitera/RusRonan_FHD.m3u8
+
+#EXTINF:0 group-title="🎬 Кино и Сериалы" tvg-id="188",Fox Life [FHD]
+https://rostishkatv.space/iptv/users/kitera/Fox_Life_FHD.m3u8
+
+#EXTINF:0 group-title="🎬 Кино и Сериалы" tvg-id="189",Hollywood
+https://rostishkatv.space/iptv/users/kitera/Hollywood.m3u8
+
+#EXTINF:-1 group-title="🎬 Кино и Сериалы" tvg-id="189",Hollywood [FHD]
+https://rostishkatv.space/iptv/users/kitera/Hollywood_FHD.m3u8
+
+#EXTINF:0 group-title="🎬 Кино и Сериалы" tvg-id="190",Про Любовь [FHD]
+https://rostishkatv.space/iptv/users/kitera/Pro_Lubov_FHD.m3u8
+
+#EXTINF:-1 group-title="🎬 Кино и Сериалы" tvg-id="191",Душевное кино [FHD]
+https://rostishkatv.space/iptv/users/kitera/DushevnoeKino_FHD.m3u8
+
+#EXTINF:-1 group-title="🎬 Кино и Сериалы" tvg-id="noname",Ключ [FHD]
+https://rostishkatv.space/iptv/users/kitera/Kluch.m3u8
+
+#EXTINF:0 group-title="🎬 Кино и Сериалы" tvg-id="192",Хит [FHD]
+https://rostishkatv.space/iptv/users/kitera/Hit_FHD.m3u8
+
+#EXTINF:0 group-title="🎬 Кино и Сериалы" tvg-id="193",Наше [FHD]
+https://rostishkatv.space/iptv/users/kitera/Nashe_FHD.m3u8
+
+#EXTINF:0 group-title="🎬 Кино и Сериалы" tvg-id="194",Наше Мужское [FHD]
+https://rostishkatv.space/iptv/users/kitera/Nashe_Muzhskoe_FHD.m3u8
+
+#EXTINF:0 group-title="🎬 Кино и Сериалы" tvg-id="195",Наше любимое [FHD]
+https://rostishkatv.space/iptv/users/kitera/Nashe_lubimoe_FHD.m3u8
+
+#EXTINF:0 group-title="🎬 Кино и Сериалы" tvg-id="196",KinoJam 1 [FHD]
+https://rostishkatv.space/iptv/users/kitera/KinoJam_1_FHD.m3u8
+
+#EXTINF:0 group-title="🎬 Кино и Сериалы" tvg-id="197",KinoJam 2 [FHD]
+https://rostishkatv.space/iptv/users/kitera/KinoJam_2_FHD.m3u8
+
+#EXTINF:0 group-title="🎬 Кино и Сериалы" tvg-id="198",Trash [FHD]
+https://rostishkatv.space/iptv/users/kitera/Trash_FHD.m3u8
+
+#EXTINF:0 group-title="🎬 Кино и Сериалы" tvg-id="199",Камеди [FHD]
+https://rostishkatv.space/iptv/users/kitera/Kamedi_FHD.m3u8
+
+#EXTINF:0 group-title="🎬 Кино и Сериалы" tvg-id="200",Комедийное [FHD]
+https://rostishkatv.space/iptv/users/kitera/Komediynoe_FHD.m3u8
+
+#EXTINF:0 group-title="🎬 Кино и Сериалы" tvg-id="201",Epic Drama [FHD]
+https://rostishkatv.space/iptv/users/kitera/Epic_Drama_FHD.m3u8
+
+#EXTINF:0 group-title="🎬 Кино и Сериалы" tvg-id="202",Flix Snip
+https://rostishkatv.space/iptv/users/kitera/Flix_Snip.m3u8
+
+#EXTINF:0 group-title="🎬 Кино и Сериалы" tvg-id="203",День Победы [FHD]
+https://rostishkatv.space/iptv/users/kitera/Den_Pobedy_FHD.m3u8
+
+#EXTINF:0 group-title="🎬 Кино и Сериалы" tvg-id="205",Cinema
+https://rostishkatv.space/iptv/users/kitera/Cinema.m3u8
+
+#EXTINF:0 group-title="🎬 Кино и Сериалы" tvg-id="206",Plan B [FHD]
+https://rostishkatv.space/iptv/users/kitera/Plan_B_FHD.m3u8
+
+#EXTINF:0 group-title="🎬 Кино и Сериалы" tvg-id="207",Shot TV
+https://rostishkatv.space/iptv/users/kitera/Shot_TV.m3u8
+
+#EXTINF:0 group-title="🎬 Кино и Сериалы" tvg-id="208",Bollywood [FHD]
+https://rostishkatv.space/iptv/users/kitera/Bollywood_FHD.m3u8
+
+#EXTINF:0 group-title="🎬 Кино и Сериалы" tvg-id="209",Timeless Dizi Channel
+https://rostishkatv.space/iptv/users/kitera/Timeless_Dizi_Channel_FHD.m3u8
+
+#EXTINF:0 group-title="🎬 Кино и Сериалы" tvg-id="210",DetectiveJam [FHD]
+https://rostishkatv.space/iptv/users/kitera/DetectiveJam_FHD.m3u8
+
+#EXTINF:0 group-title="🎬 Кино и Сериалы" tvg-id="211",KION Хит [FHD]
+https://rostishkatv.space/iptv/users/kitera/KION_Hit_FHD.m3u8
+
+#EXTINF:-1 group-title="🎬 Кино и Сериалы" tvg-id="noname",Romance [FHD]
+https://rostishkatv.space/iptv/users/kitera/Romance_FHD.m3u8
+
+#EXTINF:0 group-title="🎬 Кино и Сериалы" tvg-id="212",Kinowood [FHD]
+https://rostishkatv.space/iptv/users/kitera/Kinowood_FHD.m3u8
+
+#EXTINF:0 group-title="🎬 Кино и Сериалы" tvg-id="213",Военное кино [FHD]
+https://rostishkatv.space/iptv/users/kitera/Voenoe_Kino_FHD.m3u8
+
+#EXTINF:0 group-title="🎬 Кино и Сериалы"  tvg-id="214",Кино 1 [HD]
+https://rostishkatv.space/iptv/users/kitera/Kino1_HD.m3u8
+
+#EXTINF:0 group-title="🎬 Кино и Сериалы" tvg-id="215",Кино 2 [FHD]
+https://rostishkatv.space/iptv/users/kitera/Kino2_FHD.m3u8
+
+#EXTINF:0 group-title="🎬 Кино и Сериалы" tvg-id="216",Детское кино [HD]
+https://rostishkatv.space/iptv/users/kitera/DetskoeKino_FHD.m3u8
+
+#EXTINF:0 group-title="🎬 Кино и Сериалы" tvg-id="noname" tvg-logo="https://epg.one/img2/8796.png",КИНОДРОМ [FHD]
+https://rostishkatv.space/iptv/users/kitera/KINODROM_FHD.m3u8
+
+#EXTINF:0 group-title="🎬 Кино и Сериалы" tvg-id="218",Лавстори [FHD]
+https://rostishkatv.space/iptv/users/kitera/Lavstori_FHD.m3u8
+
+#EXTINF:0 group-title="🎬 Кино и Сериалы" tvg-id="219",Советская киноклассика [FHD]
+https://rostishkatv.space/iptv/users/kitera/Sovetskaya_kinoklassika_FHD.m3u8
+
+#EXTINF:0 group-title="🎬 Кино и Сериалы" tvg-id="220",VHS-ка [FHD]
+https://rostishkatv.space/iptv/users/kitera/VHSka_FHD.m3u8
+
+#EXTINF:0 group-title="🎬 Кино и Сериалы" tvg-id="221",Scream [FHD]
+https://rostishkatv.space/iptv/users/kitera/Scream_FHD.m3u8
+
+#EXTINF:0 group-title="🎬 Кино и Сериалы" tvg-id="222",Романтичное [FHD]
+https://rostishkatv.space/iptv/users/kitera/Romantichnoe_FHD.m3u8
+
+#EXTINF:0 group-title="🎬 Кино и Сериалы" tvg-id="226",Страх [HD]
+https://rostishkatv.space/iptv/users/kitera/Strah_HD.m3u8
+
+#EXTINF:0 group-title="🎬 Кино и Сериалы" tvg-id="227",Фантастика [HD]
+https://rostishkatv.space/iptv/users/kitera/Fantastika_HD.m3u8
+
+#EXTINF:0 group-title="🎬 Кино и Сериалы" tvg-id="228",Юнит [HD]
+https://rostishkatv.space/iptv/users/kitera/Unit_HD.m3u8
+
+#EXTINF:0 group-title="🎬 Кино и Сериалы" tvg-id="229",USSR [FHD]
+https://rostishkatv.space/iptv/users/kitera/USSR_FHD.m3u8
+
+#EXTINF:-1 group-title="🎬 Кино и Сериалы" tvg-id="527" tvg-rec="7",Шокирующее [FHD]
+https://rostishkatv.space/iptv/users/kitera/SHokiruushchee_FHD.m3u8
+
+#EXTINF:-1 group-title="🎬 Кино и Сериалы" tvg-id="noname" tvg-rec="1",Окко ТВ [FHD]
+https://rostishkatv.space/iptv/users/kitera/Okko_TV_FHD.m3u8
+
+#EXTINF:-1 group-title="🎬 Кино и Сериалы" tvg-id="noname" tvg-rec="1",Окко Герои [FHD]
+https://rostishkatv.space/iptv/users/kitera/Okko_Geroi_FHD.m3u8
+
+
+
+
+
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="230",CineMan [FHD]
+https://rostishkatv.space/iptv/users/kitera/CineMan_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="231",CineMan Top [FHD]
+https://rostishkatv.space/iptv/users/kitera/CineMan_Top_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="232",CineMan Premium [FHD]
+https://rostishkatv.space/iptv/users/kitera/CineMan_Premium_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="233",CineMan Action [FHD]
+https://rostishkatv.space/iptv/users/kitera/CineMan_Action_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="234",CineMan Thriller [FHD]
+https://rostishkatv.space/iptv/users/kitera/CineMan_Thriller_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="235",CineMan Катастрофы [FHD]
+https://rostishkatv.space/iptv/users/kitera/CineMan_Katastrofy_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="236",CineMan Мелодрама [FHD]
+https://rostishkatv.space/iptv/users/kitera/CineMan_Melodrama_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="237",CineMan Marvel [FHD]
+https://rostishkatv.space/iptv/users/kitera/CineMan_Marvel_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="238",CineMan Ужасы [FHD]
+https://rostishkatv.space/iptv/users/kitera/CineMan_Uzasy_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="239",CineMan Комедия [FHD]
+https://rostishkatv.space/iptv/users/kitera/CineMan_Comedy_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="240",CineMan VHS [FHD]
+https://rostishkatv.space/iptv/users/kitera/CineMan_VHS_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="241",CineMan РуКино [FHD]
+https://rostishkatv.space/iptv/users/kitera/CineMan_RuKino_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="242",CineMan Сваты [FHD]
+https://rostishkatv.space/iptv/users/kitera/CineMan_Svaty_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="243",CineMan Ментовские войны [FHD]
+https://rostishkatv.space/iptv/users/kitera/CineMan_MentovskieVoiny_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="244",CineMan ПёС [FHD]
+https://rostishkatv.space/iptv/users/kitera/CineMan_Pes_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="245",CineMan Лесник [FHD]
+https://rostishkatv.space/iptv/users/kitera/CineMan_Lesnik_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="246",CineMan Симпсоны [FHD]
+https://rostishkatv.space/iptv/users/kitera/CineMan_Simpsony_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="247",CineMan Скорая Помощь [FHD]
+https://rostishkatv.space/iptv/users/kitera/CineMan_SkorayaHelp_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="248",CineMan MiniSeries [FHD]
+https://rostishkatv.space/iptv/users/kitera/CineMan_MiniSeries_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="noname" tvg-logo="https://iptvx.one/picons/cineman.png",CineMan Глухарь + Карпов [FHD]
+https://rostishkatv.space/iptv/users/kitera/CineMan_GluharKarpov_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="noname" tvg-logo="http://epg.one/img2/6052.png",CineMan ПёС + Лихач [FHD]
+https://rostishkatv.space/iptv/users/kitera/CineMan_PeS_PLUS_Lihach_FHD.m3u8
+
+#EXTINF:-1 group-title="🎞️ Кинозалы" tvg-id="459" tvg-rec="7",CineMan Комедийные сериалы [FHD]
+https://rostishkatv.space/iptv/users/kitera/CineMan_Komediynye_Serialy_FHD.m3u8
+
+#EXTINF:-1 group-title="🎞️ Кинозалы" tvg-id="462" tvg-rec="7",CineMan Криминальные сериалы [FHD]
+https://rostishkatv.space/iptv/users/kitera/CineMan_Kriminalnye_Serialy_FHD.m3u8
+
+#EXTINF:-1 group-title="🎞️ Кинозалы" tvg-id="217" tvg-rec="1",CineMan Военные Сериалы [FHD]
+https://rostishkatv.space/iptv/users/kitera/CineMan_Voennye_Serialy_FHD.m3u8
+
+#EXTINF:-1 group-title="🎞️ Кинозалы" tvg-id="20" tvg-rec="1",CineMan CCCP [FHD]
+https://rostishkatv.space/iptv/users/kitera/CineMan_CCCP_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="250",BCU Кинозал Premiere 1 [FHD]
+https://rostishkatv.space/iptv/users/kitera/BCU_Premiere1_FHD.m3u8
+
+#EXTINF:-1 group-title="🎞️ Кинозалы" tvg-id="250" tvg-logo="http://1lot.tv/ch/9421.png" tvg-rec="1",BCU Кинозал Premiere 1 [FHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/BCU_Premiere_1_FHD_HDR.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="251",BCU Кинозал Premiere 2 [FHD]
+https://rostishkatv.space/iptv/users/kitera/BCU_Premiere2_FHD.m3u8
+
+#EXTINF:-1 group-title="🎞️ Кинозалы" tvg-id="251" tvg-logo="http://1lot.tv/ch/9422.png",BCU Кинозал Premiere 2 [FHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/BCU_Premiere_2_FHD_HDR.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="252",BCU Кинозал Premiere 3 [FHD]
+https://rostishkatv.space/iptv/users/kitera/BCU_Premiere3_FHD.m3u8
+
+#EXTINF:-1 group-title="🎞️ Кинозалы" tvg-id="252" tvg-logo="http://1lot.tv/ch/9423.png" tvg-rec="1",BCU Кинозал Premiere 3 [FHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/BCU_Premiere_3_FHD_HDR.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="253",BCU Premiere [FHD]
+https://rostishkatv.space/iptv/users/kitera/BCU_Premiere_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="254",BCU Action [FHD]
+https://rostishkatv.space/iptv/users/kitera/BCU_Action_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="255",BCU Catastrophe [FHD]
+https://rostishkatv.space/iptv/users/kitera/BCU_Catastrophe_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="256",BCU Cinema [FHD]
+https://rostishkatv.space/iptv/users/kitera/BCU_Cinema_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="257",BCU Cinema PLUS [FHD]
+https://rostishkatv.space/iptv/users/kitera/BCU_CinemaPLUS_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="258",BCU Fantastic [FHD]
+https://rostishkatv.space/iptv/users/kitera/BCU_Fantastic_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="259",BCU FilMystic [FHD]
+https://rostishkatv.space/iptv/users/kitera/BCU_FilMystic_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="260",BCU History [FHD]
+https://rostishkatv.space/iptv/users/kitera/BCU_History_FHD.m3u8
+
+#EXTINF:-1 group-title="🎞️ Кинозалы" tvg-id="261" tvg-rec="1",BCU Comedy [FHD]
+https://rostishkatv.space/iptv/users/kitera/BCU_Comedy_FHD_NOHDR.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="261",BCU Comedy [FHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/BCU_Comedy_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="262",BCU Romantic [FHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/BCU_Romantic_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="262",BCU Romantic OLD [FHD]
+https://rostishkatv.space/iptv/users/kitera/BCU_Romantic_OLD_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="263",BCU Kinorating [FHD]
+https://rostishkatv.space/iptv/users/kitera/BCU_Kinorating_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="264",BCU Criminal [FHD]
+https://rostishkatv.space/iptv/users/kitera/BCU_Criminal_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="119",BCU Marvel [FHD]
+https://rostishkatv.space/iptv/users/kitera/BCU_Marvel_FHD_NOHDR.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="265",BCU Marvel [FHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/BCU_Marvel_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="266",BCU Stars [FHD]
+https://rostishkatv.space/iptv/users/kitera/BCU_Stars_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="267",BCU.MEDIA [FHD]
+https://rostishkatv.space/iptv/users/kitera/BCU_Action2_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="128",BCU.MEDIA OLD [FHD]
+https://rostishkatv.space/iptv/users/kitera/BCUMEDIA_OLD_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="268",BCU Reality [FHD]
+https://rostishkatv.space/iptv/users/kitera/BCU_Reality_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="130",BCU Reality OLD [FHD]
+https://rostishkatv.space/iptv/users/kitera/BCU_Reality_OLD_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="269",BCU Survival [FHD]
+https://rostishkatv.space/iptv/users/kitera/BCU_Survival_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="132",BCU Survival OLD [FHD]
+https://rostishkatv.space/iptv/users/kitera/BCU_Survival_OLD_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="270",BCU Cosmo [FHD]
+https://rostishkatv.space/iptv/users/kitera/BCU_Cosmo_FHD.m3u8
+
+#EXTINF:-1 group-title="🎞️ Кинозалы" tvg-id="32" tvg-logo="http://1lot.tv/ch/9531.png",BCU Cosmo [FHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/BCU_Cosmo_FHD_HDR.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="271",BCU TruMotion [FHD] {60 fps} {HDR}
+https://rostishkatv.space/iptv/users/kitera/BCU_TruMotion_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="272",BCU VHS [FHD]
+https://rostishkatv.space/iptv/users/kitera/BCU_VHS_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="273",BCU СССР [FHD]
+https://rostishkatv.space/iptv/users/kitera/BCU_SSSR_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="274",BCU Russian [FHD]
+https://rostishkatv.space/iptv/users/kitera/BCU_Russian_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="275",BCU RuSerial [FHD]
+https://rostishkatv.space/iptv/users/kitera/BCU_RuSerial_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="276",BCU Сваты [FHD]
+https://rostishkatv.space/iptv/users/kitera/BCU_Svaty_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="142",BCU Russia 90s [FHD]
+https://rostishkatv.space/iptv/users/kitera/BCU_Russia_90s_FHD.m3u8
+
+#EXTINF:-1 group-title="🎞️ Кинозалы" tvg-id="277" tvg-logo="https://rostishkatv.space/images/logos_channels/tricolor-zal01.png",Триколор.Зал 1 [FHD]
+https://rostishkatv.space/iptv/users/kitera/Tricolor_Zal01_FHD.m3u8
+
+#EXTINF:-1 group-title="🎞️ Кинозалы" tvg-id="278" tvg-logo="https://rostishkatv.space/images/logos_channels/tricolor-zal02.png",Триколор.Зал 2
+https://rostishkatv.space/iptv/users/kitera/Tricolor_Zal02.m3u8
+
+#EXTINF:-1 group-title="🎞️ Кинозалы" tvg-id="279" tvg-logo="https://rostishkatv.space/images/logos_channels/tricolor-zal03.png",Триколор.Зал 3
+https://rostishkatv.space/iptv/users/kitera/Tricolor_Zal03.m3u8
+
+#EXTINF:-1 group-title="🎞️ Кинозалы" tvg-id="280" tvg-logo="https://rostishkatv.space/images/logos_channels/tricolor-zal04.png",Триколор.Зал 4
+https://rostishkatv.space/iptv/users/kitera/Tricolor_Zal04.m3u8
+
+#EXTINF:-1 group-title="🎞️ Кинозалы" tvg-id="281" tvg-logo="https://rostishkatv.space/images/logos_channels/tricolor-zal05.png",Триколор.Зал 5
+https://rostishkatv.space/iptv/users/kitera/Tricolor_Zal05.m3u8
+
+#EXTINF:-1 group-title="🎞️ Кинозалы" tvg-id="282" tvg-logo="https://rostishkatv.space/images/logos_channels/tricolor-zal06.png",Триколор.Зал 6
+https://rostishkatv.space/iptv/users/kitera/Tricolor_Zal06.m3u8
+
+#EXTINF:-1 group-title="🎞️ Кинозалы" tvg-id="283" tvg-logo="https://rostishkatv.space/images/logos_channels/tricolor-zal08.png",Триколор.Зал 8
+https://rostishkatv.space/iptv/users/kitera/Tricolor_Zal08.m3u8
+
+#EXTINF:-1 group-title="🎞️ Кинозалы" tvg-id="284" tvg-logo="https://rostishkatv.space/images/logos_channels/tricolor-zal09.png",Триколор.Зал 9 [FHD]
+https://rostishkatv.space/iptv/users/kitera/Tricolor_Zal09_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="285" tvg-rec="3",VF Счастливы Вместе [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_HappyTogether_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="286",VF Индия [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_Indiya_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="287" tvg-rec="7",VF Premiere [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_Premiere_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="288" tvg-rec="7",VF Премьера [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_Premiera_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="289" tvg-rec="7",VF Comedy [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_Comedy_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="290" tvg-rec="7",VF Комедия [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_Comediya_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="291" tvg-rec="7",VF Classic [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_Classic_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="292" tvg-rec="7",VF Классика [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_Classica_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="293" tvg-rec="7",VF Боевики [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_Boeviki_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="294" tvg-rec="7",VF Катастрофы [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_Katastrof_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="295",VF Detective [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_Detective_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="296" tvg-rec="7",VF Mystic [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_Mystic_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="297",VF Fantastic [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_Fantastic_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="298" tvg-rec="7",VF Marvel [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_Marvel_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="299",VF Comics [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_Comics_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="300" tvg-rec="7",VF Adventure [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_Adventure_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="301" tvg-rec="7",VF Fantasy [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_Fantasy_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="302",VF Thriller [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_Thriller_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="303",VF История [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_History_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="304",VF Оскар [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_Oskar_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="305" tvg-rec="7",VF Family [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_Family_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="306" tvg-rec="7",VF Melodrama [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_Melodrama_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="307" tvg-rec="7",VF Ужасы [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_Horror_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="308" tvg-rec="7",VF Ужасы VHS [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_HorrorVHS_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="309",VF Криминал [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_Kriminal_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="310",VF Art house [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_Arthouse_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="311",VF TOP Series [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_TOPSeries_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="312",VF Netflix [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_Netflix_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="313",VF HBO [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_HBO_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="314",VF Series [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_Series_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="315",VF Сериал [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_Serial_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="316",VF Игра престолов [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_GamePrestol_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="317",VF Мыльные оперы [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_MylOper_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="318" tvg-rec="7",VF VHS MIX [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_VHSMIX_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="319",VF Без цензуры (18+) [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_BezCenzury18_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="320",VF Луи де Фюнес [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_LuiDeFunes_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="321",VF Чернобыль [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_Chernobyl_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="322",VF The X-Files [HD]
+https://rostishkatv.space/iptv/users/kitera/VF_TheXfiles_HD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="323",VF Сверхъестественное [HD]
+https://rostishkatv.space/iptv/users/kitera/VF_Sverhestestvenoe_HD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="324",VF Американская история ужасов [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_AmericanHistoryHorror_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="325",VF Друзья [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_Friends_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="326",VF СашаТаня [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_SashaTanya_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="327",VF Универ новая общага [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_UniverNovayaObshaga_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="328",VF Универ [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_University_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="329",VF Наша Раша [HD]
+https://rostishkatv.space/iptv/users/kitera/VF_NashaRasha_HD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="330",VF Однажды в России [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_OdnazhdyVRossii_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="331",VF Джеки Чан [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_DzhekiCHan_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="332",VF Ходячие мертвецы [HD]
+https://rostishkatv.space/iptv/users/kitera/VF_HodyachieMertvecy_HD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="333",VF Реальные пацаны [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_RealnyePacany_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="334",VF Теория большого взрыва [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_TeoriyaBolshogoVzryVa_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="335",VF Доктор Хаус [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_DoktorHaus_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="noname" tvg-logo="https://epg.one/img2/5207.png",VF Клиника [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_Klinika_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="337",VF Сваты [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_Svaty_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="338",VF Воронины [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_Voroniny_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="339",VF Солдаты [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_Soldaty_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="340",VF След [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_Sled_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="341" tvg-rec="7",VF Военные [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_Voennye_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="342" tvg-rec="7",VF Наша победа [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_NashaPobeda_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="343"  tvg-rec="7",VF Фильмы СССР [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_FilmySSSR_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="344",VF Эльдар Рязанов [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_ldarRyazanov_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="345",VF Леонид Гайдай [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_LeonidGayday_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="346" tvg-rec="7",VF Мосфильм [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_Mosfilm_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="347",VF Ленфильм [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_Lenfilm_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="348",VF Одесская киностудия [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_Odesskayakinostudiya_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="349",VF Киностудия им. Горького [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_KinostudiyaimGorkogo_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="noname" tvg-logo="https://iptvx.one/picons/vf-sverdlovskkinostudia.png",VF Свердловская киностудия [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_Sverdlovskayakinostudiya_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="351",VF Рижская киностудия [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_Rizhskayakinostudiya_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="352",VF Беларусьфильм [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_Belarusfilm_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="353",VF Тайны следствия [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_TaynySledStviya_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="354",VF Кухня [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_Kuhnya_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="355",VF Секс в большом городе [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_SeksVBolshomGorode_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="noname" tvg-logo="https://iptvx.one/picons/vf-garipoter.png",VF Гарри Поттер [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_GarriPotter_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="356",VF Карточный домик [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_KartochnyyDomik_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="357" tvg-rec="7",VF Два с половиной человека [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_DvaSPolovinoyCHeloveka_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="358" tvg-rec="7",VF Бесстыжие [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_Besstyzhie_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="359" tvg-rec="7",VF Владимир Высоцкий [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_VladimirVysockiy_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="360",VF Граиндхаус [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_Graindhaus_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="362",VF Disney Movie [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_DisneyMovie_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="249" tvg-rec="3",VF Сериалы Турции [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_Serialy_Turcii_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="28",VF Вестерн [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_Vestern.m3u8
+
+#EXTINF:-1 group-title="🎞️ Кинозалы" tvg-id="65",BOX Apocalypse [FHD]
+https://rostishkatv.space/iptv/users/kitera/BOX_Apocalypse_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="366",BOX Franchise [FHD]
+https://rostishkatv.space/iptv/users/kitera/BOX_Franchise_FHD.m3u8
+
+#EXTINF:-1 group-title="🎞️ Кинозалы" tvg-id="noname" tvg-logo="https://iptvx.one/picons/box-franchise-hdr.png" tvg-rec="1",BOX Franchise [FHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/BOX_Franchise_FHD_HDR.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="367",BOX Hybrid [FHD]
+https://rostishkatv.space/iptv/users/kitera/BOX_Hybrid_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="368",BOX Cyber [FHD]
+https://rostishkatv.space/iptv/users/kitera/BOX_Cyber_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="369",BOX Gangster [FHD]
+https://rostishkatv.space/iptv/users/kitera/BOX_Gangster_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="370",BOX Oscar [FHD]
+https://rostishkatv.space/iptv/users/kitera/BOX_Oscar_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="371",BOX Memory [FHD]
+https://rostishkatv.space/iptv/users/kitera/BOX_Memory_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="372",BOX Spy [FHD]
+https://rostishkatv.space/iptv/users/kitera/BOX_Spy_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="373",BOX Western [FHD]
+https://rostishkatv.space/iptv/users/kitera/BOX_Western_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="374",BOX Zombie [FHD]
+https://rostishkatv.space/iptv/users/kitera/BOX_Zombie_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="375",BOX Ghost [FHD]
+https://rostishkatv.space/iptv/users/kitera/BOX_Ghost_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="376",BOX Fantasy [FHD]
+https://rostishkatv.space/iptv/users/kitera/BOX_Fantasy_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="377",BOX Serial [FHD]
+https://rostishkatv.space/iptv/users/kitera/BOX_Serial_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="378",MM NewFilm 1 [FHD]
+https://rostishkatv.space/iptv/users/kitera/MM_NewFilm1_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="379",MM NewFilm 2 [FHD]
+https://rostishkatv.space/iptv/users/kitera/MM_NewFilm2_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="380",MM NewFilm 3 [FHD]
+https://rostishkatv.space/iptv/users/kitera/MM_NewFilm3_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="381",MM NewFilm RU [FHD]
+https://rostishkatv.space/iptv/users/kitera/MM_NewFilmRU_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="382",MM Classic [FHD]
+https://rostishkatv.space/iptv/users/kitera/MM_Classic_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="383",MM Боевик Classic [FHD]
+https://rostishkatv.space/iptv/users/kitera/MM_BoevikClassic_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="384",MM Боевик [FHD]
+https://rostishkatv.space/iptv/users/kitera/MM_Boevik_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="385",MM Триллер [FHD]
+https://rostishkatv.space/iptv/users/kitera/MM_Triller_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="386",MM UFO [FHD]
+https://rostishkatv.space/iptv/users/kitera/MM_UFO_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="387",MM Катастрофа [FHD]
+https://rostishkatv.space/iptv/users/kitera/MM_Katastrofa_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="388",MM Криминал [FHD]
+https://rostishkatv.space/iptv/users/kitera/MM_Kriminal_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="389",MM Приключения [FHD]
+https://rostishkatv.space/iptv/users/kitera/MM_Priklucheniya_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="390",MM Мифология [FHD]
+https://rostishkatv.space/iptv/users/kitera/MM_Mifologiya_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="391",MM История [FHD]
+https://rostishkatv.space/iptv/users/kitera/MM_Istoriya_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="392",MM Комедия [FHD]
+https://rostishkatv.space/iptv/users/kitera/MM_Komediya_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="393",MM Комедия Classic [FHD]
+https://rostishkatv.space/iptv/users/kitera/MM_KomediyaClassic_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="394",MM Семейный 1 [FHD]
+https://rostishkatv.space/iptv/users/kitera/MM_Semeynyy1_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="395",MM Семейный 2 [FHD]
+https://rostishkatv.space/iptv/users/kitera/MM_Semeynyy2_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="396",MM Фантастика [FHD]
+https://rostishkatv.space/iptv/users/kitera/MM_Fantastika_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="397",MM Киберпанк [FHD]
+https://rostishkatv.space/iptv/users/kitera/MM_Kiberpank_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="398",MM Вестерн [FHD]
+https://rostishkatv.space/iptv/users/kitera/MM_Vestern_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="399",MM Драма [FHD]
+https://rostishkatv.space/iptv/users/kitera/MM_Drama_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="400",MM Ужастик [FHD]
+https://rostishkatv.space/iptv/users/kitera/MM_Uzhastik_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="401",MM Ужасы [FHD]
+https://rostishkatv.space/iptv/users/kitera/MM_Uzhasy_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="402",MM Ужасы Classic [FHD]
+https://rostishkatv.space/iptv/users/kitera/MM_UzhasyClassic_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="403",MM Погружение [FHD]
+https://rostishkatv.space/iptv/users/kitera/MM_Pogruzhenie_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="404",MM Скорость [FHD]
+https://rostishkatv.space/iptv/users/kitera/MM_Skorost_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="405",MM 007 [FHD]
+https://rostishkatv.space/iptv/users/kitera/MM_007_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="406",MM Love [FHD]
+https://rostishkatv.space/iptv/users/kitera/MM_Love_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="407",MM Фобия [FHD]
+https://rostishkatv.space/iptv/users/kitera/MM_Fobiya_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="408",MM Затмение [FHD]
+https://rostishkatv.space/iptv/users/kitera/MM_Zatmenie_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="409",MM Синематограф [FHD]
+https://rostishkatv.space/iptv/users/kitera/MM_Sinematograf_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="410",MM Стивен Кинг [FHD]
+https://rostishkatv.space/iptv/users/kitera/MM_StivenKing_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="411",MM Celebrity [FHD]
+https://rostishkatv.space/iptv/users/kitera/MM_Celebrity_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="412",MM Супергерои [FHD]
+https://rostishkatv.space/iptv/users/kitera/MM_Supergeroi_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="413",MM Грайндхаус [FHD]
+https://rostishkatv.space/iptv/users/kitera/MM_Grayndhaus_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="414",MM Кунг-Фу [FHD]
+https://rostishkatv.space/iptv/users/kitera/MM_KungFu_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="415",MM Спорт [FHD]
+https://rostishkatv.space/iptv/users/kitera/MM_Sport_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="416",MM Агата Кристи [FHD]
+https://rostishkatv.space/iptv/users/kitera/MM_AgataKristi_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="417",MM Нуар [FHD]
+https://rostishkatv.space/iptv/users/kitera/MM_Nuar_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="418",MM USSR Детектив [FHD]
+https://rostishkatv.space/iptv/users/kitera/MM_USSRDetektiv_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="419",MM USSR Приключения [FHD]
+https://rostishkatv.space/iptv/users/kitera/MM_USSRPriklucheniya_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="420",MM Translation [FHD]
+https://rostishkatv.space/iptv/users/kitera/MM_Translation_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="421",MM OldSchool [FHD]
+https://rostishkatv.space/iptv/users/kitera/MM_OldSchool_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="422",MM USSR Комедия [FHD]
+https://rostishkatv.space/iptv/users/kitera/MM_USSRKomediya_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="423",MM USSR Фантастика [FHD]
+https://rostishkatv.space/iptv/users/kitera/MM_USSRFantastika_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="424",MM USSR 1941-1945 [FHD]
+https://rostishkatv.space/iptv/users/kitera/MM_USSR19411945_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="425",MM Крутые 90-е [FHD]
+https://rostishkatv.space/iptv/users/kitera/MM_Krutye90e_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="426",MM Роскино [FHD]
+https://rostishkatv.space/iptv/users/kitera/MM_Roskino_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="427",MM Воронины [FHD]
+https://rostishkatv.space/iptv/users/kitera/MM_Voroniny_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="428",MM Сваты [FHD]
+https://rostishkatv.space/iptv/users/kitera/MM_Svaty_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="429",MM Ситком [FHD]
+https://rostishkatv.space/iptv/users/kitera/MM_Sitkom_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="430",MM Полицейский с Рублёвки [FHD]
+https://rostishkatv.space/iptv/users/kitera/MM_PoliceyskiysRublevki_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="431",MM Ситком 2.0 [FHD]
+https://rostishkatv.space/iptv/users/kitera/MM_Sitkom20_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="432",MM Family Guy [FHD]
+https://rostishkatv.space/iptv/users/kitera/MM_FamilyGuy_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="433",MM USSR Драма [FHD]
+https://rostishkatv.space/iptv/users/kitera/MM_USSR_Drama_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="457",MM Кинофестиваль [FHD]
+https://rostishkatv.space/iptv/users/kitera/MM_Kinofestival_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="434",Yosso TV New Кино [FHD]
+https://rostishkatv.space/iptv/users/kitera/YossoTV_NewKino_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="435",Yosso TV Thriller [FHD]
+https://rostishkatv.space/iptv/users/kitera/YossoTV_Thriller_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="436",Yosso TV Grand [FHD]
+https://rostishkatv.space/iptv/users/kitera/YossoTV_Grand_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="437",Yosso TV Adrenaline [FHD]
+https://rostishkatv.space/iptv/users/kitera/YossoTV_Adrenaline_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="438",Yosso TV Adventure [FHD]
+https://rostishkatv.space/iptv/users/kitera/YossoTV_Adventure_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="439",Yosso TV Мелодрама [FHD]
+https://rostishkatv.space/iptv/users/kitera/YossoTV_Melodrama_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="440",Yosso TV Трагичное [FHD]
+https://rostishkatv.space/iptv/users/kitera/YossoTV_Tragichnoe_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="441",Yosso TV Забавное [FHD]
+https://rostishkatv.space/iptv/users/kitera/YossoTV_Zabavnoe_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="442",Yosso TV Ковбойское [FHD]
+https://rostishkatv.space/iptv/users/kitera/YossoTV_Kovboyskoe_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="443",Yosso TV Русские Фильмы [FHD]
+https://rostishkatv.space/iptv/users/kitera/YossoTV_RusskieFilmy_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="444",Yosso TV Советские Фильмы [FHD]
+https://rostishkatv.space/iptv/users/kitera/YossoTV_SovetskieFilmy_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="445",Yosso TV Oblivion [FHD]
+https://rostishkatv.space/iptv/users/kitera/YossoTV_Oblivion_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="446",Yosso TV VHS [FHD]
+https://rostishkatv.space/iptv/users/kitera/YossoTV_VHS_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="447",Yosso TV Netflix [FHD]
+https://rostishkatv.space/iptv/users/kitera/YossoTV_Netflix_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="448",Yosso TV Best [FHD] {60 fps}
+https://rostishkatv.space/iptv/users/kitera/YossoTV_BestFHD60Fps.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="449",Yosso TV Disney [FHD]
+https://rostishkatv.space/iptv/users/kitera/YossoTV_Disney_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="noname",SKY HIGH Fresh [FHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/SKYHIGH_FreshFHDHDR.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="noname" tvg-logo="https://iptvx.one/picons/skyhigh-fresh.png",SKY HIGH Fresh [FHD]
+https://rostishkatv.space/iptv/users/kitera/SKYHIGH_Fresh_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="noname",SKY HIGH Series [FHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/SKYHIGH_Series_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="noname",SKY HIGH Heroes [FHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/SKYHIGH_Heroes_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="noname",SKY HIGH Epoch [FHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/SKYHIGH_Epoch_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="noname",SKY HIGH Mix [FHD] {3D}
+https://rostishkatv.space/iptv/users/kitera/SKYHIGH_MixFHD3D.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="noname",SKY HIGH Spirit [FHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/SKYHIGH_Split_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="noname",SKY HIGH Future [FHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/SKYHIGH_Future_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="noname",SKY HIGH Russian [FHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/SKYHIGH_Russian_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="noname",SKY HIGH Noir [FHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/SKYHIGH_Noir_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="noname",SKY HIGH ЧБУ [FHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/SKYHIGH_CHBU_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="noname",SKY HIGH Orig [FHD]
+https://rostishkatv.space/iptv/users/kitera/SKYHIGH_Orig_FHD.m3u8
+
+#EXTINF:-1 group-title="🎞️ Кинозалы" tvg-id="noname" tvg-logo="http://1lot.tv/ch/11003.png" tvg-rec="1",SKY HIGH Beyond S [FHD]
+https://rostishkatv.space/iptv/users/kitera/SKY_High_Beyond_S_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="noname" tvg-logo="https://iptvx.one/picons/liberty-dc.png",Liberty DC [FHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/Liberty_DC_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="noname" tvg-logo="https://iptvx.one/picons/liberty-marvel.png",Liberty Marvel [FHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/Liberty_Marvel_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="noname" tvg-logo="https://epg.one/img2/5520.png",Liberty Короткометражное [FHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/Liberty_Korotkometrazhnoe_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="481",Liberty Мелодрамы [FHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/Liberty_Melodramy_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="noname" tvg-logo="https://iptvx.one/picons/liberty-boeviki.png",Liberty Боевики [FHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/Liberty_Boeviki_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="noname" tvg-logo="https://iptvx.one/picons/liberty-svaty.png",Liberty Сваты [FHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/Liberty_Svaty_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="noname" tvg-logo="https://iptvx.one/picons/liberty-serialy.png",Liberty Сериалы [FHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/Liberty_Serialy_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="485",Liberty Южный Парк [FHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/Liberty_UzhnyyPark_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="486",Liberty Занавес [FHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/Liberty_Zanaves_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="noname",Liberty Фантастика [FHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/Liberty_Fantastika_FHD.m3u8
+
+#EXTINF:-1 group-title="🎞️ Кинозалы" tvg-id="522" tvg-rec="1",Liberty Фан [FHD]
+https://rostishkatv.space/iptv/users/kitera/LIBERTY_Fan_FHD.m3u8
+
+#EXTINF:-1 group-title="🎞️ Кинозалы" tvg-id="noname" tvg-rec="1",Liberty Короткометражки [FHD]
+https://rostishkatv.space/iptv/users/kitera/LIBERTY_Korotkometrazhki_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="noname" tvg-logo="https://epg.one/img2/1113.png",Z! Channel [HD]
+https://rostishkatv.space/iptv/users/kitera/Z_Channel_HD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="noname" tvg-logo="https://epg.one/img2/1114.png",Z! Comedy [HD]
+https://rostishkatv.space/iptv/users/kitera/Z_Comedy_HD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="noname" tvg-logo="https://epg.one/img2/1115.png",Z! Crime [HD]
+https://rostishkatv.space/iptv/users/kitera/Z_Crime_HD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="noname" tvg-logo="https://epg.one/img2/1116.png",Z! Horror [HD]
+https://rostishkatv.space/iptv/users/kitera/Z_Horror_HD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="noname" tvg-logo="https://epg.one/img2/5899.png",Z! Sitcom [HD]
+https://rostishkatv.space/iptv/users/kitera/Z_Sitcom_HD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="noname" tvg-logo="https://epg.one/img2/5898.png",Z! Serial [HD]
+https://rostishkatv.space/iptv/users/kitera/Z_Serial_HD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="noname" tvg-logo="http://epg.one/img2/8783.png",Z! Action [HD]
+https://rostishkatv.space/iptv/users/kitera/Z_Action_HD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="noname" tvg-logo="http://epg.one/img2/8784.png",Z! Adventure [HD]
+https://rostishkatv.space/iptv/users/kitera/Z_Adventure_HD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="noname" tvg-logo="http://epg.one/img2/8786.png",Z! Drama [HD]
+https://rostishkatv.space/iptv/users/kitera/Z_Drama_HD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="noname" tvg-logo="http://epg.one/img2/8787.png",Z! Family [HD]
+https://rostishkatv.space/iptv/users/kitera/Z_Family_HD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="noname" tvg-logo="http://epg.one/img2/8788.png",Z! Fantastic [HD]
+https://rostishkatv.space/iptv/users/kitera/Z_Fantastic_HD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="noname" tvg-logo="http://epg.one/img2/8789.png",Z! Fantasy [HD]
+https://rostishkatv.space/iptv/users/kitera/Z_Fantasy_HD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="noname" tvg-logo="http://epg.one/img2/8791.png",Z! Fun [HD]
+https://rostishkatv.space/iptv/users/kitera/Z_Fun_HD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="noname" tvg-logo="http://epg.one/img2/8782.png",Z! Thriller [HD]
+https://rostishkatv.space/iptv/users/kitera/Z_Thriller_HD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="noname" tvg-logo="http://epg.one/img2/8790.png",Z! Russian [HD]
+https://rostishkatv.space/iptv/users/kitera/Z_Russian_HD.m3u8
+
+#EXTINF:-1 group-title="🎞️ Кинозалы" tvg-id="noname" tvg-logo="http://1lot.tv/ch/9234.png" tvg-rec="1",TVPlay DC Comics [FHD]
+https://rostishkatv.space/iptv/users/kitera/TVPlay_DC_Comics_FHD.m3u8
+
+#EXTINF:-1 group-title="🎞️ Кинозалы" tvg-id="noname" tvg-logo="http://1lot.tv/ch/9221.png" tvg-rec="1",TVPlay Indian Cinema [FHD]
+https://rostishkatv.space/iptv/users/kitera/TVPlay_Indian_Cinema_FHD.m3u8
+
+#EXTINF:-1 group-title="🎞️ Кинозалы" tvg-id="noname" tvg-logo="http://1lot.tv/ch/9220.png" tvg-rec="1",TVPlay Marvel [FHD]
+https://rostishkatv.space/iptv/users/kitera/TVPlay_Marvel_FHD.m3u8
+
+#EXTINF:-1 group-title="🎞️ Кинозалы" tvg-id="noname" tvg-logo="http://1lot.tv/ch/9227.png" tvg-rec="1",TVPlay Myths And Legends [FHD]
+https://rostishkatv.space/iptv/users/kitera/TVPlay_Ksena_Princessa_Voin_HDPLUS.m3u8
+
+#EXTINF:-1 group-title="🎞️ Кинозалы" tvg-id="noname" tvg-logo="http://1lot.tv/ch/9415.png" tvg-rec="1",TVPlay Parodies [FHD]
+https://rostishkatv.space/iptv/users/kitera/TVPlay_Parodies_FHD.m3u8
+
+#EXTINF:-1 group-title="🎞️ Кинозалы" tvg-id="noname" tvg-logo="http://1lot.tv/ch/9226.png" tvg-rec="1",TVPlay АЛЬФ [HD+]
+https://rostishkatv.space/iptv/users/kitera/TVPlay_ALF_HDPLUS.m3u8
+
+#EXTINF:-1 group-title="🎞️ Кинозалы" tvg-id="noname" tvg-logo="http://1lot.tv/ch/9223.png" tvg-rec="1",TVPlay Авторский перевод [FHD]
+https://rostishkatv.space/iptv/users/kitera/TVPlay_Avtorskiy_Perevod_FHD.m3u8
+
+#EXTINF:-1 group-title="🎞️ Кинозалы" tvg-id="noname" tvg-logo="http://1lot.tv/ch/9378.png" tvg-rec="1",TVPlay Баффи [FHD]
+https://rostishkatv.space/iptv/users/kitera/TVPlay_Baffi_FHD.m3u8
+
+#EXTINF:-1 group-title="🎞️ Кинозалы" tvg-id="noname" tvg-logo="http://1lot.tv/ch/9233.png" tvg-rec="1",TVPlay Гарри Поттер [FHD]
+https://rostishkatv.space/iptv/users/kitera/TVPlay_Garri_Potter_FHD.m3u8
+
+#EXTINF:-1 group-title="🎞️ Кинозалы" tvg-id="noname" tvg-logo="http://1lot.tv/ch/9380.png" tvg-rec="1",TVPlay Зачарованные [FHD]
+https://rostishkatv.space/iptv/users/kitera/TVPlay_Zacharovannye_FHD.m3u8
+
+#EXTINF:-1 group-title="🎞️ Кинозалы" tvg-id="noname" tvg-logo="http://1lot.tv/ch/9222.png" tvg-rec="1",TVPlay Игра Престолов [FHD]
+https://rostishkatv.space/iptv/users/kitera/TVPlay_Igra_Prestolov_FHD.m3u8
+
+#EXTINF:-1 group-title="🎞️ Кинозалы" tvg-id="noname" tvg-logo="http://1lot.tv/ch/9235.png" tvg-rec="1",TVPlay Истории Средиземья [FHD]
+https://rostishkatv.space/iptv/users/kitera/TVPlay_Istorii_Sredizemya_FHD.m3u8
+
+#EXTINF:-1 group-title="🎞️ Кинозалы" tvg-id="noname" tvg-logo="http://1lot.tv/ch/9151.png" tvg-rec="1",TVPlay Латинские Сериалы Ретро [FHD]
+https://rostishkatv.space/iptv/users/kitera/TVPlay_Latinskie_Serialy_Retro_FHD.m3u8
+
+#EXTINF:-1 group-title="🎞️ Кинозалы" tvg-id="noname" tvg-logo="http://1lot.tv/ch/9252.png" tvg-rec="1",TVPlay Лихие 90е Кино [FHD]
+https://rostishkatv.space/iptv/users/kitera/TVPlay_Lihie_90e_Kino_FHD.m3u8
+
+#EXTINF:-1 group-title="🎞️ Кинозалы" tvg-id="noname" tvg-logo="http://1lot.tv/ch/9253.png" tvg-rec="1",TVPlay Лихие 90е Сериал [FHD]
+https://rostishkatv.space/iptv/users/kitera/TVPlay_Lihie_90e_Serial_FHD.m3u8
+
+#EXTINF:-1 group-title="🎞️ Кинозалы" tvg-id="noname" tvg-rec="1",TVPlay Майор Черкасов [FHD]
+https://rostishkatv.space/iptv/users/kitera/TVPlay_Mayor_CHerkasov_FHD.m3u8
+
+#EXTINF:-1 group-title="🎞️ Кинозалы" tvg-id="noname" tvg-logo="http://1lot.tv/ch/9254.png" tvg-rec="1",TVPlay Новьё RUS [FHD]
+https://rostishkatv.space/iptv/users/kitera/TVPlay_Nove_RUS_FHD.m3u8
+
+#EXTINF:-1 group-title="🎞️ Кинозалы" tvg-id="noname" tvg-logo="http://1lot.tv/ch/9255.png" tvg-rec="1",TVPlay Новьё Мир [FHD]
+https://rostishkatv.space/iptv/users/kitera/TVPlay_Nove_Mir_FHD.m3u8
+
+#EXTINF:-1 group-title="🎞️ Кинозалы" tvg-id="noname" tvg-logo="http://1lot.tv/ch/9375.png" tvg-rec="1",TVPlay Советское Кино [FHD]
+https://rostishkatv.space/iptv/users/kitera/TVPlay_Sovetskoe_Kino_FHD.m3u8
+
+#EXTINF:-1 group-title="🎞️ Кинозалы" tvg-id="noname" tvg-logo="http://1lot.tv/ch/9373.png" tvg-rec="1",TVPlay Ужастики [FHD]
+https://rostishkatv.space/iptv/users/kitera/TVPlay_Uzhastiki_FHD.m3u8
+
+#EXTINF:-1 group-title="🎞️ Кинозалы" tvg-id="noname" tvg-logo="http://1lot.tv/ch/9374.png" tvg-rec="1",TVPlay Sci-Fi Фантастика [FHD]
+https://rostishkatv.space/iptv/users/kitera/TVPlay_SciFi_Fantastika_FHD.m3u8
+
+#EXTINF:-1 group-title="🎞️ Кинозалы" tvg-id="noname" tvg-logo="http://1lot.tv/ch/9381.png" tvg-rec="1",TVPlay Фантастика RUS [FHD]
+https://rostishkatv.space/iptv/users/kitera/TVPlay_Fantastika_RUS_FHD.m3u8
+
+#EXTINF:-1 group-title="🎞️ Кинозалы" tvg-id="noname" tvg-logo="http://1lot.tv/ch/9379.png" tvg-rec="1",TVPlay Элен и ребята [FHD]
+https://rostishkatv.space/iptv/users/kitera/TVPlay_len_I_Rebyata_FHD.m3u8
+
+#EXTINF:-1 group-title="🎞️ Кинозалы" tvg-id="noname" tvg-logo="http://1lot.tv/ch/10193.png" tvg-rec="1",TVPlay Моя Прекрасная няня [FHD]
+https://rostishkatv.space/iptv/users/kitera/TVPlay_Moya_Prekrasnaya_nyanya_FHD.m3u8
+
+#EXTINF:-1 group-title="🎞️ Кинозалы" tvg-id="noname" tvg-logo="http://1lot.tv/ch/10194.png" tvg-rec="1",TVPlay Папины дочки [FHD]
+https://rostishkatv.space/iptv/users/kitera/TVPlay_Papiny_Dochki_FHD.m3u8
+
+#EXTINF:-1 group-title="🎞️ Кинозалы" tvg-id="noname" tvg-logo="http://1lot.tv/ch/10195.png" tvg-rec="1",TVPlay Гайдай [FHD]
+https://rostishkatv.space/iptv/users/kitera/TVPlay_Gayday_FHD.m3u8
+
+#EXTINF:-1 group-title="🎞️ Кинозалы" tvg-id="noname" tvg-logo="http://1lot.tv/ch/10196.png" tvg-rec="1",TVPlay Данелия [FHD]
+https://rostishkatv.space/iptv/users/kitera/TVPlay_Daneliya_FHD.m3u8
+
+#EXTINF:-1 group-title="🎞️ Кинозалы" tvg-id="noname" tvg-logo="http://1lot.tv/ch/10402.png" tvg-rec="1",TVPlay Психо [FHD]
+https://rostishkatv.space/iptv/users/kitera/TVPlay_Psiho_FHD.m3u8
+
+#EXTINF:-1 group-title="🎞️ Кинозалы" tvg-id="noname" tvg-logo="http://1lot.tv/ch/10547.png" tvg-rec="1",TVPlay Zombie Грайндхаус [FHD]
+https://rostishkatv.space/iptv/users/kitera/TVPlay_Zombie_Grayndhaus_FHD.m3u8
+
+#EXTINF:-1 group-title="🎞️ Кинозалы" tvg-id="noname" tvg-logo="http://1lot.tv/ch/9254.png" tvg-rec="1",TVPlay Новинки RUS [FHD]
+https://rostishkatv.space/iptv/users/kitera/TVPlay_Novinki_RUS_HD.m3u8
+
+#EXTINF:-1 group-title="🎞️ Кинозалы" tvg-id="noname" tvg-logo="http://1lot.tv/ch/9255.png" tvg-rec="1",TVPlay Новинки МИР [FHD]
+https://rostishkatv.space/iptv/users/kitera/TVPlay_Novinki_MIR_HD.m3u8
+
+#EXTINF:-1 group-title="🎞️ Кинозалы" tvg-id="noname" tvg-logo="http://1lot.tv/ch/9227.png" tvg-rec="1",TVPlay Мифы и Легенды [FHD]
+https://rostishkatv.space/iptv/users/kitera/TVPlay_Mify_I_Legendy.m3u8
+
+#EXTINF:-1 group-title="🎞️ Кинозалы" tvg-id="noname" tvg-logo="http://1lot.tv/ch/10547.png" tvg-rec="1",TVPlay Зомби [FHD]
+https://rostishkatv.space/iptv/users/kitera/TVPlay_Zombi_HD.m3u8
+
+#EXTINF:-1 group-title="🎞️ Кинозалы" tvg-id="noname" tvg-logo="http://1lot.tv/ch/10851.png" tvg-rec="1",TVPlay Великая Отечественная [FHD]
+https://rostishkatv.space/iptv/users/kitera/TVPlay_Velikaya_Otechestvennaya_HD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="noname" tvg-logo="https://epg.one/img2/7151.png",VB VHS Classic [HD]
+https://rostishkatv.space/iptv/users/kitera/VB_VHSClassic_HD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="532",VB Российские Сериалы [HD]
+https://rostishkatv.space/iptv/users/kitera/VB_RossiyskieSerialy_HD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="noname" tvg-logo="https://epg.one/img2/8749.png",VB Сваты [HD]
+https://rostishkatv.space/iptv/users/kitera/VB_Svaty_HD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="noname" tvg-logo="https://epg.one/img2/7221.png",VB Контент Моего Детства [HD]
+https://rostishkatv.space/iptv/users/kitera/VB_KontentMoegoDetstva_HD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="noname" tvg-logo="https://epg.one/img2/7896.png",VB Назад в СССР [HD]
+https://rostishkatv.space/iptv/users/kitera/VB_NazadVSSSR_HD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="noname" tvg-logo="https://epg.one/img2/7897.png",VB Спецназ Диверсант [HD]
+https://rostishkatv.space/iptv/users/kitera/VB_SpecnazDiversant_HD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="537",TOP BUDO [FHD]
+https://rostishkatv.space/iptv/users/kitera/TOP_BUDO_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="538",TOP Cinema [FHD]
+https://rostishkatv.space/iptv/users/kitera/TOP_Cinema_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="539",TOP USSR [FHD]
+https://rostishkatv.space/iptv/users/kitera/TOP_USSR_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="540",TOP MIX [FHD]
+https://rostishkatv.space/iptv/users/kitera/TOP_MIX_FHD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="530",TOP Великолепный Век [FHD]
+https://rostishkatv.space/iptv/users/kitera/TOP_Velikolepnyy_Vek_HD.m3u8
+
+#EXTINF:0 group-title="🎞️ Кинозалы" tvg-id="225" tvg-rec="2",Sky2000 [HD]
+https://rostishkatv.space/iptv/users/kitera/Sky2000_HD.m3u8
+
+#EXTINF:-1 group-title="🎞️ Кинозалы" tvg-id="363" tvg-rec="1",GL Короткие истории [FHD]
+https://rostishkatv.space/iptv/users/kitera/GL_Korotkie_Istorii_FHD.m3u8
+
+#EXTINF:-1 group-title="🎞️ Кинозалы" tvg-id="452" tvg-rec="1",GL Улика [FHD]
+https://rostishkatv.space/iptv/users/kitera/GL_Ulika_FHD.m3u8
+
+#EXTINF:-1 group-title="🎞️ Кинозалы" tvg-id="455" tvg-rec="1",GL Существование [FHD]
+https://rostishkatv.space/iptv/users/kitera/GL_Sushchestvovanie_FHD.m3u8
+
+#EXTINF:-1 group-title="🎞️ Кинозалы" tvg-id="458" tvg-rec="1",GL Остров [FHD]
+https://rostishkatv.space/iptv/users/kitera/GL_Ostrov_FHD.m3u8
+
+#EXTINF:-1 group-title="🎞️ Кинозалы" tvg-id="467" tvg-rec="1",GL Психо [FHD]
+https://rostishkatv.space/iptv/users/kitera/GL_Psiho_FHD.m3u8
+
+#EXTINF:-1 group-title="🎞️ Кинозалы" tvg-id="480" tvg-rec="1",GL Сериалы [FHD]
+https://rostishkatv.space/iptv/users/kitera/GL_Serialy_FHD.m3u8
+
+#EXTINF:-1 group-title="🎞️ Кинозалы" tvg-id="484" tvg-rec="1",GL Выживание [FHD]
+https://rostishkatv.space/iptv/users/kitera/GL_Vyzhivanie_FHD.m3u8
+
+#EXTINF:-1 group-title="🎞️ Кинозалы" tvg-id="489" tvg-rec="1",GL Детектив [FHD]
+https://rostishkatv.space/iptv/users/kitera/GL_Detektiv_FHD.m3u8
+
+#EXTINF:-1 group-title="🎞️ Кинозалы" tvg-id="491" tvg-rec="1",GL Невский [FHD]
+https://rostishkatv.space/iptv/users/kitera/GL_Nevskiy_FHD.m3u8
+
+#EXTINF:-1 group-title="🎞️ Кинозалы" tvg-id="533" tvg-rec="1",GL Chef [FHD]
+https://rostishkatv.space/iptv/users/kitera/GL_Chef.m3u8
+
+#EXTINF:-1 group-title="🎞️ Кинозалы" tvg-id="534" tvg-rec="1",GL Girlfight [FHD]
+https://rostishkatv.space/iptv/users/kitera/GL_Girlfight.m3u8
+
+#EXTINF:-1 group-title="🎞️ Кинозалы" tvg-id="535" tvg-rec="1",GL Hostage [FHD]
+https://rostishkatv.space/iptv/users/kitera/GL_Hostage.m3u8
+
+#EXTINF:-1 group-title="🎞️ Кинозалы" tvg-id="536" tvg-rec="1",GL Motivation [FHD]
+https://rostishkatv.space/iptv/users/kitera/GL_Motivation.m3u8
+
+
+
+
+#EXTINF:-1 group-title="🌼 4К" tvg-id="noname",UHD CINEMA [UHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/UHD_Cinema_FHD.m3u8
+
+#EXTINF:0 group-title="🌼 4К" tvg-id="541",Кино 4K [UHD] {HDR50} 
+https://rostishkatv.space/iptv/users/kitera/Kino_4KUHD_50fps.m3u8
+
+#EXTINF:0 group-title="🌼 4К" tvg-id="noname",Сериал 4K [UHD] {50fps}
+https://rostishkatv.space/iptv/users/kitera/Serial_4KUHD_50fps.m3u8
+
+#EXTINF:0 group-title="🌼 4К" tvg-id="543",BCU Ultra 4K [UHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/BCU_Ultra_UHD.m3u8
+
+#EXTINF:-1 group-title="🌼 4К" tvg-id="6" tvg-rec="3",BCU Сваты 4K [UHD]
+https://rostishkatv.space/iptv/users/kitera/BCU_Svaty_4K_UHD.m3u8
+
+#EXTINF:0 group-title="🌼 4К" tvg-id="544",BCU Premiere Ultra 4K [UHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/BCU_Premiere_Ultra_UHD.m3u8
+
+#EXTINF:0 group-title="🌼 4К" tvg-id="545",BCU Kinozakaz [UHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/BCU_Kinozakaz_UHD_HDR50.m3u8
+
+#EXTINF:0 group-title="🌼 4К" tvg-id="106",BCU Kinozakaz Premiere [UHD]
+https://rostishkatv.space/iptv/users/kitera/BCU_Kinozakaz_Premiere_UHD.m3u8
+
+#EXTINF:0 group-title="🌼 4К" tvg-id="546",BCU Kids [UHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/BCU_Kids_UHD_HDR.m3u8
+
+#EXTINF:0 group-title="🌼 4К" tvg-id="547",VF Кино 4K [UHD]
+https://rostishkatv.space/iptv/users/kitera/VF_Kino4K_UHD.m3u8
+
+#EXTINF:0 group-title="🌼 4К" tvg-id="548",VF Сериал 4K [UHD]
+https://rostishkatv.space/iptv/users/kitera/VF_Serial4K_UHD.m3u8
+
+#EXTINF:0 group-title="🌼 4К" tvg-id="90",BOX Serial [UHD]
+https://rostishkatv.space/iptv/users/kitera/BOX_Serial_UHD.m3u8
+
+#EXTINF:0 group-title="🌼 4К" tvg-id="549",BOX Premiere 4K [UHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/BOX_Premiere4K_UHD.m3u8
+
+#EXTINF:0 group-title="🌼 4К" tvg-id="336",BOX Remast+ [UHD]
+https://rostishkatv.space/iptv/users/kitera/BOX_RemastPLUS_UHD.m3u8
+
+#EXTINF:0 group-title="🌼 4К" tvg-id="550",BOX Remast 4K [UHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/BOX_Remast4K_FHD.m3u8
+
+#EXTINF:0 group-title="🌼 4К" tvg-id="551",BOX СССР [UHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/BOX_SSSR_UHD_HDR.m3u8
+
+#EXTINF:0 group-title="🌼 4К" tvg-id="552",BOX Premiere+ [UHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/BOX_PremierePLUS_UHD_HDR.m3u8
+
+#EXTINF:-1 group-title="🌼 4К" tvg-id="63" tvg-rec="7",Box SR Sport 4K [UHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/Box_SR_Sport_4K_HDR.m3u8
+
+#EXTINF:0 group-title="🌼 4К" tvg-id="noname" tvg-logo="https://iptvx.one/picons/box-sr-sport-live-4k-hdr.png",BOX SR Sport Live 1 [UHD] {HDR50}
+https://rostishkatv.space/iptv/users/kitera/BOX_SR_Sport_Live_1_UHD_HDR50.m3u8
+
+#EXTINF:0 group-title="🌼 4К" tvg-id="554",BOX SR Sport Live 2 [UHD] {HDR50}
+https://rostishkatv.space/iptv/users/kitera/BOX_SR_Sport_2_Live_UHD_HDR50.m3u8
+
+#EXTINF:0 group-title="🌼 4К" tvg-id="555",BOX Relax [UHD] {HDR50}
+https://rostishkatv.space/iptv/users/kitera/BOX_Relax_UHD_HDR50.m3u8
+
+#EXTINF:0 group-title="🌼 4К" tvg-id="556",BOX History [UHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/BOX_History_UHD_HDR.m3u8
+
+#EXTINF:0 group-title="🌼 4К" tvg-id="557",BOX Kosmo [UHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/BOX_Kosmo_UHD_HDR.m3u8
+
+#EXTINF:0 group-title="🌼 4К" tvg-id="558",MM Flip [UHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/MM_Flip_UHD.m3u8
+
+#EXTINF:0 group-title="🌼 4К" tvg-id="559",Yosso TV Советские Фильмы 4K [UHD]
+https://rostishkatv.space/iptv/users/kitera/YossoTV_SovetskieFilmy4K_UHD.m3u8
+
+#EXTINF:0 group-title="🌼 4К" tvg-id="560",Yosso TV 4K [UHD]
+https://rostishkatv.space/iptv/users/kitera/YossoTV_4K_UHD.m3u8
+
+#EXTINF:0 group-title="🌼 4К" tvg-id="461",Yosso TV 4K [UHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/Yosso_TV_4K_UHD_HDR.m3u8
+
+#EXTINF:0 group-title="🌼 4К"  tvg-id="561",SKY HIGH Mix [UHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/SKYHIGH_Mix_UHD.m3u8
+
+#EXTINF:0 group-title="🌼 4К" tvg-id="562",SKY HIGH VHS [UHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/SKYHIGH_VHS_UHD.m3u8
+
+#EXTINF:0 group-title="🌼 4К" tvg-id="563",SKY HIGH UHD [UHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/SKYHIGH_UHDUHDHDR.m3u8
+
+#EXTINF:0 group-title="🌼 4К" tvg-id="noname" tvg-logo="https://iptvx.one/picons/liberty-india.png",Liberty Индия [UHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/Liberty_Indiya_UHD.m3u8
+
+#EXTINF:0 group-title="🌼 4К" tvg-id="noname" tvg-logo="https://epg.one/img2/5517.png",Liberty Ужасы [UHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/Liberty_Uzhasy_UHD.m3u8
+
+#EXTINF:0 group-title="🌼 4К" tvg-id="noname" tvg-logo="https://epg.one/img2/5518.png",Liberty Триллер [UHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/Liberty_Triller_UHD.m3u8
+
+#EXTINF:0 group-title="🌼 4К" tvg-id="noname" tvg-logo="https://epg.one/img2/5589.png",Liberty Кино Микс [UHD]
+https://rostishkatv.space/iptv/users/kitera/Liberty_KinoMiks_UHD.m3u8
+
+#EXTINF:0 group-title="🌼 4К" tvg-id="568",Liberty Кино ENG [UHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/Liberty_KinoENG_UHD.m3u8
+
+#EXTINF:0 group-title="🌼 4К" tvg-id="noname" tvg-logo="https://epg.one/img2/6855.png",Liberty Netflix [UHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/Liberty_Netflix_UHD.m3u8
+
+#EXTINF:0 group-title="🌼 4К" tvg-id="noname" tvg-logo="https://epg.one/img2/6231.png",Liberty РусФильм [UHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/Liberty_RusFilm_UHD.m3u8
+
+#EXTINF:0 group-title="🌼 4К" tvg-id="571",Liberty Куб [UHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/Liberty_Kub_UHD.m3u8
+
+#EXTINF:0 group-title="🌼 4К" tvg-id="572",Liberty Семейный [UHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/Liberty_Semeynyy_UHD.m3u8
+
+#EXTINF:0 group-title="🌼 4К" tvg-id="573",Liberty Турк Фильм [UHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/Liberty_TurkFilm_UHD.m3u8
+
+#EXTINF:0 group-title="🌼 4К" tvg-id="574",Liberty Союз [UHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/Liberty_Souz_UHD.m3u8
+
+#EXTINF:0 group-title="🌼 4К" tvg-id="575",Liberty Легенда [UHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/Liberty_Legenda_UHD.m3u8
+
+#EXTINF:0 group-title="🌼 4К" tvg-id="noname" tvg-logo="https://iptvx.one/picons/liberty-xxvek.png",Liberty XX Век [UHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/Liberty_XXVek_UHD.m3u8
+
+#EXTINF:0 group-title="🌼 4К" tvg-id="noname" tvg-logo="https://epg.one/img2/6232.png",Liberty Мульт [UHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/Liberty_Mult_UHD.m3u8
+
+#EXTINF:0 group-title="🌼 4К" tvg-id="578",Liberty Мульт ENG [UHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/Liberty_MultENG_UHD.m3u8
+
+#EXTINF:0 group-title="🌼 4К" tvg-id="noname" tvg-logo="https://iptvx.one/picons/liberty-muzikl.png",Liberty Мюзикл [UHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/Liberty_Muzikl_UHD_HDR.m3u8
+
+#EXTINF:0 group-title="🌼 4К" tvg-id="495",Liberty Дрим Воркс [UHD]
+https://rostishkatv.space/iptv/users/kitera/Liberty_Drim_Vorks_UHD.m3u8
+
+#EXTINF:0 group-title="🌼 4К" tvg-id="497",Liberty Криминал [UHD]
+https://rostishkatv.space/iptv/users/kitera/Liberty_Kriminal_UHD.m3u8
+
+#EXTINF:0 group-title="🌼 4К" tvg-id="499",Liberty Аванпост [UHD]
+https://rostishkatv.space/iptv/users/kitera/Liberty_Avanpost_UHD.m3u8
+
+#EXTINF:0 group-title="🌼 4К" tvg-id="501",Liberty Сериалы [UHD]
+https://rostishkatv.space/iptv/users/kitera/Liberty_Serialy_UHD.m3u8
+
+#EXTINF:0 group-title="🌼 4К" tvg-id="580",BOX Music 4K [UHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/BOX_Music4K_UHD.m3u8
+
+#EXTINF:-1 group-title="🌼 4К" tvg-id="582",Love Nature [UHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/LoveNatire_UHD.m3u8
+
+#EXTINF:0 group-title="🌼 4К" tvg-id="583",SKY HIGH Doc [UHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/SKYHIGH_Doc_UHD.m3u8
+
+#EXTINF:0 group-title="🌼 4К" tvg-id="584",SKY HIGH Nature [UHD]
+https://rostishkatv.space/iptv/users/kitera/SKYHIGH_Nature_UHD.m3u8
+
+#EXTINF:0 group-title="🌼 4К" tvg-id="585",SKY HIGH Nature [UHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/SKYHIGH_NatureUHDHDR.m3u8
+
+#EXTINF:-1 group-title="🌼 4К" tvg-id="88" tvg-rec="1",SKY HIGH Drama [UHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/SKY_High_Drama_4K_HDR.m3u8
+
+#EXTINF:-1 group-title="🌼 4К" tvg-id="98" tvg-rec="1",SKY HIGH Space [UHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/SKY_High_Space_4K_HDR.m3u8
+
+#EXTINF:-1 group-title="🌼 4К" tvg-id="101" tvg-rec="1",SKY HIGH DC [UHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/SKY_High_DC_4K_HDR.m3u8
+
+#EXTINF:-1 group-title="🌼 4К" tvg-id="103" tvg-rec="1",SKY HIGH Marvel [UHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/SKY_High_Marvel_4K_HDR.m3u8
+
+#EXTINF:-1 group-title="🌼 4К" tvg-id="116" tvg-rec="1",SKY HIGH Dect S [UHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/SKY_High_Dect_S_4K_HDR.m3u8
+
+#EXTINF:-1 group-title="🌼 4К" tvg-id="122" tvg-rec="1",SKY HIGH Horror [UHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/SKY_High_Horror_4K_HDR.m3u8
+
+#EXTINF:-1 group-title="🌼 4К" tvg-id="139" tvg-rec="1",SKY HIGH Family [UHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/SKY_High_Family_4K_HDR.m3u8
+
+#EXTINF:-1 group-title="🌼 4К" tvg-id="140" tvg-rec="1",SKY HIGH West S [UHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/SKY_High_West_S_4K.m3u8
+
+#EXTINF:-1 group-title="🌼 4К" tvg-id="141" tvg-rec="1",SKY HIGH Starw S [UHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/SKY_High_Starw_S_4K_HDR.m3u8
+
+#EXTINF:-1 group-title="🌼 4К" tvg-id="146" tvg-rec="1",SKY HIGH Smile [UHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/SKY_High_Smile_4K_HDR.m3u8
+
+#EXTINF:-1 group-title="🌼 4К" tvg-id="147" tvg-rec="1",SKY HIGH New [UHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/SKY_High_New_4K_HDR.m3u8
+
+#EXTINF:-1 group-title="🌼 4К" tvg-id="148" tvg-rec="1",SKY HIGH Dlove [UHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/SKY_High_Dlove_4K_HDR.m3u8
+
+#EXTINF:-1 group-title="🌼 4К" tvg-id="154" tvg-rec="1",SKY HIGH Crime [UHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/SKY_High_Crime_4K_HDR.m3u8
+
+#EXTINF:-1 group-title="🌼 4К" tvg-id="155" tvg-rec="1" ,SKY HIGH N-Stop [UHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/SKY_High_NStop_4K_HDR.m3u8
+
+#EXTINF:-1 group-title="🌼 4К" tvg-id="157" tvg-rec="1",SKY HIGH Smash [UHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/SKY_High_Smash_4K_HDR.m3u8
+
+#EXTINF:-1 group-title="🌼 4К" tvg-id="161" tvg-rec="1",SKY HIGH Toon [UHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/SKY_High_Toon_4K_HDR.m3u8
+
+#EXTINF:-1 group-title="🌼 4К" tvg-id="163" tvg-rec="1",SKY HIGH Kid 16+ [UHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/SKY_High_Kid_16plus_4K_HDR.m3u8
+
+#EXTINF:-1 group-title="🌼 4К" tvg-id="167" tvg-rec="1",SKY HIGH Dcu S [UHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/SKY_High_Dcu_S_4K_HDR.m3u8
+
+#EXTINF:-1 group-title="🌼 4К" tvg-id="168" tvg-rec="1",SKY HIGH Hist S [UHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/SKY_High_Hist_S_4K_HDR.m3u8
+
+#EXTINF:-1 group-title="🌼 4К" tvg-id="169" tvg-rec="1",SKY HIGH Dark S [UHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/SKY_High_Dark_S_4K_HDR.m3u8
+
+#EXTINF:-1 group-title="🌼 4К" tvg-id="173" tvg-rec="1",SKY HIGH Blood [UHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/SKY_High_Blood_4K_HDR.m3u8
+
+#EXTINF:-1 group-title="🌼 4К" tvg-id="174" tvg-rec="1",SKY HIGH Thriller [UHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/SKY_High_Thriller_4K_HDR.m3u8
+
+#EXTINF:-1 group-title="🌼 4К" tvg-id="177" tvg-rec="1",SKY HIGH Got S [UHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/SKY_High_Got_S_4K_HDR.m3u8
+
+#EXTINF:-1 group-title="🌼 4К" tvg-id="187" tvg-rec="1",SKY HIGH History [UHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/SKY_High_History_4K_HDR.m3u8
+
+#EXTINF:-1 group-title="🌼 4К" tvg-id="204" tvg-rec="1",SKY HIGH Verse S [UHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/SKY_High_Verse_S_4K_HDR.m3u8
+
+#EXTINF:-1 group-title="🌼 4К" tvg-id="223" tvg-rec="1",SKY HIGH Kid 0+ [UHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/SKY_High_Kid_0plus_4K_HDR.m3u8
+
+#EXTINF:-1 group-title="🌼 4К" tvg-id="224" tvg-rec="1",SKY HIGH Spn S [UHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/SKY_High_Spn_S_4K_HDR.m3u8
+
+#EXTINF:-1 group-title="🌼 4К" tvg-id="350" tvg-rec="1",SKY HIGH Kid 6+ [UHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/SKY_High_Kid_6plus_4K_HDR.m3u8
+
+#EXTINF:-1 group-title="🌼 4К" tvg-id="453" tvg-rec="1",SKY HIGH Kid 12+ [UHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/SKY_High_Kid_12plus_4K_HDR.m3u8
+
+#EXTINF:-1 group-title="🌼 4К" tvg-id="498" tvg-rec="1",SKY HIGH Kid 18+ [UHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/SKY_High_Kid_18plus_4K_HDR.m3u8
+
+#EXTINF:-1 group-title="🌼 4К" tvg-id="502" tvg-rec="1",SKY HIGH Fun S [UHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/SKY_High_Fun_S_4K_HDR.m3u8
+
+#EXTINF:-1 group-title="🌼 4К" tvg-id="508" tvg-rec="1",SKY HIGH Comics [UHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/SKY_High_Comics_4K_HDR.m3u8
+
+#EXTINF:-1 group-title="🌼 4К" tvg-id="509" tvg-rec="1",SKY HIGH 911 S [UHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/SKY_High_911_S_4K_HDR.m3u8
+
+#EXTINF:-1 group-title="🌼 4К" tvg-id="510" tvg-rec="1" ,SKY HIGH Dead S [UHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/SKY_High_Dead_S_4K_HDR.m3u8
+
+#EXTINF:-1 group-title="🌼 4К" tvg-id="511" tvg-rec="1",SKY HIGH Magic S [UHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/SKY_High_Magic_S_4K_HDR.m3u8
+
+#EXTINF:-1 group-title="🌼 4К" tvg-id="514" tvg-rec="1",SKY HIGH Polit S [UHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/SKY_High_Polit_S_4K_HDR.m3u8
+
+#EXTINF:-1 group-title="🌼 4К" tvg-id="515" tvg-rec="1",SKY HIGH Crime S [UHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/SKY_High_Crime_S_4K_HDR.m3u8
+
+#EXTINF:-1 group-title="🌼 4К" tvg-id="516" tvg-rec="1",SKY HIGH Mcu S [UHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/SKY_High_Mcu_S_4K_HDR.m3u8
+
+#EXTINF:-1 group-title="🌼 4К" tvg-id="517" tvg-rec="1",SKY HIGH Nature [UHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/SKY_High_Nature_4K_HDR.m3u8
+
+#EXTINF:-1 group-title="🌼 4К" tvg-id="518" tvg-rec="1",SKY HIGH Cinema [UHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/SKY_High_Cinema_4K_HDR.m3u8
+
+#EXTINF:-1 group-title="🌼 4К" tvg-id="586",Наша Сибирь [UHD]
+https://rostishkatv.space/iptv/users/kitera/NashaSibir_UHD.m3u8
+
+#EXTINF:0 group-title="🌼 4К" tvg-id="587",Quadro [UHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/Quadro_UHD.m3u8
+
+#EXTINF:0 group-title="🌼 4К" tvg-id="noname" tvg-logo="https://iptvx.one/picons/clarity4k-zwerinmir.png",Clarity4K Звериный мир [UHD]
+https://rostishkatv.space/iptv/users/kitera/Clarity4K_ZverinyiMir_UHD.m3u8
+
+#EXTINF:0 group-title="🌼 4К" tvg-id="noname" tvg-logo="https://iptvx.one/picons/clarity4k-dramy.png",Clarity4K Драмы [UHD]
+https://rostishkatv.space/iptv/users/kitera/Clarity4K_Dramy_UHD.m3u8
+
+#EXTINF:0 group-title="🌼 4К" tvg-id="600",Clarity4K Asia [UHD]
+https://rostishkatv.space/iptv/users/kitera/Clarity4K_Asia_UHD.m3u8
+
+#EXTINF:0 group-title="🌼 4К" tvg-id="noname" tvg="https://iptvx.one/picons/clarity4k-fentezy.png",Clarity4K Фэнтези [UHD]
+https://rostishkatv.space/iptv/users/kitera/Clarity4K_Fentazy_UHD.m3u8
+
+#EXTINF:0 group-title="🌼 4К" tvg-id="noname" tvg-logo="https://iptvx.one/picons/clarity4k-waltdisney.png",Clarity4K Walt Disney [UHD]
+https://rostishkatv.space/iptv/users/kitera/Clarity4K_Walt_Disney_UHD.m3u8
+
+#EXTINF:0 group-title="🌼 4К" tvg-id="620",Глазами Туриста [UHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/Glazami_Turista_4KHDR.m3u8
+
+#EXTINF:-1 group-title="🌼 4К" tvg-id="621",CineMan Relax 4K [UHD]
+https://rostishkatv.space/iptv/users/kitera/Cineman_Relax_UHD.m3u8
+
+#EXTINF:-1 group-title="🌼 4К" tvg-id="622",Cineman OLD 4K [UHD]
+https://rostishkatv.space/iptv/users/kitera/Cineman_OLD_UHD.m3u8
+
+#EXTINF:-1 group-title="🌼 4К" tvg-id="623",CineMan CCCP 4K [UHD]
+https://rostishkatv.space/iptv/users/kitera/Cineman_SSSR_UHD.m3u8
+
+#EXTINF:-1 group-title="🌼 4К" tvg-id="463" tvg-rec="1",CineMan KIDS 4K [UHD]
+https://rostishkatv.space/iptv/users/kitera/CineMan_KIDS_4K_UHD.m3u8
+
+#EXTINF:0 group-title="🌼 4К" tvg-id="624",TravelXP CEE [UHD] {HDR50}
+https://rostishkatv.space/iptv/users/kitera/TravelXP_CEE_UHD_HDR50.m3u8
+
+#EXTINF:0 group-title="🌼 4К" tvg-id="625",Museum TV [UHD] {HDR50}
+https://rostishkatv.space/iptv/users/kitera/Museum_TV_UHD_HDR50.m3u8
+
+#EXTINF:0 group-title="🌼 4К" tvg-id="626",Eurosport 4K [UHD] {HDR50}
+https://rostishkatv.space/iptv/users/kitera/Eurosport_4K_UHD_HDR50.m3u8
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="🐰 Детские" tvg-id="627",Карусель
+https://rostishkatv.space/iptv/users/kitera/Karusel.m3u8
+
+#EXTINF:-1 group-title="🐰 Детские" tvg-id="627",Карусель [FHD]
+https://rostishkatv.space/iptv/users/kitera/Karusel_FHD.m3u8
+
+#EXTINF:-1 group-title="🐰 Детские" tvg-id="628",Карусель (+2)
+https://rostishkatv.space/iptv/users/kitera/Karusel_plus2.m3u8
+
+#EXTINF:-1 group-title="🐰 Детские" tvg-id="629",Карусель (+4)
+https://rostishkatv.space/iptv/users/kitera/Karusel_plus4.m3u8
+
+#EXTINF:-1 group-title="🐰 Детские" tvg-id="630",Карусель (+7)
+https://rostishkatv.space/iptv/users/kitera/Karusel_plus7.m3u8
+
+#EXTINF:-1 group-title="🐰 Детские" tvg-id="631",2x2
+https://rostishkatv.space/iptv/users/kitera/2X2.m3u8
+
+#EXTINF:-1 group-title="🐰 Детские" tvg-id="632"",2x2 (+2)
+https://rostishkatv.space/iptv/users/kitera/2X2_plus2.m3u8
+
+#EXTINF:-1 group-title="🐰 Детские" tvg-id="633",2x2 (+4)
+https://rostishkatv.space/iptv/users/kitera/2X2_plus4.m3u8
+
+#EXTINF:-1 group-title="🐰 Детские" tvg-id="634",2x2 (+7)
+https://rostishkatv.space/iptv/users/kitera/2X2_plus7.m3u8
+
+#EXTINF:-1 group-title="🐰 Детские" tvg-id="635",СТС Kids
+https://rostishkatv.space/iptv/users/kitera/STS_Kids.m3u8
+
+#EXTINF:-1 group-title="🐰 Детские" tvg-id="635",СТС Kids [FHD]
+https://rostishkatv.space/iptv/users/kitera/STS_Kids_FHD.m3u8
+
+#EXTINF:-1 group-title="🐰 Детские" tvg-id="637",Cartoon network
+https://rostishkatv.space/iptv/users/kitera/Cartoon_Network.m3u8
+
+#EXTINF:-1 group-title="🐰 Детские" tvg-id="noname",Bridge Baby Time
+https://rostishkatv.space/iptv/users/kitera/Bridge_BabyTime.m3u8
+
+#EXTINF:-1 group-title="🐰 Детские" tvg-id="638",Nickelodeon
+https://rostishkatv.space/iptv/users/kitera/Nickelodeon.m3u8
+
+#EXTINF:-1 group-title="🐰 Детские" tvg-id="638",Nickelodeon [FHD]
+https://rostishkatv.space/iptv/users/kitera/Nickelodeon_FHD.m3u8
+
+#EXTINF:-1 group-title="🐰 Детские" tvg-id="639",Nick Jr
+https://rostishkatv.space/iptv/users/kitera/Nick_Jr.m3u8
+
+#EXTINF:-1 group-title="🐰 Детские" tvg-id="640",Cartoonito [FHD]
+https://rostishkatv.space/iptv/users/kitera/Cartoonito.m3u8
+
+#EXTINF:-1 group-title="🐰 Детские" tvg-id="noname",МультСезон [HD]
+https://rostishkatv.space/iptv/users/kitera/MultSezon_HD.m3u8
+
+#EXTINF:-1 group-title="🐰 Детские" tvg-id="641",Лёва [FHD]
+https://rostishkatv.space/iptv/users/kitera/leva_FHD.m3u8
+
+#EXTINF:-1 group-title="🐰 Детские" tvg-id="642",Мультиландия
+https://rostishkatv.space/iptv/users/kitera/Multlandiya.m3u8
+
+#EXTINF:-1 group-title="🐰 Детские" tvg-id="644",TiJi
+https://rostishkatv.space/iptv/users/kitera/Tiji.m3u8
+
+#EXTINF:-1 group-title="🐰 Детские" tvg-id="645",В гостях у сказки
+https://rostishkatv.space/iptv/users/kitera/VgostyahUscazki.m3u8
+
+#EXTINF:-1 group-title="🐰 Детские" tvg-id="645",В гостях у сказки [FHD]
+https://rostishkatv.space/iptv/users/kitera/VgostyahUscazki_FHD.m3u8
+
+#EXTINF:-1 group-title="🐰 Детские" tvg-id="646",Сказки Зайки [HD]
+https://rostishkatv.space/iptv/users/kitera/SkazkiZayki.m3u8
+
+#EXTINF:-1 group-title="🐰 Детские" tvg-id="647",Радость моя
+https://rostishkatv.space/iptv/users/kitera/HappyMy.m3u8
+
+#EXTINF:-1 group-title="🐰 Детские" tvg-id="648",Мульт [FHD]
+https://rostishkatv.space/iptv/users/kitera/Mult_FHD.m3u8
+
+#EXTINF:-1 group-title="🐰 Детские" tvg-id="650",Капитан Фантастика [FHD]
+https://rostishkatv.space/iptv/users/kitera/Kapitan_Fantastic_HD.m3u8
+
+#EXTINF:-1 group-title="🐰 Детские" tvg-id="651",Уникум [FHD]
+https://rostishkatv.space/iptv/users/kitera/Unikom.m3u8
+
+#EXTINF:-1 group-title="🐰 Детские" tvg-id="653",Советские мультфильмы
+https://rostishkatv.space/iptv/users/kitera/SSSR_Mult_HD.m3u8
+
+#EXTINF:-1 group-title="🐰 Детские" tvg-id="656",ТипТоп [FHD]
+https://rostishkatv.space/iptv/users/kitera/TipTop_FHD.m3u8
+
+#EXTINF:-1 group-title="🐰 Детские" tvg-id="noname",КиноМульт
+https://rostishkatv.space/iptv/users/kitera/KinoMult.m3u8
+
+#EXTINF:-1 group-title="🐰 Детские" tvg-id="657" tvg-logo="https://rostishkatv.space/images/logos_channels/tricolor-zal07.png",Триколор.Зал 7
+https://rostishkatv.space/iptv/users/kitera/Tricolor_Zal07.m3u8
+
+#EXTINF:-1 group-title="🐰 Детские" tvg-id="658" tvg-logo="https://rostishkatv.space/images/logos_channels/tricolor-zal11.png",Триколор.Зал 11
+https://rostishkatv.space/iptv/users/kitera/Tricolor_Zal11.m3u8
+
+#EXTINF:-1 group-title="🐰 Детские" tvg-id="659" tvg-logo="https://rostishkatv.space/images/logos_channels/tricolor-zal12.png",Триколор.Зал 12
+https://rostishkatv.space/iptv/users/kitera/Tricolor_Zal12.m3u8
+
+#EXTINF:0 group-title="🐰 Детские" tvg-id="660" tvg-rec="7",VF Anime [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_Anime_FHD.m3u8
+
+#EXTINF:0 group-title="🐰 Детские" tvg-id="661" tvg-rec="7",VF Мультфильмы СССР [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_MultfilmySSSR_FHD.m3u8
+
+#EXTINF:0 group-title="🐰 Детские" tvg-id="662",VF Союзмультфильм [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_Souzmultfilm_FHD.m3u8
+
+#EXTINF:0 group-title="🐰 Детские" tvg-id="663" tvg-rec="7",VF Cartoon [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_Cartoon_FHD.m3u8
+
+#EXTINF:0 group-title="🐰 Детские" tvg-id="664",VF VHS Cartoon [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_VHSCartoon_FHD.m3u8
+
+#EXTINF:0 group-title="🐰 Детские" tvg-id="665",VF Disney Cartoon [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_DisneyCartoon_FHD.m3u8
+
+#EXTINF:0 group-title="🐰 Детские" tvg-id="666",VF Малыш [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_Malysh_FHD.m3u8
+
+#EXTINF:0 group-title="🐰 Детские" tvg-id="667",VF Мультуб [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_Multub_FHD.m3u8
+
+#EXTINF:0 group-title="🐰 Детские" tvg-id="668",VF Скуби-Ду [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_SkubiDu_FHD.m3u8
+
+#EXTINF:0 group-title="🐰 Детские" tvg-id="670",VF Ералаш [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_Eralash_FHD.m3u8
+
+#EXTINF:0 group-title="🐰 Детские" tvg-id="671",BOX Anime [FHD]
+https://rostishkatv.space/iptv/users/kitera/BOX_Anime_FHD.m3u8
+
+#EXTINF:0 group-title="🐰 Детские" tvg-id="672",BOX M.Serial [FHD]
+https://rostishkatv.space/iptv/users/kitera/BOX_MSerial_FHD.m3u8
+
+#EXTINF:0 group-title="🐰 Детские" tvg-id="673",MM USSR Мультфильм [FHD]
+https://rostishkatv.space/iptv/users/kitera/MM_USSRMultfilm_FHD.m3u8
+
+#EXTINF:0 group-title="🐰 Детские" tvg-id="674",MM Walt Disney [FHD]
+https://rostishkatv.space/iptv/users/kitera/MM_WaltDisney_FHD.m3u8
+
+#EXTINF:0 group-title="🐰 Детские" tvg-id="675",MM Honey [FHD]
+https://rostishkatv.space/iptv/users/kitera/MM_Honey_FHD.m3u8
+
+#EXTINF:0 group-title="🐰 Детские" tvg-id="676",MM Lesson [FHD]
+https://rostishkatv.space/iptv/users/kitera/MM_Lesson_FHD.m3u8
+
+#EXTINF:0 group-title="🐰 Детские" tvg-id="677",MM Tom and Jerry [FHD]
+https://rostishkatv.space/iptv/users/kitera/MM_TomAndJerry_FHD.m3u8
+
+#EXTINF:0 group-title="🐰 Детские" tvg-id="678",MM Smile [FHD]
+https://rostishkatv.space/iptv/users/kitera/MM_Smile_FHD.m3u8
+
+#EXTINF:0 group-title="🐰 Детские" tvg-id="679",MM USSR Сказки [FHD]
+https://rostishkatv.space/iptv/users/kitera/MM_USSRSkazki_FHD.m3u8
+
+#EXTINF:0 group-title="🐰 Детские" tvg-id="680",Yosso TV Союзмульт [FHD]
+https://rostishkatv.space/iptv/users/kitera/YossoTV_Souzmult_FHD.m3u8
+
+#EXTINF:0 group-title="🐰 Детские" tvg-id="681",Yosso TV Наше Детское [FHD]
+https://rostishkatv.space/iptv/users/kitera/YossoTV_NasheDetskoe_FHD.m3u8
+
+#EXTINF:0 group-title="🐰 Детские" tvg-id="682",Yosso TV Kids [FHD]
+https://rostishkatv.space/iptv/users/kitera/YossoTV_Kids_FHD.m3u8
+
+#EXTINF:0 group-title="🐰 Детские" tvg-id="685",Liberty Аниме [FHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/Liberty_Anime_FHD.m3u8
+
+#EXTINF:0 group-title="🐰 Детские" tvg-id="noname" tvg-logo="https://iptvx.one/picons/liberty-mim.png",Liberty МиМ (Маша и Медведь) [FHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/Liberty_MiM_FHD.m3u8
+
+#EXTINF:0 group-title="🐰 Детские" tvg-id="noname" tvg-logo="https://iptvx.one/picons/liberty-plankton.png",Liberty Планктон [FHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/Liberty_Plankton_FHD.m3u8
+
+#EXTINF:0 group-title="🐰 Детские" tvg-id="688",Liberty Pixar [FHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/Liberty_Pixar_FHD.m3u8
+
+#EXTINF:0 group-title="🐰 Детские" tvg-id="noname" tvg-logo="https://iptvx.one/picons/liberty-disney.png",Liberty Disney [FHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/Liberty_Disney_FHD.m3u8
+
+#EXTINF:0 group-title="🐰 Детские" tvg-id="690",Liberty Симпсоны [FHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/Liberty_Simpsony_FHD.m3u8
+
+#EXTINF:0 group-title="🐰 Детские" tvg-id="noname" tvg-logo="https://iptvx.one/picons/liberty-bebimult.png",Liberty Бебимульт [FHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/Liberty_Bebimult_FHD.m3u8
+
+#EXTINF:0 group-title="🐰 Детские" tvg-id="noname" tvg-logo="https://iptvx.one/picons/liberty-skazki.png",Liberty Сказки [FHD] {HDR}
+https://rostishkatv.space/iptv/users/kitera/Liberty_Skazki_FHD.m3u8
+
+#EXTINF:0 group-title="🐰 Детские" tvg-id="noname" tvg-logo="https://epg.one/img2/5900.png",Z! Smile [HD]
+https://rostishkatv.space/iptv/users/kitera/Z_Smile_HD.m3u8
+
+#EXTINF:-1 group-title="🐰 Детские" tvg-id="noname" tvg-logo="http://1lot.tv/ch/9809.png" tvg-rec="1",TVPlay The90sCartoons [FHD]
+https://rostishkatv.space/iptv/users/kitera/TVPlay_The90sCartoons_FHD.m3u8
+
+#EXTINF:-1 group-title="🐰 Детские" tvg-id="noname" tvg-logo="http://1lot.tv/ch/9377.png" tvg-rec="1",TVPlay Аниме [FHD]
+https://rostishkatv.space/iptv/users/kitera/TVPlay_Anime_FHD.m3u8
+
+#EXTINF:-1 group-title="🐰 Детские" tvg-id="noname" tvg-logo="http://1lot.tv/ch/9224.png" tvg-rec="1",TVPlay Ералаш [FHD]
+https://rostishkatv.space/iptv/users/kitera/TVPlay_Eralash_FHD.m3u8
+
+#EXTINF:-1 group-title="🐰 Детские" tvg-id="noname" tvg-logo="http://1lot.tv/ch/9812.png" tvg-rec="1",TVPlay Леди Баг и Супер Кот [FHD]
+https://rostishkatv.space/iptv/users/kitera/TVPlay_Ledi_Bag_i_Super_Kot_FHD.m3u8
+
+#EXTINF:-1 group-title="🐰 Детские" tvg-id="noname" tvg-logo="http://1lot.tv/ch/9376.png" tvg-rec="1",TVPlay Советские Мультфильмы [FHD]
+https://rostishkatv.space/iptv/users/kitera/TVPlay_Sovetskie_Multfilmy_FHD.m3u8
+
+#EXTINF:-1 group-title="🐰 Детские" tvg-id="noname" tvg-logo="http://1lot.tv/ch/10852.png" tvg-rec="1",TVPlay Детское кино [FHD]
+https://rostishkatv.space/iptv/users/kitera/TVPlay_Detskoe_Kino_HD.m3u8
+
+#EXTINF:0 group-title="🐰 Детские" tvg-id="700",CineMan Cartoons 90 [FHD]
+https://rostishkatv.space/iptv/users/kitera/CineMan_Cartoons_90_FHD.m3u8
+
+#EXTINF:0 group-title="🐰 Детские" tvg-id="701",CineMan Cartoons Short [FHD]
+https://rostishkatv.space/iptv/users/kitera/CineMan_Cartoons_Short_FHD.m3u8
+
+#EXTINF:0 group-title="🐰 Детские" tvg-id="702",CineMan Cartoons Big [FHD]
+https://rostishkatv.space/iptv/users/kitera/CineMan_Cartoons_Big_FHD.m3u8
+
+#EXTINF:0 group-title="🐰 Детские" tvg-id="noname" tvg-logo="https://iptvx.one/picons/bcu-multserial.png",BCU Multserial [FHD]
+https://rostishkatv.space/iptv/users/kitera/BCU_Multserial_FHD.m3u8
+
+#EXTINF:0 group-title="🐰 Детские" tvg-id="75" tvg-rec="1",BCU Kids [FHD]
+https://rostishkatv.space/iptv/users/kitera/BCU_Kids_FHD.m3u8
+
+#EXTINF:0 group-title="🐰 Детские" tvg-id="100",BCU Kids+ [FHD]
+https://rostishkatv.space/iptv/users/kitera/BCU_KidsPLUS_FHD.m3u8
+
+#EXTINF:0 group-title="🐰 Детские" tvg-id="113",BCU Little [FHD]
+https://rostishkatv.space/iptv/users/kitera/BCU_Little_FHD.m3u8
+
+#EXTINF:-1 group-title="🐰 Детские" tvg-id="504" tvg-rec="1",SKY HIGH Bunny [FHD]
+https://rostishkatv.space/iptv/users/kitera/SKY_HIGH_Bunny_FHD.m3u8
+
+#EXTINF:-1 group-title="🐰 Детские" tvg-id="505" tvg-rec="1",SKY HIGH Kids USSR [FHD]
+https://rostishkatv.space/iptv/users/kitera/SKY_HIGH_Kids_USSR_FHD.m3u8
+
+#EXTINF:-1 group-title="🐰 Детские" tvg-id="506",SKY HIGH Jetix [FHD]
+https://rostishkatv.space/iptv/users/kitera/SKY_HIGH_Jetix_FHD.m3u8
+
+#EXTINF:-1 group-title="🐰 Детские" tvg-id="80" tvg-rec="1",SKY HIGH Anime [FHD]
+https://rostishkatv.space/iptv/users/kitera/SKY_High_Anime_HD.m3u8
+
+#EXTINF:-1 group-title="🐰 Детские" tvg-id="noname" tvg-logo="http://1lot.tv/ch/8220.png",Sky2000 Mult RU [HD]
+https://rostishkatv.space/iptv/users/kitera/Sky2000_Mult_RU_HD.m3u8
+
+#EXTINF:-1 group-title="🐰 Детские" tvg-id="noname" tvg-logo="http://1lot.tv/ch/8221.png",Sky2000 Mult SU [HD]
+https://rostishkatv.space/iptv/users/kitera/Sky2000_Mult_SU_HD.m3u8
+
+#EXTINF:-1 group-title="🐰 Детские" tvg-id="noname" tvg-logo="http://1lot.tv/ch/9044.png",Sky2000 Mult MM [HD]
+https://rostishkatv.space/iptv/users/kitera/Sky2000_Mult_MM_HD.m3u8
+
+
+
+
+
+
+#EXTINF:-1 group-title="⚽️ Спортивные" tvg-id="704",Старт [FHD]
+https://rostishkatv.space/iptv/users/kitera/Start_FHD.m3u8
+
+#EXTINF:-1 group-title="⚽️ Спортивные" tvg-id="noname",Старт Триумф [FHD]
+https://rostishkatv.space/iptv/users/kitera/Start_Triumf_FHD.m3u8
+
+#EXTINF:-1 group-title="⚽️ Спортивные" tvg-id="705",Viju Sport [FHD]
+https://rostishkatv.space/iptv/users/kitera/Viju_Sport_HD.m3u8
+
+#EXTINF:-1 group-title="⚽️ Спортивные" tvg-id="706",Матч! Футбол 1 [FHD]
+https://rostishkatv.space/iptv/users/kitera/Match_Football1_FHD.m3u8
+
+#EXTINF:-1 group-title="⚽️ Спортивные" tvg-id="707",Матч! Футбол 2 [FHD]
+https://rostishkatv.space/iptv/users/kitera/Match_Football2_FHD.m3u8
+
+#EXTINF:-1 group-title="⚽️ Спортивные" tvg-id="708",Матч! Футбол 3 [FHD]
+https://rostishkatv.space/iptv/users/kitera/Match_Football3_FHD.m3u8
+
+#EXTINF:-1 group-title="⚽️ Спортивные" tvg-id="709",Матч! Арена [FHD]
+https://rostishkatv.space/iptv/users/kitera/Match_Arena_HD.m3u8
+
+#EXTINF:-1 group-title="⚽️ Спортивные" tvg-id="710",Матч! Боец
+https://rostishkatv.space/iptv/users/kitera/Match_Boec_HD.m3u8
+
+#EXTINF:-1 group-title="⚽️ Спортивные" tvg-id="710",Матч! Боец [FHD]
+https://rostishkatv.space/iptv/users/kitera/Match_Boec_FHD.m3u8
+
+#EXTINF:-1 group-title="⚽️ Спортивные" tvg-id="711",Матч! Премьер
+https://rostishkatv.space/iptv/users/kitera/Match_Premier_HD.m3u8
+
+#EXTINF:-1 group-title="⚽️ Спортивные" tvg-id="711",Матч! Премьер [FHD]
+https://rostishkatv.space/iptv/users/kitera/Match_Premier_FHD.m3u8
+
+#EXTINF:-1 group-title="⚽️ Спортивные" tvg-id="712",Матч! Страна
+https://rostishkatv.space/iptv/users/kitera/Match_Strana_HD.m3u8
+
+#EXTINF:-1 group-title="⚽️ Спортивные" tvg-id="713",Матч! Планета
+https://rostishkatv.space/iptv/users/kitera/Match_Planeta.m3u8
+
+#EXTINF:-1 group-title="⚽️ Спортивные" tvg-id="714",Матч! Игра [FHD]
+https://rostishkatv.space/iptv/users/kitera/Match_Igra_HD.m3u8
+
+#EXTINF:-1 group-title="⚽️ Спортивные" tvg-id="715",Матч ТВ
+https://rostishkatv.space/iptv/users/kitera/MatchTV.m3u8
+
+#EXTINF:-1 group-title="⚽️ Спортивные" tvg-id="715",Матч ТВ [FHD]
+https://rostishkatv.space/iptv/users/kitera/Match_FHD.m3u8
+
+#EXTINF:-1 group-title="⚽️ Спортивные" tvg-id="715",Матч ТВ [FHD] {50fps}
+https://rostishkatv.space/iptv/users/kitera/Match_FHD_50fps.m3u8
+
+#EXTINF:0 group-title="⚽️ Спортивные" tvg-id="717",Хоккейный [FHD]
+https://rostishkatv.space/iptv/users/kitera/Hokkeyniy_FHD.m3u8
+
+#EXTINF:0 group-title="⚽️ Спортивные" tvg-id="noname" tvg-logo="https://iptvx.one/picons/sportivny.png",Спортивный [FHD]
+https://rostishkatv.space/iptv/users/kitera/Sportivniy_FHD.m3u8
+
+#EXTINF:0 group-title="⚽️ Спортивные" tvg-id="noname" tvg-logo="https://epg.one/img2/5891.png",Q Sport.KG [FHD]
+https://rostishkatv.space/iptv/users/kitera/Q_Sport_Arena_FHD.m3u8
+
+#EXTINF:-1 group-title="⚽️ Спортивные" tvg-id="720",Setanta Sports 1 [FHD]
+https://rostishkatv.space/iptv/users/kitera/Setanta_Sports1_FHD.m3u8
+
+#EXTINF:-1 group-title="⚽️ Спортивные" tvg-id="721",Setanta Sports 2 [FHD]
+https://rostishkatv.space/iptv/users/kitera/Setanta_Sports2_FHD.m3u8
+
+#EXTINF:-1 group-title="⚽️ Спортивные" tvg-id="722",KHL [FHD]
+https://rostishkatv.space/iptv/users/kitera/KHL_FHD.m3u8
+
+#EXTINF:-1 group-title="⚽️ Спортивные" tvg-id="723",KHL Prime [FHD]
+https://rostishkatv.space/iptv/users/kitera/KHL_Prime_FHD.m3u8
+
+#EXTINF:0 group-title="⚽️ Спортивные" tvg-id="723",KHL Prime [FHD] {50 fps}
+https://rostishkatv.space/iptv/users/kitera/KHL_Prime_FHD50.m3u8
+
+#EXTINF:-1 group-title="⚽️ Спортивные" tvg-id="724",Мир баскетбола
+https://rostishkatv.space/iptv/users/kitera/MirBasketbola.m3u8
+
+#EXTINF:-1 group-title="⚽️ Спортивные" tvg-id="727",Eurosport 1 [FHD]
+https://rostishkatv.space/iptv/users/kitera/Eurosport1_FHD.m3u8
+
+#EXTINF:-1 group-title="⚽️ Спортивные" tvg-id="728",Eurosport 2 [FHD]
+https://rostishkatv.space/iptv/users/kitera/Eurosport2_FHD.m3u8
+
+#EXTINF:0 group-title="⚽️ Спортивные" tvg-id="729",Окко Спорт [FHD] {50 fps}
+https://rostishkatv.space/iptv/users/kitera/OkkoSport_FHD_50fps.m3u8
+
+#EXTINF:-1 group-title="⚽️ Спортивные" tvg-id="542" tvg-rec="7",Окко Футбол [FHD]
+https://rostishkatv.space/iptv/users/kitera/Okko_Futbol_FHD.m3u8
+
+#EXTINF:-1 group-title="⚽️ Спортивные" tvg-id="553" tvg-rec="3",Окко Прайм Спорт [FHD]
+https://rostishkatv.space/iptv/users/kitera/Okko_Praym_Sport_FHD.m3u8
+
+#EXTINF:0 group-title="⚽️ Спортивные" tvg-id="731",Extreme Sports [FHD]
+https://rostishkatv.space/iptv/users/kitera/Extreme_Sports_FHD.m3u8
+
+#EXTINF:0 group-title="⚽️ Спортивные" tvg-id="noname" tvg-logo="https://epg.one/img2/8841.png",MMA TIME [FHD]
+https://rostishkatv.space/iptv/users/kitera/MMA_TIME_FHD.m3u8
+
+#EXTINF:-1 group-title="⚽️ Спортивные" tvg-id="733",Trace Sport Stars [FHD]
+https://rostishkatv.space/iptv/users/kitera/Trace_Sport_Stars_FHD.m3u8
+
+#EXTINF:-1 group-title="⚽️ Спортивные" tvg-id="noname" tvg-logo="http://1lot.tv/ch/10192.png" tvg-rec="1",TVPlay FOOTBALL WORLD CUPS [FHD]
+https://rostishkatv.space/iptv/users/kitera/TVPlay_FOOTBALL_WORLD_CUPS_FHD.m3u8
+
+#EXTINF:-1 group-title="⚽️ Спортивные" tvg-id="464" tvg-rec="1",CineMan Фитнес [FHD]
+https://rostishkatv.space/iptv/users/kitera/CineMan_Fitnes_FHD.m3u8
+
+#EXTINF:0 group-title="⚽️ Спортивные" tvg-id="noname" tvg-logo="https://iptvx.one/picons/box-beonedge1live.png",BOX Be On Edge Live 1 [FHD]
+https://rostishkatv.space/iptv/users/kitera/BOX_BeOnEdgeLive1_FHD.m3u8
+
+#EXTINF:0 group-title="⚽️ Спортивные" tvg-id="noname" tvg-logo="https://iptvx.one/picons/box-beonedge2live.png",BOX Be On Edge Live 2 [FHD]
+https://rostishkatv.space/iptv/users/kitera/BOX_BeOnEdgeLive2_FHD.m3u8
+
+#EXTINF:-1 group-title="⚽️ Спортивные" tvg-id="noname" tvg-logo="https://iptvx.one/picons/box-beonedge3live.png" tvg-rec="1",BOX Be On EDGE Live 3 [FHD]
+https://rostishkatv.space/iptv/users/kitera/BOX_Be_On_EDGE_Live_3_FHD.m3u8
+
+#EXTINF:0 group-title="⚽️ Спортивные" tvg-id="748",BOX Be On Edge [FHD]
+https://rostishkatv.space/iptv/users/kitera/BOX_BeOnEdge_FHD.m3u8
+
+#EXTINF:0 group-title="⚽️ Спортивные" tvg-id="450",BOX Sport Cast [FHD]
+https://rostishkatv.space/iptv/users/kitera/BOX_Sport_Cast_FHD.m3u8
+
+#EXTINF:0 group-title="⚽️ Спортивные" tvg-id="749",BOX Sport Cast 1 Live [FHD]
+https://rostishkatv.space/iptv/users/kitera/BOX_SportCast1Live_FHD.m3u8
+
+#EXTINF:0 group-title="⚽️ Спортивные" tvg-id="750",BOX Sport Cast 2 Live [FHD]
+https://rostishkatv.space/iptv/users/kitera/BOX_SportCast2Live_FHD.m3u8
+
+#EXTINF:0 group-title="⚽️ Спортивные" tvg-id="751",BOX Sport Cast 3 Live [FHD]
+https://rostishkatv.space/iptv/users/kitera/BOX_SportCast3Live_FHD.m3u8
+
+#EXTINF:0 group-title="⚽️ Спортивные" tvg-id="752",BOX Sport Cast 4 Live [FHD]
+https://rostishkatv.space/iptv/users/kitera/BOX_SportCast4Live_FHD.m3u8
+
+#EXTINF:0 group-title="⚽️ Спортивные" tvg-id="753",BOX Sport Cast 5 Live [FHD]
+https://rostishkatv.space/iptv/users/kitera/BOX_SportCast5Live_FHD.m3u8
+
+#EXTINF:0 group-title="⚽️ Спортивные" tvg-id="754",BOX Sport Cast 6 Live [FHD]
+https://rostishkatv.space/iptv/users/kitera/BOX_SportCast6Live_FHD.m3u8
+
+#EXTINF:0 group-title="⚽️ Спортивные" tvg-id="755",BOX Sport Cast 7 Live [FHD]
+https://rostishkatv.space/iptv/users/kitera/BOX_SportCast7Live_FHD.m3u8
+
+#EXTINF:-1 group-title="⚽️ Спортивные" tvg-id="noname" tvg-logo="https://iptvx.one/picons/box-sportcast-live8.png" tvg-rec="1",BOX Sport Cast 8 Live [FHD]
+https://rostishkatv.space/iptv/users/kitera/BOX_Sport_Cast_8_Live_FHD.m3u8
+
+#EXTINF:-1 group-title="⚽️ Спортивные" tvg-id="noname" tvg-logo="https://iptvx.one/picons/box-sportcast-live9.png" tvg-rec="1",BOX Sport Cast 9 Live [FHD]
+https://rostishkatv.space/iptv/users/kitera/BOX_Sport_Cast_9_Live_FHD.m3u8
+
+#EXTINF:0 group-title="⚽️ Спортивные" tvg-id="756",SKY HIGH Fight [FHD] {50 fps}
+https://rostishkatv.space/iptv/users/kitera/SKYHIGH_FightFHD50Fps.m3u8
+
+#EXTINF:0 group-title="⚽️ Спортивные" tvg-id="noname" tvg-logo="https://epg.one/img2/7539.png",ViP Sport 1 [FHD] 
+https://rostishkatv.space/iptv/users/kitera/ViP_Sport_1_FHD.m3u8
+
+#EXTINF:0 group-title="⚽️ Спортивные" tvg-id="noname" tvg-logo="https://epg.one/img2/7540.png",ViP Sport 2 [FHD] 
+https://rostishkatv.space/iptv/users/kitera/ViP_Sport_2_FHD.m3u8
+
+#EXTINF:0 group-title="⚽️ Спортивные" tvg-id="noname" tvg-logo="https://epg.one/img2/7541.png",ViP Sport 3 [FHD] 
+https://rostishkatv.space/iptv/users/kitera/ViP_Sport_3_FHD.m3u8
+
+#EXTINF:0 group-title="⚽️ Спортивные" tvg-id="noname" tvg-logo="https://epg.one/img2/7542.png",ViP Sport 4 [FHD] 
+https://rostishkatv.space/iptv/users/kitera/ViP_Sport_4_FHD.m3u8
+
+#EXTINF:0 group-title="⚽️ Спортивные" tvg-id="noname" tvg-logo="https://epg.one/img2/7543.png",ViP Sport 5 [FHD] 
+https://rostishkatv.space/iptv/users/kitera/ViP_Sport_5_FHD.m3u8
+
+#EXTINF:0 group-title="⚽️ Спортивные" tvg-id="noname" tvg-logo="https://epg.one/img2/7544.png",ViP Sport 6 [FHD] 
+https://rostishkatv.space/iptv/users/kitera/ViP_Sport_6_FHD.m3u8
+
+#EXTINF:0 group-title="⚽️ Спортивные" tvg-id="noname" tvg-logo="https://epg.one/img2/7545.png",ViP Sport 7 [FHD] 
+https://rostishkatv.space/iptv/users/kitera/ViP_Sport_7_FHD.m3u8
+
+#EXTINF:0 group-title="⚽️ Спортивные" tvg-id="noname" tvg-logo="https://epg.one/img2/7546.png",ViP Sport 8 [FHD] 
+https://rostishkatv.space/iptv/users/kitera/ViP_Sport_8_FHD.m3u8
+
+#EXTINF:0 group-title="⚽️ Спортивные" tvg-id="noname" tvg-logo="https://epg.one/img2/7547.png",ViP Sport 9 [FHD] 
+https://rostishkatv.space/iptv/users/kitera/ViP_Sport_9_FHD.m3u8
+
+#EXTINF:0 group-title="⚽️ Спортивные" tvg-id="noname" tvg-logo="https://epg.one/img2/7548.png",ViP Sport 10 [FHD] 
+https://rostishkatv.space/iptv/users/kitera/ViP_Sport_10_FHD.m3u8
+
+#EXTINF:0 group-title="⚽️ Спортивные" tvg-id="noname" tvg-logo="https://epg.one/img2/7549.png",ViP Sport 11 [FHD] 
+https://rostishkatv.space/iptv/users/kitera/ViP_Sport_11_FHD.m3u8
+
+#EXTINF:0 group-title="⚽️ Спортивные" tvg-id="noname" tvg-logo="https://epg.one/img2/7550.png",ViP Sport 12 [FHD] 
+https://rostishkatv.space/iptv/users/kitera/ViP_Sport_12_FHD.m3u8
+
+#EXTINF:0 group-title="⚽️ Спортивные" tvg-id="noname" tvg-logo="https://epg.one/img2/8832.png",ViP Sport 13 [FHD]
+https://rostishkatv.space/iptv/users/kitera/ViP_Sport_13_FHD.m3u8
+
+#EXTINF:0 group-title="⚽️ Спортивные" tvg-id="noname" tvg-logo="https://epg.one/img2/7534.png",Pimple TV 1 [FHD]
+https://rostishkatv.space/iptv/users/kitera/PimpleTV_1_FHD.m3u8
+
+#EXTINF:0 group-title="⚽️ Спортивные" tvg-id="noname" tvg-logo="https://epg.one/img2/7535.png",Pimple TV 2 [FHD] {50 fps}
+https://rostishkatv.space/iptv/users/kitera/PimpleTV_2_FHD.m3u8
+
+#EXTINF:0 group-title="⚽️ Спортивные" tvg-id="noname" tvg-logo="https://epg.one/img2/7536.png",Pimple TV 3 [FHD] 
+https://rostishkatv.space/iptv/users/kitera/PimpleTV_3_FHD.m3u8
+
+#EXTINF:0 group-title="⚽️ Спортивные" tvg-id="noname" tvg-logo="https://epg.one/img2/7537.png",Pimple TV 4 [FHD] 
+https://rostishkatv.space/iptv/users/kitera/PimpleTV_4_FHD.m3u8
+
+#EXTINF:0 group-title="⚽️ Спортивные" tvg-id="noname" tvg-logo="https://epg.one/img2/7538.png",Pimple TV 5 [FHD] 
+https://rostishkatv.space/iptv/users/kitera/PimpleTV_5_FHD.m3u8
+
+#EXTINF:0 group-title="⚽️ Спортивные" tvg-id="noname" tvg-logo="https://epg.one/img2/8839.png",Pimple TV 6 [FHD]
+https://rostishkatv.space/iptv/users/kitera/PimpleTV_6_FHD.m3u8
+
+#EXTINF:0 group-title="⚽️ Спортивные" tvg-id="noname" tvg-logo="https://epg.one/img2/8982.png",Vital Sport 1 [FHD]
+https://rostishkatv.space/iptv/users/kitera/Vital_Sport_1_FHD.m3u8
+
+#EXTINF:0 group-title="⚽️ Спортивные" tvg-id="noname" tvg-logo="https://epg.one/img2/8983.png",Vital Sport 2 [FHD]
+https://rostishkatv.space/iptv/users/kitera/Vital_Sport_2_FHD.m3u8
+
+#EXTINF:0 group-title="⚽️ Спортивные" tvg-id="noname" tvg-logo="https://epg.one/img2/8984.png",Vital Sport 3 [FHD]
+https://rostishkatv.space/iptv/users/kitera/Vital_Sport_3_FHD.m3u8
+
+#EXTINF:0 group-title="⚽️ Спортивные" tvg-id="noname" tvg-logo="https://epg.one/img2/8985.png",Vital Sport 4 [FHD]
+https://rostishkatv.space/iptv/users/kitera/Vital_Sport_4_FHD.m3u8
+
+#EXTINF:0 group-title="⚽️ Спортивные" tvg-id="noname" tvg-logo="https://epg.one/img2/8986.png",Vital Sport 5 [FHD]
+https://rostishkatv.space/iptv/users/kitera/Vital_Sport_5_FHD.m3u8
+
+#EXTINF:0 group-title="⚽️ Спортивные" tvg-id="noname" tvg-logo="https://epg.one/img2/8987.png",Vital Sport 6 [FHD]
+https://rostishkatv.space/iptv/users/kitera/Vital_Sport_6_FHD.m3u8
+
+#EXTINF:0 group-title="⚽️ Спортивные" tvg-id="7496",Fint Ga 1 [FHD]
+https://rostishkatv.space/iptv/users/kitera/Fint_Ga_1_FHD.m3u8
+
+#EXTINF:0 group-title="⚽️ Спортивные" tvg-id="500",Fint Ga 2 [FHD]
+https://rostishkatv.space/iptv/users/kitera/Fint_Ga_2_FHD.m3u8
+
+#EXTINF:-1 group-title="⚽️ Спортивные" tvg-id="512",Fint Ga 3 [FHD]
+https://rostishkatv.space/iptv/users/kitera/Fint_Ga_3_FHD.m3u8
+
+#EXTINF:-1 group-title="⚽️ Спортивные" tvg-id="noname",Fint Ga 4 [FHD]
+https://rostishkatv.space/iptv/users/kitera/Fint_Ga_4_FHD.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="🎵 Музыкальные" tvg-id="787",Bridge TV
+https://rostishkatv.space/iptv/users/kitera/BridgeTV.m3u8
+
+#EXTINF:-1 group-title="🎵 Музыкальные" tvg-id="788",Bridge TV Русский хит {50 fps}
+https://rostishkatv.space/iptv/users/kitera/BridgeTV_RusHit_FHD.m3u8
+
+#EXTINF:-1 group-title="🎵 Музыкальные" tvg-id="789",Bridge TV Rock [FHD]
+https://rostishkatv.space/iptv/users/kitera/BridgeTV_Rock_FHD.m3u8
+
+#EXTINF:-1 group-title="🎵 Музыкальные" tvg-id="790",Bridge TV Шлягер
+https://rostishkatv.space/iptv/users/kitera/BridgeTV_Shlyager_FHD.m3u8
+
+#EXTINF:-1 group-title="🎵 Музыкальные" tvg-id="791",Bridge TV Classic
+https://rostishkatv.space/iptv/users/kitera/BridgeTV_Classic_FHD.m3u8
+
+#EXTINF:-1 group-title="🎵 Музыкальные" tvg-id="792",Bridge TV Deluxe [FHD]
+https://rostishkatv.space/iptv/users/kitera/BridgeTV_Deluxe_FHD.m3u8
+
+#EXTINF:-1 group-title="🎵 Музыкальные" tvg-id="793",Bridge TV Hits [FHD]
+https://rostishkatv.space/iptv/users/kitera/BridgeTV_Hits_FHD.m3u8
+
+#EXTINF:-1 group-title="🎵 Музыкальные" tvg-id="794",Russian MusicBox [FHD]
+https://rostishkatv.space/iptv/users/kitera/,Russian_MusicBox_FHD.m3u8
+
+#EXTINF:-1 group-title="🎵 Музыкальные" tvg-id="795",Bridge TV Фреш [FHD]
+https://rostishkatv.space/iptv/users/kitera/BridgeTV_FRESH_FHD.m3u8
+
+#EXTINF:-1 group-title="🎵 Музыкальные" tvg-id="796",MusicBox Gold
+https://rostishkatv.space/iptv/users/kitera/MusicBox_Gold.m3u8
+
+#EXTINF:-1  group-title="🎵 Музыкальные" tvg-id="797",Первый Музыкальный RU
+https://rostishkatv.space/iptv/users/kitera/OneMusicRU.m3u8
+
+#EXTINF:-1 group-title="🎵 Музыкальные" tvg-id="noname" tvg-logo="https://epg.one/img2/5365.png",Первый Музыкальный BY
+https://rostishkatv.space/iptv/users/kitera/OneMusic.m3u8
+
+#EXTINF:-1 group-title="🎵 Музыкальные" tvg-id="799",Cтрана FM [HD]
+https://rostishkatv.space/iptv/users/kitera/StranaFM_HD.m3u8
+
+#EXTINF:-1 group-title="🎵 Музыкальные" tvg-id="801",Radio Шансон ТВ [HD]
+https://rostishkatv.space/iptv/users/kitera/RadioShansonTV_HD.m3u8
+
+#EXTINF:-1 group-title="🎵 Музыкальные" tvg-id="802",RU.TV
+https://rostishkatv.space/iptv/users/kitera/RuTV.m3u8
+
+#EXTINF:-1 group-title="🎵 Музыкальные" tvg-id="802",RU.TV [HD]
+https://rostishkatv.space/iptv/users/kitera/RuTV_HD.m3u8
+
+#EXTINF:-1 group-title="🎵 Музыкальные" tvg-id="802",RU.TV [FHD]
+https://rostishkatv.space/iptv/users/kitera/RuTV_FHD.m3u8
+
+#EXTINF:-1 group-title="🎵 Музыкальные" tvg-id="804",ТНТ Music
+https://rostishkatv.space/iptv/users/kitera/TNT_Music.m3u8
+
+#EXTINF:-1 group-title="🎵 Музыкальные" tvg-id="804",ТНТ Music [FHD]
+https://rostishkatv.space/iptv/users/kitera/TNT_Music_FHD.m3u8
+
+#EXTINF:-1 group-title="🎵 Музыкальные" tvg-id="805",МузСоюз
+https://rostishkatv.space/iptv/users/kitera/MuzSoyz.m3u8
+
+#EXTINF:-1 group-title="🎵 Музыкальные" tvg-id="806",Музыка первого [FHD]
+https://rostishkatv.space/iptv/users/kitera/MusicOne.m3u8
+
+#EXTINF:-1 group-title="🎵 Музыкальные" tvg-id="noname" tvg-logo="https://epg.one/img2/5375.png",Новое Радио ТВ [FHD]
+https://rostishkatv.space/iptv/users/kitera/NewRadio_FHD.m3u8
+
+#EXTINF:-1 group-title="🎵 Музыкальные" tvg-logo="https://1gr.cz/fotky/bulvar/16/043/cl6/JVB62ee66_pres_web_jak_nas_naladite_1375816278.jpg" tvg-id="noname",Ocko Express
+https://rostishkatv.space/iptv/users/kitera/Ocko_Express.m3u8
+
+#EXTINF:-1 group-title="🎵 Музыкальные" tvg-logo="https://i.imgur.com/nrWNyLc.jpeg" tvg-id="noname",Ocko Gold
+https://rostishkatv.space/iptv/users/kitera/Ocko_Gold.m3u8
+
+#EXTINF:-1 group-title="🎵 Музыкальные" tvg-logo="https://logos-download.com/wp-content/uploads/2020/06/%C3%93%C4%8Dko_Logo.png" tvg-id="noname",Ocko
+https://rostishkatv.space/iptv/users/kitera/Ocko.m3u8
+
+#EXTINF:-1 group-title="🎵 Музыкальные" tvg-logo="https://www.vibee.tv/wp-content/uploads/2023/08/bitmap.png" tvg-id="noname",V2BEAT TV [HD]
+https://rostishkatv.space/iptv/users/kitera/V2BEAT_TV_HD.m3u8
+
+#EXTINF:-1 group-title="🎵 Музыкальные" tvg-id="noname" tvg-logo="https://epg.one/img2/7591.png" tvg-id="noname",NM Television
+https://rostishkatv.space/iptv/users/kitera/NM_Television.m3u8
+
+#EXTINF:-1 group-title="🎵 Музыкальные" tvg-id="noname" tvg-logo="https://epg.one/img2/6266.png",Музыка 1 International
+https://rostishkatv.space/iptv/users/kitera/Music1Int.m3u8
+
+#EXTINF:-1 group-title="🎵 Музыкальные" tvg-id="noname" tvg-logo="https://epg.one/img2/6268.png",Музыка 2 International
+https://rostishkatv.space/iptv/users/kitera/Music2Int.m3u8
+
+#EXTINF:-1 group-title="🎵 Музыкальные" tvg-id="noname" tvg-rec="1",Dance Techno TV
+https://rostishkatv.space/iptv/users/kitera/Dance_Techno_TV.m3u8
+
+#EXTINF:-1 group-title="🎵 Музыкальные" tvg-id="noname" tvg-rec="1",Tele 7 Music
+https://rostishkatv.space/iptv/users/kitera/Tele_7_Music.m3u8
+
+#EXTINF:-1 group-title="🎵 Музыкальные" tvg-id="noname" tvg-rec="1",Impact TV Dance [FHD]
+https://rostishkatv.space/iptv/users/kitera/Impact_TV_Dance_FHD.m3u8
+
+#EXTINF:0 group-title="🎵 Музыкальные" tvg-id="818",VF Легенды Ретро FM [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_LegendyRetroFM_FHD.m3u8
+
+#EXTINF:0 group-title="🎵 Музыкальные" tvg-id="819",VF Music [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_Music_FHD.m3u8
+
+#EXTINF:0 group-title="🎵 Музыкальные" tvg-id="820",VF Музыка [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_Muzyka_FHD.m3u8
+
+#EXTINF:0 group-title="🎵 Музыкальные" tvg-id="821",VF Привет из 90х [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_Privetiz90h_FHD.m3u8
+
+#EXTINF:0 group-title="🎵 Музыкальные" tvg-id="822",VF Шансон [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_SHanson_FHD.m3u8
+
+#EXTINF:0 group-title="🎵 Музыкальные" tvg-id="823",VF Караоке [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_Karaoke_FHD.m3u8
+
+#EXTINF:0 group-title="🎵 Музыкальные" tvg-id="824",VF Музсоюз [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_Muzsouz_FHD.m3u8
+
+#EXTINF:0 group-title="🎵 Музыкальные" tvg-id="825",VF Rock [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_Rock_FHD.m3u8
+
+#EXTINF:0 group-title="🎵 Музыкальные" tvg-id="826",VF Metal [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_Metal_FHD.m3u8
+
+#EXTINF:0 group-title="🎵 Музыкальные" tvg-id="noname" tvg-logo="https://epg.one/img2/6171.png",VF Русский рок [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_RusskiyRok_FHD.m3u8
+
+#EXTINF:0 group-title="🎵 Музыкальные" tvg-id="noname" tvg-logo="https://epg.one/img2/6169.png",VF Rap [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_Rap_FHD.m3u8
+
+#EXTINF:0 group-title="🎵 Музыкальные" tvg-id="noname" tvg-logo="https://epg.one/img2/6170.png",VF Хит-парад [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_Hitparad_FHD.m3u8
+
+#EXTINF:0 group-title="🎵 Музыкальные" tvg-id="831",VF Modern Talking [HD]
+https://rostishkatv.space/iptv/users/kitera/VF_ModernTalking_HD.m3u8
+
+#EXTINF:0 group-title="🎵 Музыкальные" tvg-id="noname" tvg-logo="https://epg.one/img2/7553.png",VF Britney Spears [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_BritneySpears_FHD.m3u8
+
+#EXTINF:0 group-title="🎵 Музыкальные" tvg-id="361",VF Король и Шут [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_Korol_I_SHut_FHD.m3u8
+
+#EXTINF:0 group-title="🎵 Музыкальные" tvg-id="365",VF Michael Jackson [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_Michael_Jackson_FHD.m3u8
+
+#EXTINF:0 group-title="🎵 Музыкальные" tvg-id="noname" tvg-logo="https://epg.one/img2/7887.png",BOX Rurap [FHD]
+https://rostishkatv.space/iptv/users/kitera/BOX_Rurap_FHD.m3u8
+
+#EXTINF:0 group-title="🎵 Музыкальные" tvg-id="834",MM Квартирник [FHD]
+https://rostishkatv.space/iptv/users/kitera/MM_Kvartirnik_FHD.m3u8
+
+#EXTINF:0 group-title="🎵 Музыкальные" tvg-id="835",MM Rock [FHD]
+https://rostishkatv.space/iptv/users/kitera/MM_Rock_FHD.m3u8
+
+#EXTINF:0 group-title="🎵 Музыкальные" tvg-id="836",MM World Hits [FHD]
+https://rostishkatv.space/iptv/users/kitera/MM_WorldHits_FHD.m3u8
+
+#EXTINF:0 group-title="🎵 Музыкальные" tvg-id="837",Yosso TV Music Hits [FHD]
+https://rostishkatv.space/iptv/users/kitera/YossoTV_MusicHits_FHD.m3u8
+
+#EXTINF:-1 group-title="🎵 Музыкальные" tvg-id="74" tvg-rec="1",Yosso TV Шансон [FHD]
+https://rostishkatv.space/iptv/users/kitera/Yosso_TV_SHanson.m3u8
+
+#EXTINF:0 group-title="🎵 Музыкальные" tvg-id="noname" tvg-logo="https://epg.one/img2/6726.png",SKY HIGH Lo-Fi [FHD]
+https://rostishkatv.space/iptv/users/kitera/SKYHIGH_LoFi_FHD.m3u8
+
+#EXTINF:0 group-title="🎵 Музыкальные" tvg-id="845",SKY HIGH Concert [FHD] {50 fps}
+https://rostishkatv.space/iptv/users/kitera/SKYHIGH_ConcertFHD50Fps.m3u8
+
+#EXTINF:0 group-title="🎵 Музыкальные" tvg-id="846",SKY HIGH Dance [FHD]
+https://rostishkatv.space/iptv/users/kitera/SKYHIGH_Dance_FHD.m3u8
+
+#EXTINF:0 group-title="🎵 Музыкальные" tvg-id="noname",SKY HIGH Classic [FHD]
+https://rostishkatv.space/iptv/users/kitera/SKYHIGH_Classic_FHD.m3u8
+
+#EXTINF:0 group-title="🎵 Музыкальные" tvg-id="noname" tvg-logo="https://epg.one/img2/5290.png",Z! Musiс [FHD]
+https://rostishkatv.space/iptv/users/kitera/Z_Musis_FHD.m3u8
+
+#EXTINF:0 group-title="🎵 Музыкальные" tvg-id="noname" tvg-logo="https://epg.one/img2/5291.png",Z! Rock [FHD]
+https://rostishkatv.space/iptv/users/kitera/Z_Rock_FHD.m3u8
+
+#EXTINF:-1 group-title="🎵 Музыкальные" tvg-id="noname" tvg-logo="http://1lot.tv/ch/9236.png" tvg-rec="1",TVPlay Русский Рок [FHD]
+https://rostishkatv.space/iptv/users/kitera/TVPlay_Russkiy_Rok_FHD.m3u8
+
+#EXTINF:0 group-title="🎵 Музыкальные" tvg-id="851",VB Русская Попса 80х-90х [HD]
+https://rostishkatv.space/iptv/users/kitera/VB_RusskayaPopsa80h90h_HD.m3u8
+
+#EXTINF:0 group-title="🎵 Музыкальные" tvg-id="852",VB Russian Dance Hits of 90s [HD]
+https://rostishkatv.space/iptv/users/kitera/VB_RussianDanceHitsOf90s_HD.m3u8
+
+#EXTINF:0 group-title="🎵 Музыкальные" tvg-id="853",VB Best Live Performances [HD]
+https://rostishkatv.space/iptv/users/kitera/VB_BestLivePerformances_HD.m3u8
+
+#EXTINF:0 group-title="🎵 Музыкальные" tvg-id="854",VB Romantic and Ballads [HD]
+https://rostishkatv.space/iptv/users/kitera/VB_RomanticandBallads_HD.m3u8
+
+#EXTINF:0 group-title="🎵 Музыкальные" tvg-id="855",VB Modern Talking and Co [HD]
+https://rostishkatv.space/iptv/users/kitera/VB_ModernTalkingandCo_HD.m3u8
+
+#EXTINF:0 group-title="🎵 Музыкальные" tvg-id="noname" tvg-logo="https://epg.one/img2/7176.png",VB Eurodance Hits 90s [HD]
+https://rostishkatv.space/iptv/users/kitera/VB_EurodanceHits90s_HD.m3u8
+
+#EXTINF:0 group-title="🎵 Музыкальные" tvg-id="noname" tvg-logo="https://epg.one/img2/7888.png",VB MTV Old Россия [HD]
+https://rostishkatv.space/iptv/users/kitera/VB_MTVOldRossiya_HD.m3u8
+
+#EXTINF:0 group-title="🎵 Музыкальные" tvg-id="noname" tvg-logo="https://epg.one/img2/8805.png",VB Greatest Hits [HD]
+https://rostishkatv.space/iptv/users/kitera/VB_GreatestHits_HD.m3u8
+
+#EXTINF:0 group-title="🎵 Музыкальные" tvg-id="noname" tvg-logo="https://epg.one/img2/8806.png",VB Yo! MTV HD [HD]
+https://rostishkatv.space/iptv/users/kitera/VB_YoMTV_HD_HD.m3u8
+
+#EXTINF:0 group-title="🎵 Музыкальные" tvg-id="860",TOP 80 S [FHD]
+https://rostishkatv.space/iptv/users/kitera/TOP_80_S_FHD.m3u8
+
+#EXTINF:0 group-title="🎵 Музыкальные" tvg-id="364",BOX Metall [FHD]
+https://rostishkatv.space/iptv/users/kitera/BOX_Metall_FHD.m3u8
+
+#EXTINF:-1 group-title="🎵 Музыкальные" tvg-id="noname" tvg-logo="http://1lot.tv/ch/9515.png" tvg-rec="1",Liberty DJ [FHD]
+https://rostishkatv.space/iptv/users/kitera/Liberty_DJ_FHD.m3u8
+
+#EXTINF:-1 group-title="🎵 Музыкальные" tvg-id="noname" tvg-logo="http://1lot.tv/ch/9516.png" tvg-rec="1",Liberty Музыка Микс [FHD]
+https://rostishkatv.space/iptv/users/kitera/Liberty_Muzyka_Miks_FHD.m3u8
+
+#EXTINF:-1 group-title="🎵 Музыкальные" tvg-id="noname" tvg-logo="http://1lot.tv/ch/9517.png" tvg-rec="1",Liberty Рок [FHD]
+https://rostishkatv.space/iptv/users/kitera/Liberty_Rok_FHD.m3u8
+
+#EXTINF:-1 group-title="🎵 Музыкальные" tvg-id="noname" tvg-logo="http://1lot.tv/ch/9518.png" tvg-rec="1",Liberty Джаз [FHD]
+https://rostishkatv.space/iptv/users/kitera/Liberty_Dzhaz_FHD.m3u8
+
+#EXTINF:-1 group-title="🎵 Музыкальные" tvg-id="noname" tvg-logo="http://1lot.tv/ch/9519.png" tvg-rec="1",Liberty К-Поп [FHD]
+https://rostishkatv.space/iptv/users/kitera/Liberty_KPop_FHD.m3u8
+
+#EXTINF:-1 group-title="🎵 Музыкальные" tvg-id="noname" tvg-logo="http://1lot.tv/ch/9520.png",Liberty Хип-Хоп [FHD]
+https://rostishkatv.space/iptv/users/kitera/Liberty_HipHop_FHD.m3u8
+
+#EXTINF:-1 group-title="🎵 Музыкальные" tvg-id="noname" tvg-logo="http://1lot.tv/ch/9521.png" tvg-rec="1",Liberty Хиты 90-х [FHD]
+https://rostishkatv.space/iptv/users/kitera/Liberty_Hity_90h_FHD.m3u8
+
+#EXTINF:-1 group-title="🎵 Музыкальные" tvg-id="noname" tvg-logo="http://1lot.tv/ch/9522.png" tvg-rec="1",Liberty Поп-музыка [FHD]
+https://rostishkatv.space/iptv/users/kitera/Liberty_Popmuzyka_FHD.m3u8
+
+#EXTINF:-1 group-title="🎵 Музыкальные" tvg-id="noname" tvg-logo="http://1lot.tv/ch/9523.png",Liberty Латино [FHD]
+https://rostishkatv.space/iptv/users/kitera/Liberty_Latino_FHD.m3u8
+
+#EXTINF:-1 group-title="🎵 Музыкальные" tvg-id="noname" tvg-logo="http://1lot.tv/ch/9524.png" tvg-rec="1",Liberty Инди [FHD]
+https://rostishkatv.space/iptv/users/kitera/Liberty_Indi_FHD.m3u8
+
+
+
+
+#EXTINF:-1 group-title="👾 Развлекательные" tvg-id="861",Суббота!
+https://rostishkatv.space/iptv/users/kitera/Subbota_HD.m3u8
+
+#EXTINF:-1 group-title="👾 Развлекательные" tvg-id="861",Суббота! [FHD]
+https://rostishkatv.space/iptv/users/kitera/Subbota_FHD.m3u8
+
+#EXTINF:-1 group-title="👾 Развлекательные" tvg-id="862",Суббота (+2)
+https://rostishkatv.space/iptv/users/kitera/Subbota_plus2.m3u8
+
+#EXTINF:-1 group-title="👾 Развлекательные" tvg-id="863",Суббота (+4)
+https://rostishkatv.space/iptv/users/kitera/Subbota_plus4.m3u8
+
+#EXTINF:-1 group-title="👾 Развлекательные" tvg-id="864",Суббота (+7)
+https://rostishkatv.space/iptv/users/kitera/Subbota_plus7.m3u8
+
+#EXTINF:-1 group-title="👾 Развлекательные" tvg-id="865",Че
+https://rostishkatv.space/iptv/users/kitera/Che.m3u8
+
+#EXTINF:-1 group-title="👾 Развлекательные" tvg-id="866",Че (+2)
+https://rostishkatv.space/iptv/users/kitera/Che_plus2.m3u8
+
+#EXTINF:-1 group-title="👾 Развлекательные" tvg-id="867",Че (+4)
+https://rostishkatv.space/iptv/users/kitera/Che_plus4.m3u8
+
+#EXTINF:-1 group-title="👾 Развлекательные" tvg-id="868",Че (+7)
+https://rostishkatv.space/iptv/users/kitera/Che_plus7.m3u8
+
+#EXTINF:-1 group-title="👾 Развлекательные" tvg-id="869",Ю
+https://rostishkatv.space/iptv/users/kitera/YU.m3u8
+
+#EXTINF:-1 group-title="👾 Развлекательные" tvg-id="870",Ю (+2)
+https://rostishkatv.space/iptv/users/kitera/YU_plus2.m3u8
+
+#EXTINF:-1 group-title="👾 Развлекательные" tvg-id="871",Ю (+4)
+https://rostishkatv.space/iptv/users/kitera/YU_plus4.m3u8
+
+#EXTINF:-1 group-title="👾 Развлекательные" tvg-id="872",Ю (+7)
+https://rostishkatv.space/iptv/users/kitera/YU_plus7.m3u8
+
+#EXTINF:-1 group-title="👾 Развлекательные" tvg-id="873",ТНТ4
+https://rostishkatv.space/iptv/users/kitera/TNT4_HD.m3u8
+
+#EXTINF:-1 group-title="👾 Развлекательные" tvg-id="873",ТНТ4 [FHD]
+https://rostishkatv.space/iptv/users/kitera/TNT4_FHD.m3u8
+
+#EXTINF:-1 group-title="👾 Развлекательные" tvg-id="874",ТНТ4 (+2)
+https://rostishkatv.space/iptv/users/kitera/TNT4_plus2.m3u8
+
+#EXTINF:-1 group-title="👾 Развлекательные" tvg-id="875",ТНТ4 (+4)
+https://rostishkatv.space/iptv/users/kitera/TNT4_plus4.m3u8
+
+#EXTINF:-1 group-title="👾 Развлекательные" tvg-id="876",ТНТ4 (+7)
+https://rostishkatv.space/iptv/users/kitera/TNT4_plus7.m3u8
+
+#EXTINF:-1 group-title="👾 Развлекательные" tvg-id="877",Солнце
+https://rostishkatv.space/iptv/users/kitera/Solnce.m3u8
+
+#EXTINF:-1 group-title="👾 Развлекательные" tvg-id="878",Солнце (+2)
+https://rostishkatv.space/iptv/users/kitera/Solnce_plus2.m3u8
+
+#EXTINF:-1 group-title="👾 Развлекательные" tvg-id="879",Солнце (+4)
+https://rostishkatv.space/iptv/users/kitera/Solnce_plus4.m3u8
+
+#EXTINF:-1 group-title="👾 Развлекательные" tvg-id="noname",Солнце (+7)
+https://rostishkatv.space/iptv/users/kitera/Solnce_plus7.m3u8
+
+#EXTINF:-1 group-title="👾 Развлекательные" tvg-id="noname" tvg-logo="https://iptvx.one/picons/8kanal-ru.png",8 Канал
+https://rostishkatv.space/iptv/users/kitera/8kanal.m3u8
+
+#EXTINF:-1 group-title="👾 Развлекательные" tvg-id="noname" tvg-logo="https://epg.one/img2/1676.png",E TV [FHD]
+https://rostishkatv.space/iptv/users/kitera/eTV_FHD.m3u8
+
+#EXTINF:-1 group-title="👾 Развлекательные" tvg-id="882",Красная линия
+https://rostishkatv.space/iptv/users/kitera/RedLine.m3u8
+
+#EXTINF:-1 group-title="👾 Развлекательные" tvg-id="883",Мужской
+https://rostishkatv.space/iptv/users/kitera/Muzskoy.m3u8
+
+#EXTINF:0 group-title="👾 Развлекательные" tvg-id="883",Мужской [FHD]
+https://rostishkatv.space/iptv/users/kitera/Muzhskoy_FHD.m3u8
+
+#EXTINF:-1 group-title="👾 Развлекательные" tvg-id="884",Ностальгия
+https://rostishkatv.space/iptv/users/kitera/Nostalgy.m3u8
+
+#EXTINF:-1 group-title="👾 Развлекательные" tvg-id="noname",7 TV
+https://rostishkatv.space/iptv/users/kitera/7TV.m3u8
+
+#EXTINF:-1 group-title="👾 Развлекательные" tvg-id="887",Анекдот ТВ
+https://rostishkatv.space/iptv/users/kitera/AnekdotTV.m3u8
+
+#EXTINF:-1 group-title="👾 Развлекательные" tvg-id="70",Твоё ТВ [FHD]
+https://rostishkatv.space/iptv/users/kitera/TvoeTV_FHD.m3u8
+
+#EXTINF:-1 group-title="👾 Развлекательные" tvg-id="888",Твоё ТВ Юмор [FHD]
+https://rostishkatv.space/iptv/users/kitera/TvoeTV_Humor_FHD.m3u8
+
+#EXTINF:-1 group-title="👾 Развлекательные" tvg-id="890",CGTN-Русский
+https://rostishkatv.space/iptv/users/kitera/CGTN_Rus.m3u8
+
+#EXTINF:-1 group-title="👾 Развлекательные" tvg-id="891",Танцуй!
+https://rostishkatv.space/iptv/users/kitera/Tancuy.m3u8
+
+#EXTINF:-1 group-title="👾 Развлекательные" tvg-id="892",Лапки.LIVE
+https://rostishkatv.space/iptv/users/kitera/Lapki_LIVE.m3u8
+
+#EXTINF:0 group-title="👾 Развлекательные" tvg-id="892",Лапки.LIVE [FHD]
+https://rostishkatv.space/iptv/users/kitera/LapkiLIVE_FHD.m3u8
+
+#EXTINF:-1 group-title="👾 Развлекательные" tvg-id="893",Зал Суда [FHD]
+https://rostishkatv.space/iptv/users/kitera/Zal_Suda.m3u8
+
+#EXTINF:-1 group-title="👾 Развлекательные" tvg-id="894" tvg-logo="https://rostishkatv.space/images/logos_channels/tricolor-zal10.png",Триколор.Зал 10
+https://rostishkatv.space/iptv/users/kitera/Tricolor_Zal10.m3u8
+
+#EXTINF:0 group-title="👾 Развлекательные" tvg-id="895",VF Юмор 18+ [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_Umor18_FHD.m3u8
+
+#EXTINF:0 group-title="👾 Развлекательные" tvg-id="896",VF Comedy Woman [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_ComedyWoman_FHD.m3u8
+
+#EXTINF:0 group-title="👾 Развлекательные" tvg-id="897",VF Городок [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_Gorodok_FHD.m3u8
+
+#EXTINF:0 group-title="👾 Развлекательные" tvg-id="898",VF КВН [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_KVN_FHD.m3u8
+
+#EXTINF:0 group-title="👾 Развлекательные" tvg-id="noname" tvg-logo="https://epg.one/img2/7663.png",VF Концерты [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_Koncerty_FHD.m3u8
+
+#EXTINF:0 group-title="👾 Развлекательные"  tvg-id="900",VF Уральские пельмени [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_UralskiePelmeni_FHD.m3u8
+
+#EXTINF:0 group-title="👾 Развлекательные" tvg-id="901",VF Маски Шоу [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_Maski_SHou_FHD.m3u8
+
+#EXTINF:0 group-title="👾 Развлекательные" tvg-id="noname" tvg-logo="https://epg.one/img2/9233.png",VF Каламбур [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_Kalambur_FHD.m3u8
+
+#EXTINF:0 group-title="👾 Развлекательные" tvg-id="454",VF Орел и решка [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_Orel_I_Reshka_FHD.m3u8
+
+#EXTINF:0 group-title="👾 Развлекательные" tvg-id="903",BOX Game [FHD]
+https://rostishkatv.space/iptv/users/kitera/BOX_Game_FHD.m3u8
+
+#EXTINF:0 group-title="👾 Развлекательные" tvg-id="905",SKY HIGH StanDup [FHD]
+https://rostishkatv.space/iptv/users/kitera/SKYHIGH_StanDup_FHD.m3u8
+
+#EXTINF:0 group-title="👾 Развлекательные" tvg-id="906",SKY HIGH Man [FHD]
+https://rostishkatv.space/iptv/users/kitera/SKYHIGH_Man_FHD.m3u8
+
+#EXTINF:0 group-title="👾 Развлекательные" tvg-id="noname" tvg-logo="https://epg.one/img2/6181.png",Liberty Шоу [FHD]
+https://rostishkatv.space/iptv/users/kitera/Liberty_SHou_FHD.m3u8
+
+#EXTINF:-1 group-title="👾 Развлекательные" tvg-id="noname" tvg-logo="http://1lot.tv/ch/9225.png" tvg-rec="1",TVPlay 6 Кадров [FHD]
+https://rostishkatv.space/iptv/users/kitera/TVPlay_6_Kadrov_FHD.m3u8
+
+#EXTINF:-1 group-title="👾 Развлекательные" tvg-id="noname" tvg-logo="http://1lot.tv/ch/9382.png" tvg-rec="1",TVPlay GameZone [FHD]
+https://rostishkatv.space/iptv/users/kitera/TVPlay_GameZone_FHD.m3u8
+
+#EXTINF:-1 group-title="👾 Развлекательные" tvg-id="noname" tvg-logo="http://1lot.tv/ch/9229.png" tvg-rec="1",TVPlay Большая Разница [FHD]
+https://rostishkatv.space/iptv/users/kitera/TVPlay_Bolshaya_Raznica_FHD.m3u8
+
+#EXTINF:-1 group-title="👾 Развлекательные" tvg-id="noname" tvg-logo="http://1lot.tv/ch/9228.png" tvg-rec="1",TVPlay Городок [HD+]
+https://rostishkatv.space/iptv/users/kitera/TVPlay_Gorodok_HDPLUS.m3u8
+
+#EXTINF:-1 group-title="👾 Развлекательные" tvg-id="noname" tvg-logo="http://1lot.tv/ch/9152.png" tvg-rec="1",TVPlay Маски Шоу [FHD]
+https://rostishkatv.space/iptv/users/kitera/TVPlay_Maski_SHou_FHD.m3u8
+
+#EXTINF:-1 group-title="👾 Развлекательные" tvg-id="noname" tvg-logo="http://1lot.tv/ch/9256.png" tvg-rec="1",TVPlay Своя игра [FHD]
+https://rostishkatv.space/iptv/users/kitera/TVPlay_Svoya_Igra_FHD.m3u8
+
+#EXTINF:-1 group-title="👾 Развлекательные" tvg-id="noname" tvg-logo="http://1lot.tv/ch/9810.png" tvg-rec="1",TVPlay Следствие вели [FHD]
+https://rostishkatv.space/iptv/users/kitera/TVPlay_Sledstvie_veli_FHD.m3u8
+
+#EXTINF:0 group-title="👾 Развлекательные" tvg-id="915",VB ОСП-Cтудия [HD]
+https://rostishkatv.space/iptv/users/kitera/VB_OSPCtudiya_HD.m3u8
+
+#EXTINF:0 group-title="👾 Развлекательные" tvg-id="916",VB Осторожно Модерн [HD]
+https://rostishkatv.space/iptv/users/kitera/VB_OstorozhnoModern_HD.m3u8
+
+#EXTINF:-1 group-title="👾 Развлекательные" tvg-id="493" tvg-rec="1",GL Голые и cмешные [FHD]
+https://rostishkatv.space/iptv/users/kitera/GL_Golye_I_Cmeshnye_FHD.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="🎓 Познавательные" tvg-id="917",Viju Explore
+https://rostishkatv.space/iptv/users/kitera/Viju_Explore.m3u8
+
+#EXTINF:-1 group-title="🎓 Познавательные" tvg-id="918",Viju Nature
+https://rostishkatv.space/iptv/users/kitera/Viju_Nature.m3u8
+
+#EXTINF:-1 group-title="🎓 Познавательные" tvg-id="919",Viju History
+https://rostishkatv.space/iptv/users/kitera/Viju_History.m3u8
+
+#EXTINF:-1 group-title="🎓 Познавательные" tvg-id="917",Viju Explore [FHD]
+https://rostishkatv.space/iptv/users/kitera/Viju_Explore_FHD.m3u8
+
+#EXTINF:-1 group-title="🎓 Познавательные" tvg-id="918",Viju Nature [FHD]
+https://rostishkatv.space/iptv/users/kitera/Viju_Nature_FHD.m3u8
+
+#EXTINF:-1 group-title="🎓 Познавательные" tvg-id="919",Viju History [FHD]
+https://rostishkatv.space/iptv/users/kitera/Viju_History_FHD.m3u8
+
+#EXTINF:0 group-title="🎓 Познавательные" tvg-id="921",Авто 24 [FHD]
+https://rostishkatv.space/iptv/users/kitera/Avto_24_FHD.m3u8
+
+#EXTINF:-1 group-title="🎓 Познавательные" tvg-id="922",Авто Плюс
+https://rostishkatv.space/iptv/users/kitera/AvtoPLUS.m3u8
+
+#EXTINF:-1 group-title="🎓 Познавательные" tvg-id="noname",TV BRICS [FHD]
+https://rostishkatv.space/iptv/users/kitera/TV_BRICS_FHD.m3u8
+
+#EXTINF:-1 group-title="🎓 Познавательные" tvg-id="923",Terra [FHD]
+https://rostishkatv.space/iptv/users/kitera/Terra_FHD.m3u8
+
+#EXTINF:-1 group-title="🎓 Познавательные" tvg-id="924",Загородная жизнь 
+https://rostishkatv.space/iptv/users/kitera/ZagorodnayaLife.m3u8
+
+#EXTINF:-1 group-title="🎓 Познавательные" tvg-id="925",Конный мир [FHD]
+https://rostishkatv.space/iptv/users/kitera/KonnyiMir_FHD.m3u8
+
+#EXTINF:-1 group-title="🎓 Познавательные" tvg-id="926",ТНВ Планета
+https://rostishkatv.space/iptv/users/kitera/TNV_Planeta.m3u8
+
+#EXTINF:-1 group-title="🎓 Познавательные" tvg-id="noname",Canal TV Motor [FHD]
+https://rostishkatv.space/iptv/users/kitera/CanalTV_Motor_FHD.m3u8
+
+#EXTINF:-1 group-title="🎓 Познавательные" tvg-id="927",Диалоги о рыбалке [FHD]
+https://rostishkatv.space/iptv/users/kitera/Dialogs_O_Fish_FHD.m3u8
+
+#EXTINF:-1 group-title="🎓 Познавательные" tvg-id="928",Надежда [HD]
+https://rostishkatv.space/iptv/users/kitera/Nadezda_HD.m3u8
+
+#EXTINF:-1 group-title="🎓 Познавательные" tvg-id="929",Galaxy
+https://rostishkatv.space/iptv/users/kitera/Galaxy.m3u8
+
+#EXTINF:-1 group-title="🎓 Познавательные" tvg-id="929",Galaxy [FHD]
+https://rostishkatv.space/iptv/users/kitera/Galaxy_FHD.m3u8
+
+#EXTINF:-1 group-title="🎓 Познавательные" tvg-id="930",Домашние животные
+https://rostishkatv.space/iptv/users/kitera/DomashnieZevotnye.m3u8
+
+#EXTINF:-1 group-title="🎓 Познавательные" tvg-id="933",Дикий
+https://rostishkatv.space/iptv/users/kitera/Dikiy.m3u8
+
+#EXTINF:-1 group-title="🎓 Познавательные" tvg-id="935",Оружие
+https://rostishkatv.space/iptv/users/kitera/Oruzie.m3u8
+
+#EXTINF:-1 group-title="🎓 Познавательные" tvg-id="936",Da Vinci
+https://rostishkatv.space/iptv/users/kitera/Da_Vinci.m3u8
+
+#EXTINF:-1 group-title="🎓 Познавательные" tvg-id="937",Большая азия
+https://rostishkatv.space/iptv/users/kitera/Big_Aziya.m3u8
+
+#EXTINF:-1 group-title="🎓 Познавательные" tvg-id="937",Большая Азия [HD]
+https://rostishkatv.space/iptv/users/kitera/BigAziya_HD.m3u8
+
+#EXTINF:-1 group-title="🎓 Познавательные" tvg-id="938",RTG HD [FHD]
+https://rostishkatv.space/iptv/users/kitera/RTG_FHD.m3u8
+
+#EXTINF:-1 group-title="🎓 Познавательные" tvg-id="940",Вопросы и Ответы
+https://rostishkatv.space/iptv/users/kitera/Voprosy_AND_Otvety.m3u8
+
+#EXTINF:-1 group-title="🎓 Познавательные" tvg-id="944",Наша Тема [FHD]
+https://rostishkatv.space/iptv/users/kitera/NashaTema_FHD.m3u8
+
+#EXTINF:-1 group-title="🎓 Познавательные" tvg-id="946",365 Дней ТВ
+https://rostishkatv.space/iptv/users/kitera/365daysTV.m3u8
+
+#EXTINF:-1 group-title="🎓 Познавательные" tvg-id="947",Психология 21
+https://rostishkatv.space/iptv/users/kitera/Psih21.m3u8
+
+#EXTINF:-1 group-title="🎓 Познавательные" tvg-id="950",ZooПарк
+https://rostishkatv.space/iptv/users/kitera/ZooPark.m3u8
+
+#EXTINF:-1 group-title="🎓 Познавательные" tvg-id="952",HDL [FHD]
+https://rostishkatv.space/iptv/users/kitera/HDL_FHD.m3u8
+
+#EXTINF:-1 group-title="🎓 Познавательные" tvg-id="953",Живи
+https://rostishkatv.space/iptv/users/kitera/Jivi.m3u8
+
+#EXTINF:-1 group-title="🎓 Познавательные" tvg-id="954",Живи Активно [FHD]
+https://rostishkatv.space/iptv/users/kitera/Jivi_Activno_FHD.m3u8
+
+#EXTINF:-1 group-title="🎓 Познавательные" tvg-id="noname",Кулинар ТВ
+https://rostishkatv.space/iptv/users/kitera/KulinarTV.m3u8
+
+#EXTINF:-1 group-title="🎓 Познавательные" tvg-id="961",Океан TV
+https://rostishkatv.space/iptv/users/kitera/OceanTV.m3u8
+
+#EXTINF:-1 group-title="🎓 Познавательные" tvg-id="963",Big Planet
+https://rostishkatv.space/iptv/users/kitera/Big_Planet.m3u8
+
+#EXTINF:0 group-title="🎓 Познавательные" tvg-id="963",Big Planet [FHD]
+https://rostishkatv.space/iptv/users/kitera/Big_Planet_FHD.m3u8
+
+#EXTINF:0 group-title="🎓 Познавательные" tvg-id="964",TLC [FHD]
+https://rostishkatv.space/iptv/users/kitera/TLC_FHD.m3u8
+
+#EXTINF:0 group-title="🎓 Познавательные" tvg-id="noname",HGTV [FHD]
+https://rostishkatv.space/iptv/users/kitera/HGTV_FHD.m3u8
+
+#EXTINF:-1 group-title="🎓 Познавательные" tvg-id="965",Еда
+https://rostishkatv.space/iptv/users/kitera/Eda.m3u8
+
+#EXTINF:0 group-title="🎓 Познавательные" tvg-id="noname",The Explorers [FHD]
+https://rostishkatv.space/iptv/users/kitera/THE_Explorers_FHD.m3u8
+
+#EXTINF:0 group-title="🎓 Познавательные" tvg-id="967",Поехали! [FHD]
+https://rostishkatv.space/iptv/users/kitera/Poehali_FHD.m3u8
+
+#EXTINF:0 group-title="🎓 Познавательные" tvg-id="968",Точка Отрыва [FHD]
+https://rostishkatv.space/iptv/users/kitera/Tochka_Otryva_FHD.m3u8
+
+#EXTINF:0 group-title="🎓 Познавательные" tvg-id="969",Museum TV [FHD]
+https://rostishkatv.space/iptv/users/kitera/Museum_TV_FHD.m3u8
+
+#EXTINF:0 group-title="🎓 Познавательные" tvg-id="970",Доктор [FHD]
+https://rostishkatv.space/iptv/users/kitera/Doktor_FHD.m3u8
+
+#EXTINF:-1 group-title="🎓 Познавательные" tvg-id="971",Curiosity Stream [FHD]
+https://rostishkatv.space/iptv/users/kitera/Curiosity_Stream_FHD.m3u8
+
+#EXTINF:-1 group-title="🎓 Познавательные" tvg-id="972",History [FHD]
+https://rostishkatv.space/iptv/users/kitera/History_FHD.m3u8
+
+#EXTINF:-1 group-title="🎓 Познавательные" tvg-id="973",History 2 [FHD]
+https://rostishkatv.space/iptv/users/kitera/History2_FHD.m3u8
+
+#EXTINF:-1 group-title="🎓 Познавательные" tvg-id="519" tvg-rec="1",Sea TV [FHD]
+https://rostishkatv.space/iptv/users/kitera/Sea_TV_FHD.m3u8
+
+#EXTINF:-1 group-title="🎓 Познавательные" tvg-id="29",Discovery Channel
+https://rostishkatv.space/iptv/users/kitera/Discovery_Channel.m3u8
+
+#EXTINF:-1 group-title="🎓 Познавательные" tvg-id="29",Discovery Channel [FHD]
+https://rostishkatv.space/iptv/users/kitera/Discovery_Channel_FHD.m3u8
+
+#EXTINF:0 group-title="🎓 Познавательные" tvg-id="524" tvg-rec="3",Investigation Discovery
+https://rostishkatv.space/iptv/users/kitera/Investigation_Discovery.m3u8
+
+#EXTINF:0 group-title="🎓 Познавательные" tvg-id="526" tvg-rec="3",Investigation Discovery [FHD]
+https://rostishkatv.space/iptv/users/kitera/Investigation_Discovery_FHD.m3u8
+
+#EXTINF:0 group-title="🎓 Познавательные" tvg-id="76" tvg-rec="3",Дикая рыбалка [FHD]
+https://rostishkatv.space/iptv/users/kitera/Dikaya_Rybalka_FHD.m3u8
+
+#EXTINF:0 group-title="🎓 Познавательные" tvg-id="974",VF Домашний повар [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_DomashniyPovar_FHD.m3u8
+
+#EXTINF:0 group-title="🎓 Познавательные" tvg-id="975",VF Путешествия [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_Puteshestviya_FHD.m3u8
+
+#EXTINF:0 group-title="🎓 Познавательные" tvg-id="noname" tvg-logo="https://epg.one/img2/6125.png",VF Стройка [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_Stroyka_FHD.m3u8
+
+#EXTINF:0 group-title="🎓 Познавательные" tvg-id="977",VF Рыбалка [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_Rybalka_FHD.m3u8
+
+#EXTINF:0 group-title="🎓 Познавательные" tvg-id="978",VF Баня [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_Banya_FHD.m3u8
+
+#EXTINF:0 group-title="🎓 Познавательные" tvg-id="979",VF Авто [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_Avto_FHD.m3u8
+
+#EXTINF:0 group-title="🎓 Познавательные" tvg-id="980",VF Охота [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_Ohota_FHD.m3u8
+
+#EXTINF:0 group-title="🎓 Познавательные" tvg-id="981",BOX Docu [FHD]
+https://rostishkatv.space/iptv/users/kitera/BOX_Docu_FHD.m3u8
+
+#EXTINF:0 group-title="🎓 Познавательные" tvg-id="982",BOX Stories [FHD]
+https://rostishkatv.space/iptv/users/kitera/BOX_Stories_FHD.m3u8
+
+#EXTINF:0 group-title="🎓 Познавательные" tvg-id="983",BOX Travel [FHD]
+https://rostishkatv.space/iptv/users/kitera/BOX_Travel_FHD.m3u8
+
+#EXTINF:0 group-title="🎓 Познавательные" tvg-id="984",BOX Mayday [FHD]
+https://rostishkatv.space/iptv/users/kitera/BOX_Mayday_FHD.m3u8
+
+#EXTINF:0 group-title="🎓 Познавательные" tvg-id="985",BOX Travel Premiere [FHD]
+https://rostishkatv.space/iptv/users/kitera/BOX_Travel_Premiere_FHD.m3u8
+
+#EXTINF:0 group-title="🎓 Познавательные"tvg-id="986",BOX Gurman [FHD]
+https://rostishkatv.space/iptv/users/kitera/BOX_Gurman_FHD.m3u8
+
+#EXTINF:0 group-title="🎓 Познавательные" tvg-id="987",BOX AutoTrend [FHD]
+https://rostishkatv.space/iptv/users/kitera/BOX_AutoTrend_FHD.m3u8
+
+#EXTINF:0 group-title="🎓 Познавательные" tvg-id="988",MM Live Planet [FHD]
+https://rostishkatv.space/iptv/users/kitera/MM_LivePlanet_FHD.m3u8
+
+#EXTINF:0 group-title="🎓 Познавательные" tvg-id="989",MM Мегамир [FHD]
+https://rostishkatv.space/iptv/users/kitera/MM_Megamir_FHD.m3u8
+
+#EXTINF:0 group-title="🎓 Познавательные" tvg-id="990",MM Experiment [FHD]
+https://rostishkatv.space/iptv/users/kitera/MM_Experiment_FHD.m3u8
+
+#EXTINF:0 group-title="🎓 Познавательные" tvg-id="991",MM Открытия [FHD]
+https://rostishkatv.space/iptv/users/kitera/MM_Otkrytiya_FHD.m3u8
+
+#EXTINF:0 group-title="🎓 Познавательные" tvg-id="noname" tvg-logo="https://epg.one/img2/5573.png",MM Relax [FHD]
+https://rostishkatv.space/iptv/users/kitera/MM_Relax_FHD.m3u8
+
+#EXTINF:0 group-title="🎓 Познавательные" tvg-id="993",MM Макромир [FHD]
+https://rostishkatv.space/iptv/users/kitera/MM_Makromir_FHD.m3u8
+
+#EXTINF:0 group-title="🎓 Познавательные" tvg-id="994",MM Микромир [FHD]
+https://rostishkatv.space/iptv/users/kitera/MM_Mikromir_FHD.m3u8
+
+#EXTINF:0 group-title="🎓 Познавательные" tvg-id="noname",SKY HIGH Brian [FHD]
+https://rostishkatv.space/iptv/users/kitera/SKYHIGH_Brian_FHD.m3u8
+
+#EXTINF:0 group-title="🎓 Познавательные" tvg-id="noname",SKY HIGH Doc [FHD]
+https://rostishkatv.space/iptv/users/kitera/SKYHIGH_Doc_FHD.m3u8
+
+#EXTINF:0 group-title="🎓 Познавательные" tvg-id="996",SKY HIGH Nature [FHD]
+https://rostishkatv.space/iptv/users/kitera/SKYHIGH_Nature_FHD.m3u8
+
+#EXTINF:0 group-title="🎓 Познавательные" tvg-id="997",Liberty BBC [FHD]
+https://rostishkatv.space/iptv/users/kitera/Liberty_BBC_FHD.m3u8
+
+#EXTINF:0 group-title="🎓 Познавательные" tvg-id="noname" tvg-logo="https://iptvx.one/picons/liberty-avtogir.png",Liberty Авто Гир [FHD]
+https://rostishkatv.space/iptv/users/kitera/Liberty_AvtoGir_FHD.m3u8
+
+#EXTINF:0 group-title="🎓 Познавательные" tvg-id="noname" tvg-logo="https://iptvx.one/picons/liberty-plan360.png",Liberty Планета360 [FHD]
+https://rostishkatv.space/iptv/users/kitera/Liberty_Planeta360_FHD.m3u8
+
+#EXTINF:0 group-title="🎓 Познавательные" tvg-id="noname" tvg-logo="https://epg.one/img2/6739.png",Liberty Наука [FHD]
+https://rostishkatv.space/iptv/users/kitera/Liberty_Nauka_FHD.m3u8
+
+#EXTINF:0 group-title="🎓 Познавательные" tvg-id="noname" tvg-logo="https://epg.one/img2/6213.png",Z! Travel [HD]
+https://rostishkatv.space/iptv/users/kitera/Z_Travel_HD.m3u8
+
+#EXTINF:0 group-title="🎓 Познавательные" tvg-id="noname" tvg-logo="https://epg.one/img2/8819.png",Z! History [HD]
+https://rostishkatv.space/iptv/users/kitera/Z_History_HD.m3u8
+
+#EXTINF:0 group-title="🎓 Познавательные" tvg-id="noname" tvg-logo="https://epg.one/img2/8820.png",Z! Military [HD]
+https://rostishkatv.space/iptv/users/kitera/Z_Military_HD.m3u8
+
+#EXTINF:0 group-title="🎓 Познавательные" tvg-id="noname" tvg-logo="https://epg.one/img2/8821.png",Z! Biography [HD]
+https://rostishkatv.space/iptv/users/kitera/Z_Biography_HD.m3u8
+
+#EXTINF:0 group-title="🎓 Познавательные"tvg-id="noname" tvg-logo="https://epg.one/img2/8822.png",Z! Science [HD]
+https://rostishkatv.space/iptv/users/kitera/Z_Science_HD.m3u8
+
+#EXTINF:-1 group-title="🎓 Познавательные" tvg-id="noname" tvg-logo="http://1lot.tv/ch/9811.png" tvg-rec="1",TVPlay Биографии [FHD]
+https://rostishkatv.space/iptv/users/kitera/TVPlay_Biografii_FHD.m3u8
+
+#EXTINF:-1 group-title="🎓 Познавательные" tvg-id="noname" tvg-logo="http://1lot.tv/ch/9230.png" tvg-rec="1",TVPlay Вкусный канал [FHD]
+https://rostishkatv.space/iptv/users/kitera/TVPlay_Vkusnyy_kanal_FHD.m3u8
+
+#EXTINF:-1 group-title="🎓 Познавательные" tvg-id="noname" tvg-logo="http://1lot.tv/ch/9219.png" tvg-rec="1",TVPlay Высоцкий [FHD]
+https://rostishkatv.space/iptv/users/kitera/TVPlay_Vysockiy_FHD.m3u8
+
+#EXTINF:-1 group-title="🎓 Познавательные" tvg-id="noname" tvg-logo="http://1lot.tv/ch/9231.png" tvg-rec="1",TVPlay Космический [FHD]
+https://rostishkatv.space/iptv/users/kitera/TVPlay_Vavilon_5_FHD.m3u8
+
+#EXTINF:0 group-title="🎓 Познавательные" tvg-id="1010",Yosso TV Food [FHD]
+https://rostishkatv.space/iptv/users/kitera/Yosso_TV_Food_FHD.m3u8
+
+#EXTINF:0 group-title="🎓 Познавательные" tvg-id="1011",Yosso TV Science [FHD]
+https://rostishkatv.space/iptv/users/kitera/Yosso_TV_Science_FHD.m3u8
+
+#EXTINF:0 group-title="🎓 Познавательные" tvg-id="1012",Yosso TV Nature [FHD]
+https://rostishkatv.space/iptv/users/kitera/Yosso_TV_Nature_FHD.m3u8
+
+#EXTINF:0 group-title="🎓 Познавательные" tvg-id="1013",Yosso TV Travel [FHD]
+https://rostishkatv.space/iptv/users/kitera/Yosso_TV_Travel_FHD.m3u8
+
+#EXTINF:-1 group-title="🎓 Познавательные" tvg-id="478" tvg-rec="1",CineMan Air Crash [FHD]
+https://rostishkatv.space/iptv/users/kitera/CineMan_Air_Crash_FHD.m3u8
+
+
+
+
+
+
+
+
+#EXTINF:0 group-title="🎧 Релакс" tvg-id="1014",BOX Lo-Fi [FHD]
+https://rostishkatv.space/iptv/users/kitera/BOX_LoFi_FHD.m3u8
+
+
+
+
+#EXTINF:0 group-title="🔞 Для взрослых" tvg-id="1015",VF Cartoon 18+ [FHD]
+https://rostishkatv.space/iptv/users/kitera/VF_Cartoon18_FHD.m3u8
+
+#EXTINF:0 group-title="🔞 Для взрослых" tvg-id="1016",Yosso TV Sexy [FHD]
+https://rostishkatv.space/iptv/users/kitera/YossoTV_Sexy_FHD.m3u8
+
+#EXTINF:0 group-title="🔞 Для взрослых" tvg-id="1017",SKY HIGH Adult [FHD]
+https://rostishkatv.space/iptv/users/kitera/SKYHIGH_Adult_FHD.m3u8
+
+#EXTINF:0 group-title="🔞 Для взрослых" tvg-id="noname" tvg-logo="https://iptvx.one/picons/liberty-erotika.png",Liberty Эротика [FHD]
+https://rostishkatv.space/iptv/users/kitera/Liberty_rotika_FHD.m3u8
+
+#EXTINF:0 group-title="🔞 Для взрослых" tvg-id="1019",Русская Ночь
+https://rostishkatv.space/iptv/users/kitera/Russkaya_Noch.m3u8
+
+#EXTINF:0 group-title="🔞 Для взрослых" tvg-id="1021",Кино 18+ [FHD]
+https://rostishkatv.space/iptv/users/kitera/Kino_18PLUS_FHD.m3u8
+
+#EXTINF:0 group-title="🔞 Для взрослых" tvg-id="1023",BCU Charm [FHD]
+https://rostishkatv.space/iptv/users/kitera/BCU_Charm_FHD.m3u8
+
+#EXTINF:0 group-title="🔞 Для взрослых" tvg-id="1025",CineMan ExExEx [FHD]
+https://rostishkatv.space/iptv/users/kitera/CineMan_ExExEx_FHD.m3u8
+
+#EXTINF:0 group-title="🔞 Для взрослых" tvg-id="1026",CineMan ExExEx TWO [FHD]
+https://rostishkatv.space/iptv/users/kitera/CineMan_ExExEx_TWO_FHD.m3u8
+
+#EXTINF:0 group-title="🔞 Для взрослых" tvg-id="noname" tvg-logo="https://rostishkatv.space/images/logos_channels/Z_ADULT.png",Z! Adult [HD]
+https://rostishkatv.space/iptv/users/kitera/Z_Adult_HD.m3u8
+
+
+
+
